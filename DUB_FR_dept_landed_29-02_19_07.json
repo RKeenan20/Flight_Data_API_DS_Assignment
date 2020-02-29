@@ -1,0 +1,4735 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 174
+    },
+    "data": [
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 69,
+                "scheduled": "2020-02-29T14:20:00+00:00",
+                "estimated": "2020-02-29T14:20:00+00:00",
+                "actual": "2020-02-29T15:29:00+00:00",
+                "estimated_runway": "2020-02-29T15:49:00+00:00",
+                "actual_runway": "2020-02-29T15:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Berlin-Schoenefeld",
+                "timezone": "Europe/Berlin",
+                "iata": "SXF",
+                "icao": "EDDB",
+                "terminal": "D",
+                "gate": "D",
+                "baggage": null,
+                "delay": 67,
+                "scheduled": "2020-02-29T17:40:00+00:00",
+                "estimated": "2020-02-29T17:40:00+00:00",
+                "actual": "2020-02-29T18:47:00+00:00",
+                "estimated_runway": "2020-02-29T18:39:00+00:00",
+                "actual_runway": "2020-02-29T18:39:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8558",
+                "iata": "FR8558",
+                "icao": "RYR8558",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": 66,
+                "scheduled": "2020-02-29T14:05:00+00:00",
+                "estimated": "2020-02-29T14:05:00+00:00",
+                "actual": "2020-02-29T14:01:00+00:00",
+                "estimated_runway": "2020-02-29T15:43:00+00:00",
+                "actual_runway": "2020-02-29T15:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 77,
+                "scheduled": "2020-02-29T15:10:00+00:00",
+                "estimated": "2020-02-29T15:10:00+00:00",
+                "actual": "2020-02-29T16:27:00+00:00",
+                "estimated_runway": "2020-02-29T16:22:00+00:00",
+                "actual_runway": "2020-02-29T16:22:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "5774",
+                "iata": "FR5774",
+                "icao": "RYR5774",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "102",
+                "delay": null,
+                "scheduled": "2020-02-29T13:50:00+00:00",
+                "estimated": "2020-02-29T13:50:00+00:00",
+                "actual": "2020-02-29T13:48:00+00:00",
+                "estimated_runway": "2020-02-29T15:28:00+00:00",
+                "actual_runway": "2020-02-29T15:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": 80,
+                "scheduled": "2020-02-29T14:50:00+00:00",
+                "estimated": "2020-02-29T14:50:00+00:00",
+                "actual": "2020-02-29T16:10:00+00:00",
+                "estimated_runway": "2020-02-29T16:03:00+00:00",
+                "actual_runway": "2020-02-29T16:03:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "562",
+                "iata": "FR562",
+                "icao": "RYR562",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": 17,
+                "scheduled": "2020-02-29T13:40:00+00:00",
+                "estimated": "2020-02-29T13:40:00+00:00",
+                "actual": "2020-02-29T13:57:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Prague Vaclav Havel Airport",
+                "timezone": "Europe/Prague",
+                "iata": "PRG",
+                "icao": "LKPR",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "delay": 18,
+                "scheduled": "2020-02-29T17:05:00+00:00",
+                "estimated": "2020-02-29T17:05:00+00:00",
+                "actual": "2020-02-29T17:23:00+00:00",
+                "estimated_runway": "2020-02-29T17:20:00+00:00",
+                "actual_runway": "2020-02-29T17:20:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7326",
+                "iata": "FR7326",
+                "icao": "RYR7326",
+                "codeshared": {
+                    "airline_name": "ryanair sun",
+                    "airline_iata": "rr*",
+                    "airline_icao": null,
+                    "flight_number": "7326",
+                    "flight_iata": "rr*7326",
+                    "flight_icao": null
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": 4,
+                "scheduled": "2020-02-29T13:25:00+00:00",
+                "estimated": "2020-02-29T13:25:00+00:00",
+                "actual": "2020-02-29T13:29:00+00:00",
+                "estimated_runway": "2020-02-29T13:57:00+00:00",
+                "actual_runway": "2020-02-29T13:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Kastrup",
+                "timezone": "Europe/Copenhagen",
+                "iata": "CPH",
+                "icao": "EKCH",
+                "terminal": "3",
+                "gate": "F4",
+                "baggage": null,
+                "delay": 9,
+                "scheduled": "2020-02-29T16:35:00+00:00",
+                "estimated": "2020-02-29T16:35:00+00:00",
+                "actual": "2020-02-29T16:44:00+00:00",
+                "estimated_runway": "2020-02-29T16:39:00+00:00",
+                "actual_runway": "2020-02-29T16:39:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "632",
+                "iata": "FR632",
+                "icao": "RYR632",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-29T13:10:00+00:00",
+                "estimated": "2020-02-29T13:10:00+00:00",
+                "actual": "2020-02-29T13:02:00+00:00",
+                "estimated_runway": "2020-02-29T13:13:00+00:00",
+                "actual_runway": "2020-02-29T13:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Hamburg Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "HAM",
+                "icao": "EDDH",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T16:10:00+00:00",
+                "estimated": "2020-02-29T16:10:00+00:00",
+                "actual": "2020-02-29T15:47:00+00:00",
+                "estimated_runway": "2020-02-29T15:43:00+00:00",
+                "actual_runway": "2020-02-29T15:43:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8511",
+                "iata": "FR8511",
+                "icao": "RYR8511",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": 13,
+                "scheduled": "2020-02-29T13:05:00+00:00",
+                "estimated": "2020-02-29T13:05:00+00:00",
+                "actual": "2020-02-29T13:18:00+00:00",
+                "estimated_runway": "2020-02-29T13:31:00+00:00",
+                "actual_runway": "2020-02-29T13:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2020-02-29T14:35:00+00:00",
+                "estimated": "2020-02-29T14:35:00+00:00",
+                "actual": "2020-02-29T14:45:00+00:00",
+                "estimated_runway": "2020-02-29T14:35:00+00:00",
+                "actual_runway": "2020-02-29T14:35:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "122",
+                "iata": "FR122",
+                "icao": "RYR122",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "delay": 18,
+                "scheduled": "2020-02-29T12:50:00+00:00",
+                "estimated": "2020-02-29T12:50:00+00:00",
+                "actual": "2020-02-29T13:08:00+00:00",
+                "estimated_runway": "2020-02-29T13:28:00+00:00",
+                "actual_runway": "2020-02-29T13:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 20,
+                "scheduled": "2020-02-29T14:00:00+00:00",
+                "estimated": "2020-02-29T14:00:00+00:00",
+                "actual": "2020-02-29T14:20:00+00:00",
+                "estimated_runway": "2020-02-29T14:10:00+00:00",
+                "actual_runway": "2020-02-29T14:10:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "670",
+                "iata": "FR670",
+                "icao": "RYR670",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "delay": 12,
+                "scheduled": "2020-02-29T12:35:00+00:00",
+                "estimated": "2020-02-29T12:35:00+00:00",
+                "actual": "2020-02-29T12:47:00+00:00",
+                "estimated_runway": "2020-02-29T12:59:00+00:00",
+                "actual_runway": "2020-02-29T12:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 15,
+                "scheduled": "2020-02-29T13:45:00+00:00",
+                "estimated": "2020-02-29T13:45:00+00:00",
+                "actual": "2020-02-29T13:42:00+00:00",
+                "estimated_runway": "2020-02-29T13:39:00+00:00",
+                "actual_runway": "2020-02-29T13:39:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "816",
+                "iata": "FR816",
+                "icao": "RYR816",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "111",
+                "delay": 8,
+                "scheduled": "2020-02-29T12:30:00+00:00",
+                "estimated": "2020-02-29T12:30:00+00:00",
+                "actual": "2020-02-29T12:38:00+00:00",
+                "estimated_runway": "2020-02-29T12:50:00+00:00",
+                "actual_runway": "2020-02-29T12:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bristol",
+                "timezone": "Europe/London",
+                "iata": "BRS",
+                "icao": "EGGD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T13:35:00+00:00",
+                "estimated": "2020-02-29T13:35:00+00:00",
+                "actual": "2020-02-29T13:35:00+00:00",
+                "estimated_runway": "2020-02-29T13:25:00+00:00",
+                "actual_runway": "2020-02-29T13:25:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "506",
+                "iata": "FR506",
+                "icao": "RYR506",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": 15,
+                "scheduled": "2020-02-29T12:25:00+00:00",
+                "estimated": "2020-02-29T12:25:00+00:00",
+                "actual": "2020-02-29T12:40:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Frankfurt International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "FRA",
+                "icao": "EDDF",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 12,
+                "scheduled": "2020-02-29T15:25:00+00:00",
+                "estimated": "2020-02-29T15:25:00+00:00",
+                "actual": "2020-02-29T15:37:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "380",
+                "iata": "FR380",
+                "icao": "RYR380",
+                "codeshared": {
+                    "airline_name": "malta air",
+                    "airline_iata": "may",
+                    "airline_icao": null,
+                    "flight_number": "380",
+                    "flight_iata": "may380",
+                    "flight_icao": null
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": 33,
+                "scheduled": "2020-02-29T12:15:00+00:00",
+                "estimated": "2020-02-29T12:15:00+00:00",
+                "actual": "2020-02-29T12:48:00+00:00",
+                "estimated_runway": "2020-02-29T12:57:00+00:00",
+                "actual_runway": "2020-02-29T12:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Liverpool John Lennon",
+                "timezone": "Europe/London",
+                "iata": "LPL",
+                "icao": "EGGP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 20,
+                "scheduled": "2020-02-29T13:10:00+00:00",
+                "estimated": "2020-02-29T13:10:00+00:00",
+                "actual": "2020-02-29T13:30:00+00:00",
+                "estimated_runway": "2020-02-29T13:28:00+00:00",
+                "actual_runway": "2020-02-29T13:28:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1442",
+                "iata": "FR1442",
+                "icao": "RYR1442",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "112",
+                "delay": 6,
+                "scheduled": "2020-02-29T12:15:00+00:00",
+                "estimated": "2020-02-29T12:15:00+00:00",
+                "actual": "2020-02-29T12:21:00+00:00",
+                "estimated_runway": "2020-02-29T12:34:00+00:00",
+                "actual_runway": "2020-02-29T12:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2020-02-29T15:05:00+00:00",
+                "estimated": "2020-02-29T15:05:00+00:00",
+                "actual": "2020-02-29T14:55:00+00:00",
+                "estimated_runway": "2020-02-29T14:51:00+00:00",
+                "actual_runway": "2020-02-29T14:51:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7138",
+                "iata": "FR7138",
+                "icao": "RYR7138",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": 15,
+                "scheduled": "2020-02-29T12:15:00+00:00",
+                "estimated": "2020-02-29T12:15:00+00:00",
+                "actual": "2020-02-29T12:30:00+00:00",
+                "estimated_runway": "2020-02-29T12:46:00+00:00",
+                "actual_runway": "2020-02-29T12:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Milano Malpensa",
+                "timezone": "Europe/Rome",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 9,
+                "scheduled": "2020-02-29T15:40:00+00:00",
+                "estimated": "2020-02-29T15:40:00+00:00",
+                "actual": "2020-02-29T15:49:00+00:00",
+                "estimated_runway": "2020-02-29T15:44:00+00:00",
+                "actual_runway": "2020-02-29T15:44:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6325",
+                "iata": "FR6325",
+                "icao": "RYR6325",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": 46,
+                "scheduled": "2020-02-29T11:30:00+00:00",
+                "estimated": "2020-02-29T11:30:00+00:00",
+                "actual": "2020-02-29T12:16:00+00:00",
+                "estimated_runway": "2020-02-29T12:28:00+00:00",
+                "actual_runway": "2020-02-29T12:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 39,
+                "scheduled": "2020-02-29T12:55:00+00:00",
+                "estimated": "2020-02-29T12:55:00+00:00",
+                "actual": "2020-02-29T13:34:00+00:00",
+                "estimated_runway": "2020-02-29T13:29:00+00:00",
+                "actual_runway": "2020-02-29T13:29:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "114",
+                "iata": "FR114",
+                "icao": "RYR114",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": 8,
+                "scheduled": "2020-02-29T11:10:00+00:00",
+                "estimated": "2020-02-29T11:10:00+00:00",
+                "actual": "2020-02-29T11:18:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Sofia",
+                "timezone": "Europe/Sofia",
+                "iata": "SOF",
+                "icao": "LBSF",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 21,
+                "scheduled": "2020-02-29T16:55:00+00:00",
+                "estimated": "2020-02-29T16:55:00+00:00",
+                "actual": "2020-02-29T16:45:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6016",
+                "iata": "FR6016",
+                "icao": "RYR6016",
+                "codeshared": {
+                    "airline_name": "ryanair sun",
+                    "airline_iata": "rr*",
+                    "airline_icao": null,
+                    "flight_number": "6016",
+                    "flight_iata": "rr*6016",
+                    "flight_icao": null
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": null,
+                "scheduled": "2020-02-29T11:55:00+00:00",
+                "estimated": "2020-02-29T11:55:00+00:00",
+                "actual": "2020-02-29T11:52:00+00:00",
+                "estimated_runway": "2020-02-29T12:08:00+00:00",
+                "actual_runway": "2020-02-29T12:08:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T13:15:00+00:00",
+                "estimated": "2020-02-29T13:15:00+00:00",
+                "actual": "2020-02-29T13:08:00+00:00",
+                "estimated_runway": "2020-02-29T13:01:00+00:00",
+                "actual_runway": "2020-02-29T13:01:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2272",
+                "iata": "FR2272",
+                "icao": "RYR2272",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 49,
+                "scheduled": "2020-02-29T15:50:00+00:00",
+                "estimated": "2020-02-29T15:50:00+00:00",
+                "actual": "2020-02-29T16:39:00+00:00",
+                "estimated_runway": "2020-02-29T16:53:00+00:00",
+                "actual_runway": "2020-02-29T16:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 40,
+                "scheduled": "2020-02-29T17:20:00+00:00",
+                "estimated": "2020-02-29T17:20:00+00:00",
+                "actual": "2020-02-29T18:00:00+00:00",
+                "estimated_runway": "2020-02-29T17:54:00+00:00",
+                "actual_runway": "2020-02-29T17:54:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "116",
+                "iata": "FR116",
+                "icao": "RYR116",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DCX",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA24E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "delay": 14,
+                "scheduled": "2020-02-29T11:00:00+00:00",
+                "estimated": "2020-02-29T11:00:00+00:00",
+                "actual": "2020-02-29T11:14:00+00:00",
+                "estimated_runway": "2020-02-29T11:24:00+00:00",
+                "actual_runway": "2020-02-29T11:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "H5",
+                "baggage": "19",
+                "delay": 14,
+                "scheduled": "2020-02-29T13:45:00+00:00",
+                "estimated": "2020-02-29T13:45:00+00:00",
+                "actual": "2020-02-29T13:42:00+00:00",
+                "estimated_runway": "2020-02-29T13:40:00+00:00",
+                "actual_runway": "2020-02-29T13:40:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3102",
+                "iata": "FR3102",
+                "icao": "RYR3102",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": 5,
+                "scheduled": "2020-02-29T10:35:00+00:00",
+                "estimated": "2020-02-29T10:35:00+00:00",
+                "actual": "2020-02-29T10:40:00+00:00",
+                "estimated_runway": "2020-02-29T11:00:00+00:00",
+                "actual_runway": "2020-02-29T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Pablo Ruiz Picasso",
+                "timezone": "Europe/Madrid",
+                "iata": "AGP",
+                "icao": "LEMG",
+                "terminal": "E",
+                "gate": null,
+                "baggage": "28",
+                "delay": 15,
+                "scheduled": "2020-02-29T14:40:00+00:00",
+                "estimated": "2020-02-29T14:40:00+00:00",
+                "actual": "2020-02-29T14:40:00+00:00",
+                "estimated_runway": "2020-02-29T14:36:00+00:00",
+                "actual_runway": "2020-02-29T14:36:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7044",
+                "iata": "FR7044",
+                "icao": "RYR7044",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": null,
+                "scheduled": "2020-02-29T10:35:00+00:00",
+                "estimated": "2020-02-29T10:35:00+00:00",
+                "actual": "2020-02-29T10:32:00+00:00",
+                "estimated_runway": "2020-02-29T10:48:00+00:00",
+                "actual_runway": "2020-02-29T10:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": 2,
+                "scheduled": "2020-02-29T11:40:00+00:00",
+                "estimated": "2020-02-29T11:40:00+00:00",
+                "actual": "2020-02-29T11:40:00+00:00",
+                "estimated_runway": "2020-02-29T11:31:00+00:00",
+                "actual_runway": "2020-02-29T11:31:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "664",
+                "iata": "FR664",
+                "icao": "RYR664",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": 14,
+                "scheduled": "2020-02-29T10:25:00+00:00",
+                "estimated": "2020-02-29T10:25:00+00:00",
+                "actual": "2020-02-29T10:39:00+00:00",
+                "estimated_runway": "2020-02-29T10:53:00+00:00",
+                "actual_runway": "2020-02-29T10:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": 20,
+                "scheduled": "2020-02-29T11:25:00+00:00",
+                "estimated": "2020-02-29T11:25:00+00:00",
+                "actual": "2020-02-29T11:45:00+00:00",
+                "estimated_runway": "2020-02-29T11:39:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "554",
+                "iata": "FR554",
+                "icao": "RYR554",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": null,
+                "scheduled": "2020-02-29T10:10:00+00:00",
+                "estimated": "2020-02-29T10:10:00+00:00",
+                "actual": "2020-02-29T10:10:00+00:00",
+                "estimated_runway": "2020-02-29T10:29:00+00:00",
+                "actual_runway": "2020-02-29T10:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Alicante El Altet",
+                "timezone": "Europe/Madrid",
+                "iata": "ALC",
+                "icao": "LEAL",
+                "terminal": "N",
+                "gate": null,
+                "baggage": "6A",
+                "delay": 9,
+                "scheduled": "2020-02-29T14:00:00+00:00",
+                "estimated": "2020-02-29T14:00:00+00:00",
+                "actual": "2020-02-29T13:56:00+00:00",
+                "estimated_runway": "2020-02-29T13:51:00+00:00",
+                "actual_runway": "2020-02-29T13:51:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7062",
+                "iata": "FR7062",
+                "icao": "RYR7062",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EIDYY",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA6FC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": 4,
+                "scheduled": "2020-02-29T09:55:00+00:00",
+                "estimated": "2020-02-29T09:55:00+00:00",
+                "actual": "2020-02-29T09:55:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "John Paul II Balice International",
+                "timezone": "Europe/Warsaw",
+                "iata": "KRK",
+                "icao": "EPKK",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T13:50:00+00:00",
+                "estimated": "2020-02-29T13:50:00+00:00",
+                "actual": "2020-02-29T13:43:00+00:00",
+                "estimated_runway": "2020-02-29T13:37:00+00:00",
+                "actual_runway": "2020-02-29T13:37:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1901",
+                "iata": "FR1901",
+                "icao": "RYR1901",
+                "codeshared": {
+                    "airline_name": "ryanair sun",
+                    "airline_iata": "rr*",
+                    "airline_icao": null,
+                    "flight_number": "1901",
+                    "flight_iata": "rr*1901",
+                    "flight_icao": null
+                }
+            },
+            "aircraft": {
+                "registration": "SP-RKG",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "48C126"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": 7,
+                "scheduled": "2020-02-29T09:50:00+00:00",
+                "estimated": "2020-02-29T09:50:00+00:00",
+                "actual": "2020-02-29T09:57:00+00:00",
+                "estimated_runway": "2020-02-29T10:07:00+00:00",
+                "actual_runway": "2020-02-29T10:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Grenoble-isere Airport (St Geoirs)",
+                "timezone": "Europe/Paris",
+                "iata": "GNB",
+                "icao": "LFLS",
+                "terminal": "N",
+                "gate": null,
+                "baggage": null,
+                "delay": 11,
+                "scheduled": "2020-02-29T12:55:00+00:00",
+                "estimated": "2020-02-29T12:55:00+00:00",
+                "actual": "2020-02-29T13:06:00+00:00",
+                "estimated_runway": "2020-02-29T13:02:00+00:00",
+                "actual_runway": "2020-02-29T13:02:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1996",
+                "iata": "FR1996",
+                "icao": "RYR1996",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": null,
+                "scheduled": "2020-02-29T09:50:00+00:00",
+                "estimated": "2020-02-29T09:50:00+00:00",
+                "actual": "2020-02-29T09:44:00+00:00",
+                "estimated_runway": "2020-02-29T09:58:00+00:00",
+                "actual_runway": "2020-02-29T09:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bournemouth International",
+                "timezone": "Europe/London",
+                "iata": "BOH",
+                "icao": "EGHH",
+                "terminal": "N",
+                "gate": null,
+                "baggage": null,
+                "delay": 3,
+                "scheduled": "2020-02-29T11:00:00+00:00",
+                "estimated": "2020-02-29T11:00:00+00:00",
+                "actual": "2020-02-29T11:03:00+00:00",
+                "estimated_runway": "2020-02-29T10:59:00+00:00",
+                "actual_runway": "2020-02-29T10:59:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2269",
+                "iata": "FR2269",
+                "icao": "RYR2269",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "delay": null,
+                "scheduled": "2020-02-29T09:45:00+00:00",
+                "estimated": "2020-02-29T09:45:00+00:00",
+                "actual": "2020-02-29T09:42:00+00:00",
+                "estimated_runway": "2020-02-29T09:53:00+00:00",
+                "actual_runway": "2020-02-29T09:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Eindhoven",
+                "timezone": "Europe/Amsterdam",
+                "iata": "EIN",
+                "icao": "EHEH",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T12:25:00+00:00",
+                "estimated": "2020-02-29T12:25:00+00:00",
+                "actual": "2020-02-29T12:14:00+00:00",
+                "estimated_runway": "2020-02-29T12:10:00+00:00",
+                "actual_runway": "2020-02-29T12:10:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1964",
+                "iata": "FR1964",
+                "icao": "RYR1964",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DPJ",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA4EE"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-29T09:45:00+00:00",
+                "estimated": "2020-02-29T09:45:00+00:00",
+                "actual": "2020-02-29T09:37:00+00:00",
+                "estimated_runway": "2020-02-29T09:46:00+00:00",
+                "actual_runway": "2020-02-29T09:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T10:55:00+00:00",
+                "estimated": "2020-02-29T10:55:00+00:00",
+                "actual": "2020-02-29T10:35:00+00:00",
+                "estimated_runway": "2020-02-29T10:32:00+00:00",
+                "actual_runway": "2020-02-29T10:32:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "172",
+                "iata": "FR172",
+                "icao": "RYR172",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 6,
+                "scheduled": "2020-02-29T09:35:00+00:00",
+                "estimated": "2020-02-29T09:35:00+00:00",
+                "actual": "2020-02-29T09:41:00+00:00",
+                "estimated_runway": "2020-02-29T09:55:00+00:00",
+                "actual_runway": "2020-02-29T09:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Memmingen-Allgäu",
+                "timezone": "Europe/Berlin",
+                "iata": "FMM",
+                "icao": "EDJA",
+                "terminal": "A",
+                "gate": null,
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2020-02-29T12:50:00+00:00",
+                "estimated": "2020-02-29T12:50:00+00:00",
+                "actual": "2020-02-29T12:49:00+00:00",
+                "estimated_runway": "2020-02-29T12:44:00+00:00",
+                "actual_runway": "2020-02-29T12:44:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2412",
+                "iata": "FR2412",
+                "icao": "RYR2412",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": 26,
+                "scheduled": "2020-02-29T09:25:00+00:00",
+                "estimated": "2020-02-29T09:25:00+00:00",
+                "actual": "2020-02-29T09:51:00+00:00",
+                "estimated_runway": "2020-02-29T10:04:00+00:00",
+                "actual_runway": "2020-02-29T10:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "M. R. Štefánika",
+                "timezone": "Europe/Bratislava",
+                "iata": "BTS",
+                "icao": "LZIB",
+                "terminal": "A",
+                "gate": null,
+                "baggage": null,
+                "delay": 19,
+                "scheduled": "2020-02-29T13:10:00+00:00",
+                "estimated": "2020-02-29T13:10:00+00:00",
+                "actual": "2020-02-29T13:29:00+00:00",
+                "estimated_runway": "2020-02-29T13:25:00+00:00",
+                "actual_runway": "2020-02-29T13:25:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "4282",
+                "iata": "FR4282",
+                "icao": "RYR4282",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-GDM",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA93C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": null,
+                "scheduled": "2020-02-29T09:20:00+00:00",
+                "estimated": "2020-02-29T09:20:00+00:00",
+                "actual": "2020-02-29T09:12:00+00:00",
+                "estimated_runway": "2020-02-29T09:22:00+00:00",
+                "actual_runway": "2020-02-29T09:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T10:30:00+00:00",
+                "estimated": "2020-02-29T10:30:00+00:00",
+                "actual": "2020-02-29T10:14:00+00:00",
+                "estimated_runway": "2020-02-29T10:07:00+00:00",
+                "actual_runway": "2020-02-29T10:07:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "672",
+                "iata": "FR672",
+                "icao": "RYR672",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": null,
+                "scheduled": "2020-02-29T08:50:00+00:00",
+                "estimated": "2020-02-29T08:50:00+00:00",
+                "actual": "2020-02-29T08:49:00+00:00",
+                "estimated_runway": "2020-02-29T09:06:00+00:00",
+                "actual_runway": "2020-02-29T09:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 6,
+                "scheduled": "2020-02-29T12:15:00+00:00",
+                "estimated": "2020-02-29T12:15:00+00:00",
+                "actual": "2020-02-29T12:08:00+00:00",
+                "estimated_runway": "2020-02-29T11:58:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8994",
+                "iata": "FR8994",
+                "icao": "RYR8994",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-29T08:40:00+00:00",
+                "estimated": "2020-02-29T08:40:00+00:00",
+                "actual": "2020-02-29T08:38:00+00:00",
+                "estimated_runway": "2020-02-29T08:53:00+00:00",
+                "actual_runway": "2020-02-29T08:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "W. A. Mozart",
+                "timezone": "Europe/Vienna",
+                "iata": "SZG",
+                "icao": "LOWS",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": 3,
+                "scheduled": "2020-02-29T12:15:00+00:00",
+                "estimated": "2020-02-29T12:15:00+00:00",
+                "actual": "2020-02-29T12:09:00+00:00",
+                "estimated_runway": "2020-02-29T12:05:00+00:00",
+                "actual_runway": "2020-02-29T12:05:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7233",
+                "iata": "FR7233",
+                "icao": "RYR7233",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": null,
+                "scheduled": "2020-02-29T08:25:00+00:00",
+                "estimated": "2020-02-29T08:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-29T08:34:00+00:00",
+                "actual_runway": "2020-02-29T08:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sur Reina Sofia",
+                "timezone": "Atlantic/Canary",
+                "iata": "TFS",
+                "icao": "GCTS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "A7",
+                "delay": 4,
+                "scheduled": "2020-02-29T12:50:00+00:00",
+                "estimated": "2020-02-29T12:50:00+00:00",
+                "actual": "2020-02-29T12:50:00+00:00",
+                "estimated_runway": "2020-02-29T12:41:00+00:00",
+                "actual_runway": "2020-02-29T12:41:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7122",
+                "iata": "FR7122",
+                "icao": "RYR7122",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": null,
+                "scheduled": "2020-02-29T08:20:00+00:00",
+                "estimated": "2020-02-29T08:20:00+00:00",
+                "actual": "2020-02-29T08:16:00+00:00",
+                "estimated_runway": "2020-02-29T08:24:00+00:00",
+                "actual_runway": "2020-02-29T08:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T09:40:00+00:00",
+                "estimated": "2020-02-29T09:40:00+00:00",
+                "actual": "2020-02-29T09:31:00+00:00",
+                "estimated_runway": "2020-02-29T09:21:00+00:00",
+                "actual_runway": "2020-02-29T09:21:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "206",
+                "iata": "FR206",
+                "icao": "RYR206",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": 14,
+                "scheduled": "2020-02-29T08:15:00+00:00",
+                "estimated": "2020-02-29T08:15:00+00:00",
+                "actual": "2020-02-29T08:29:00+00:00",
+                "estimated_runway": "2020-02-29T08:41:00+00:00",
+                "actual_runway": "2020-02-29T08:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Luton Airport",
+                "timezone": "Europe/London",
+                "iata": "LTN",
+                "icao": "EGGW",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2020-02-29T09:30:00+00:00",
+                "estimated": "2020-02-29T09:30:00+00:00",
+                "actual": "2020-02-29T09:40:00+00:00",
+                "estimated_runway": "2020-02-29T09:32:00+00:00",
+                "actual_runway": "2020-02-29T09:32:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "332",
+                "iata": "FR332",
+                "icao": "RYR332",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 4,
+                "scheduled": "2020-02-29T08:15:00+00:00",
+                "estimated": "2020-02-29T08:15:00+00:00",
+                "actual": "2020-02-29T08:19:00+00:00",
+                "estimated_runway": "2020-02-29T08:30:00+00:00",
+                "actual_runway": "2020-02-29T08:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sandro Pertini (caselle)",
+                "timezone": "Europe/Rome",
+                "iata": "TRN",
+                "icao": "LIMF",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T11:40:00+00:00",
+                "estimated": "2020-02-29T11:40:00+00:00",
+                "actual": "2020-02-29T11:30:00+00:00",
+                "estimated_runway": "2020-02-29T11:26:00+00:00",
+                "actual_runway": "2020-02-29T11:26:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9444",
+                "iata": "FR9444",
+                "icao": "RYR9444",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-29T08:05:00+00:00",
+                "estimated": "2020-02-29T08:05:00+00:00",
+                "actual": "2020-02-29T08:01:00+00:00",
+                "estimated_runway": "2020-02-29T08:11:00+00:00",
+                "actual_runway": "2020-02-29T08:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "East Midlands",
+                "timezone": "Europe/London",
+                "iata": "EMA",
+                "icao": "EGNX",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T09:10:00+00:00",
+                "estimated": "2020-02-29T09:10:00+00:00",
+                "actual": "2020-02-29T09:00:00+00:00",
+                "estimated_runway": "2020-02-29T08:54:00+00:00",
+                "actual_runway": "2020-02-29T08:54:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "534",
+                "iata": "FR534",
+                "icao": "RYR534",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "delay": 72,
+                "scheduled": "2020-02-29T08:00:00+00:00",
+                "estimated": "2020-02-29T08:00:00+00:00",
+                "actual": "2020-02-29T09:12:00+00:00",
+                "estimated_runway": "2020-02-29T09:25:00+00:00",
+                "actual_runway": "2020-02-29T09:25:00+00:00"
+            },
+            "arrival": {
+                "airport": "Leeds/bradford",
+                "timezone": "Europe/London",
+                "iata": "LBA",
+                "icao": "EGNM",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 64,
+                "scheduled": "2020-02-29T09:05:00+00:00",
+                "estimated": "2020-02-29T09:05:00+00:00",
+                "actual": "2020-02-29T10:09:00+00:00",
+                "estimated_runway": "2020-02-29T10:03:00+00:00",
+                "actual_runway": "2020-02-29T10:03:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "152",
+                "iata": "FR152",
+                "icao": "RYR152",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "102",
+                "delay": null,
+                "scheduled": "2020-02-29T07:30:00+00:00",
+                "estimated": "2020-02-29T07:30:00+00:00",
+                "actual": "2020-02-29T07:25:00+00:00",
+                "estimated_runway": "2020-02-29T07:44:00+00:00",
+                "actual_runway": "2020-02-29T07:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T09:05:00+00:00",
+                "estimated": "2020-02-29T09:05:00+00:00",
+                "actual": "2020-02-29T09:00:00+00:00",
+                "estimated_runway": "2020-02-29T08:49:00+00:00",
+                "actual_runway": "2020-02-29T08:49:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "112",
+                "iata": "FR112",
+                "icao": "RYR112",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "118",
+                "delay": 8,
+                "scheduled": "2020-02-29T07:30:00+00:00",
+                "estimated": "2020-02-29T07:30:00+00:00",
+                "actual": "2020-02-29T07:38:00+00:00",
+                "estimated_runway": "2020-02-29T07:57:00+00:00",
+                "actual_runway": "2020-02-29T07:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "International",
+                "timezone": "Asia/Nicosia",
+                "iata": "PFO",
+                "icao": "LCPH",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 2,
+                "scheduled": "2020-02-29T14:40:00+00:00",
+                "estimated": "2020-02-29T14:40:00+00:00",
+                "actual": "2020-02-29T14:34:00+00:00",
+                "estimated_runway": "2020-02-29T14:26:00+00:00",
+                "actual_runway": "2020-02-29T14:26:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3332",
+                "iata": "FR3332",
+                "icao": "RYR3332",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 2,
+                "scheduled": "2020-02-29T07:20:00+00:00",
+                "estimated": "2020-02-29T07:20:00+00:00",
+                "actual": "2020-02-29T07:22:00+00:00",
+                "estimated_runway": "2020-02-29T07:37:00+00:00",
+                "actual_runway": "2020-02-29T07:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "W. A. Mozart",
+                "timezone": "Europe/Vienna",
+                "iata": "SZG",
+                "icao": "LOWS",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": 7,
+                "scheduled": "2020-02-29T10:50:00+00:00",
+                "estimated": "2020-02-29T10:50:00+00:00",
+                "actual": "2020-02-29T10:48:00+00:00",
+                "estimated_runway": "2020-02-29T10:43:00+00:00",
+                "actual_runway": "2020-02-29T10:43:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7231",
+                "iata": "FR7231",
+                "icao": "RYR7231",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "213",
+                "delay": null,
+                "scheduled": "2020-02-29T07:10:00+00:00",
+                "estimated": "2020-02-29T07:10:00+00:00",
+                "actual": "2020-02-29T07:05:00+00:00",
+                "estimated_runway": "2020-02-29T07:19:00+00:00",
+                "actual_runway": "2020-02-29T07:19:00+00:00"
+            },
+            "arrival": {
+                "airport": "S. Angelo",
+                "timezone": "Europe/Rome",
+                "iata": "TSF",
+                "icao": "LIPH",
+                "terminal": "A",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T10:50:00+00:00",
+                "estimated": "2020-02-29T10:50:00+00:00",
+                "actual": "2020-02-29T10:29:00+00:00",
+                "estimated_runway": "2020-02-29T10:25:00+00:00",
+                "actual_runway": "2020-02-29T10:25:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9452",
+                "iata": "FR9452",
+                "icao": "RYR9452",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DPF",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA4EA"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "delay": null,
+                "scheduled": "2020-02-29T07:05:00+00:00",
+                "estimated": "2020-02-29T07:05:00+00:00",
+                "actual": "2020-02-29T07:02:00+00:00",
+                "estimated_runway": "2020-02-29T07:15:00+00:00",
+                "actual_runway": "2020-02-29T07:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T08:15:00+00:00",
+                "estimated": "2020-02-29T08:15:00+00:00",
+                "actual": "2020-02-29T07:58:00+00:00",
+                "estimated_runway": "2020-02-29T07:50:00+00:00",
+                "actual_runway": "2020-02-29T07:50:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "5772",
+                "iata": "FR5772",
+                "icao": "RYR5772",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "212",
+                "delay": null,
+                "scheduled": "2020-02-29T07:05:00+00:00",
+                "estimated": "2020-02-29T07:05:00+00:00",
+                "actual": "2020-02-29T06:59:00+00:00",
+                "estimated_runway": "2020-02-29T07:14:00+00:00",
+                "actual_runway": "2020-02-29T07:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Liverpool John Lennon",
+                "timezone": "Europe/London",
+                "iata": "LPL",
+                "icao": "EGGP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T08:00:00+00:00",
+                "estimated": "2020-02-29T08:00:00+00:00",
+                "actual": "2020-02-29T07:51:00+00:00",
+                "estimated_runway": "2020-02-29T07:47:00+00:00",
+                "actual_runway": "2020-02-29T07:47:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "442",
+                "iata": "FR442",
+                "icao": "RYR442",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": 17,
+                "scheduled": "2020-02-29T07:05:00+00:00",
+                "estimated": "2020-02-29T07:05:00+00:00",
+                "actual": "2020-02-29T07:22:00+00:00",
+                "estimated_runway": "2020-02-29T07:36:00+00:00",
+                "actual_runway": "2020-02-29T07:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Cologne/bonn",
+                "timezone": "Europe/Berlin",
+                "iata": "CGN",
+                "icao": "EDDK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2020-02-29T10:00:00+00:00",
+                "estimated": "2020-02-29T10:00:00+00:00",
+                "actual": "2020-02-29T10:10:00+00:00",
+                "estimated_runway": "2020-02-29T09:44:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8035",
+                "iata": "FR8035",
+                "icao": "RYR8035",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-29T06:50:00+00:00",
+                "estimated": "2020-02-29T06:50:00+00:00",
+                "actual": "2020-02-29T06:44:00+00:00",
+                "estimated_runway": "2020-02-29T06:54:00+00:00",
+                "actual_runway": "2020-02-29T06:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "H2",
+                "baggage": "19",
+                "delay": 6,
+                "scheduled": "2020-02-29T09:35:00+00:00",
+                "estimated": "2020-02-29T09:35:00+00:00",
+                "actual": "2020-02-29T09:20:00+00:00",
+                "estimated_runway": "2020-02-29T09:06:00+00:00",
+                "actual_runway": "2020-02-29T09:06:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3100",
+                "iata": "FR3100",
+                "icao": "RYR3100",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DAR",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA1D1"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "delay": null,
+                "scheduled": "2020-02-29T06:30:00+00:00",
+                "estimated": "2020-02-29T06:30:00+00:00",
+                "actual": "2020-02-29T06:23:00+00:00",
+                "estimated_runway": "2020-02-29T06:37:00+00:00",
+                "actual_runway": "2020-02-29T06:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": "N",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T07:45:00+00:00",
+                "estimated": "2020-02-29T07:45:00+00:00",
+                "actual": "2020-02-29T07:23:00+00:00",
+                "estimated_runway": "2020-02-29T07:18:00+00:00",
+                "actual_runway": "2020-02-29T07:18:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "812",
+                "iata": "FR812",
+                "icao": "RYR812",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "delay": 3,
+                "scheduled": "2020-02-29T06:30:00+00:00",
+                "estimated": "2020-02-29T06:30:00+00:00",
+                "actual": "2020-02-29T06:33:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T08:10:00+00:00",
+                "estimated": "2020-02-29T08:10:00+00:00",
+                "actual": "2020-02-29T08:03:00+00:00",
+                "estimated_runway": "2020-02-29T07:56:00+00:00",
+                "actual_runway": "2020-02-29T07:56:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "120",
+                "iata": "FR120",
+                "icao": "RYR120",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "102",
+                "delay": 17,
+                "scheduled": "2020-02-29T06:30:00+00:00",
+                "estimated": "2020-02-29T06:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-29T07:04:00+00:00",
+                "actual_runway": "2020-02-29T07:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": "1S",
+                "gate": null,
+                "baggage": null,
+                "delay": 16,
+                "scheduled": "2020-02-29T09:20:00+00:00",
+                "estimated": "2020-02-29T09:20:00+00:00",
+                "actual": "2020-02-29T09:36:00+00:00",
+                "estimated_runway": "2020-02-29T09:34:00+00:00",
+                "actual_runway": "2020-02-29T09:34:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1452",
+                "iata": "FR1452",
+                "icao": "RYR1452",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "118",
+                "delay": 2,
+                "scheduled": "2020-02-29T06:30:00+00:00",
+                "estimated": "2020-02-29T06:30:00+00:00",
+                "actual": "2020-02-29T06:32:00+00:00",
+                "estimated_runway": "2020-02-29T06:44:00+00:00",
+                "actual_runway": "2020-02-29T06:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bristol",
+                "timezone": "Europe/London",
+                "iata": "BRS",
+                "icao": "EGGD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 4,
+                "scheduled": "2020-02-29T07:40:00+00:00",
+                "estimated": "2020-02-29T07:40:00+00:00",
+                "actual": "2020-02-29T07:35:00+00:00",
+                "estimated_runway": "2020-02-29T07:21:00+00:00",
+                "actual_runway": "2020-02-29T07:21:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "504",
+                "iata": "FR504",
+                "icao": "RYR504",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-29T06:30:00+00:00",
+                "estimated": "2020-02-29T06:30:00+00:00",
+                "actual": "2020-02-29T06:28:00+00:00",
+                "estimated_runway": "2020-02-29T06:46:00+00:00",
+                "actual_runway": "2020-02-29T06:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T07:55:00+00:00",
+                "estimated": "2020-02-29T07:55:00+00:00",
+                "actual": "2020-02-29T07:54:00+00:00",
+                "estimated_runway": "2020-02-29T07:48:00+00:00",
+                "actual_runway": "2020-02-29T07:48:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "202",
+                "iata": "FR202",
+                "icao": "RYR202",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DHG",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA263"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": null,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:22:00+00:00",
+                "estimated_runway": "2020-02-29T06:36:00+00:00",
+                "actual_runway": "2020-02-29T06:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Beauvais-Tille",
+                "timezone": "Europe/Paris",
+                "iata": "BVA",
+                "icao": "LFOB",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T09:05:00+00:00",
+                "estimated": "2020-02-29T09:05:00+00:00",
+                "actual": "2020-02-29T08:50:00+00:00",
+                "estimated_runway": "2020-02-29T08:45:00+00:00",
+                "actual_runway": "2020-02-29T08:45:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "22",
+                "iata": "FR22",
+                "icao": "RYR22",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "211",
+                "delay": null,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:24:00+00:00",
+                "estimated_runway": "2020-02-29T06:40:00+00:00",
+                "actual_runway": "2020-02-29T06:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Lanzarote",
+                "timezone": "Atlantic/Canary",
+                "iata": "ACE",
+                "icao": "GCRR",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "5",
+                "delay": 4,
+                "scheduled": "2020-02-29T10:35:00+00:00",
+                "estimated": "2020-02-29T10:35:00+00:00",
+                "actual": "2020-02-29T10:31:00+00:00",
+                "estimated_runway": "2020-02-29T10:26:00+00:00",
+                "actual_runway": "2020-02-29T10:26:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7124",
+                "iata": "FR7124",
+                "icao": "RYR7124",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": null,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:22:00+00:00",
+                "estimated_runway": "2020-02-29T06:33:00+00:00",
+                "actual_runway": "2020-02-29T06:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bergamo - Orio al Serio",
+                "timezone": "Europe/Rome",
+                "iata": "BGY",
+                "icao": "LIME",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T09:55:00+00:00",
+                "estimated": "2020-02-29T09:55:00+00:00",
+                "actual": "2020-02-29T09:39:00+00:00",
+                "estimated_runway": "2020-02-29T09:36:00+00:00",
+                "actual_runway": "2020-02-29T09:36:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9428",
+                "iata": "FR9428",
+                "icao": "RYR9428",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "delay": 3,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:28:00+00:00",
+                "estimated_runway": "2020-02-29T06:43:00+00:00",
+                "actual_runway": "2020-02-29T06:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Ciampino",
+                "timezone": "Europe/Rome",
+                "iata": "CIA",
+                "icao": "LIRA",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "2",
+                "delay": 7,
+                "scheduled": "2020-02-29T10:30:00+00:00",
+                "estimated": "2020-02-29T10:30:00+00:00",
+                "actual": "2020-02-29T10:25:00+00:00",
+                "estimated_runway": "2020-02-29T10:17:00+00:00",
+                "actual_runway": "2020-02-29T10:17:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9432",
+                "iata": "FR9432",
+                "icao": "RYR9432",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:18:00+00:00",
+                "estimated_runway": "2020-02-29T06:28:00+00:00",
+                "actual_runway": "2020-02-29T06:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "09",
+                "delay": 3,
+                "scheduled": "2020-02-29T10:00:00+00:00",
+                "estimated": "2020-02-29T10:00:00+00:00",
+                "actual": "2020-02-29T09:37:00+00:00",
+                "estimated_runway": "2020-02-29T09:26:00+00:00",
+                "actual_runway": "2020-02-29T09:26:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7256",
+                "iata": "FR7256",
+                "icao": "RYR7256",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "210",
+                "delay": 5,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:30:00+00:00",
+                "estimated_runway": "2020-02-29T06:40:00+00:00",
+                "actual_runway": "2020-02-29T06:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-29T07:30:00+00:00",
+                "estimated": "2020-02-29T07:30:00+00:00",
+                "actual": "2020-02-29T07:25:00+00:00",
+                "estimated_runway": "2020-02-29T07:17:00+00:00",
+                "actual_runway": "2020-02-29T07:17:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "552",
+                "iata": "FR552",
+                "icao": "RYR552",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "112",
+                "delay": 30,
+                "scheduled": "2020-02-29T06:25:00+00:00",
+                "estimated": "2020-02-29T06:25:00+00:00",
+                "actual": "2020-02-29T06:55:00+00:00",
+                "estimated_runway": "2020-02-29T07:09:00+00:00",
+                "actual_runway": "2020-02-29T07:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": 29,
+                "scheduled": "2020-02-29T07:35:00+00:00",
+                "estimated": "2020-02-29T07:35:00+00:00",
+                "actual": "2020-02-29T08:04:00+00:00",
+                "estimated_runway": "2020-02-29T07:54:00+00:00",
+                "actual_runway": "2020-02-29T07:54:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "662",
+                "iata": "FR662",
+                "icao": "RYR662",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EIFIY",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA58B"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": 3,
+                "scheduled": "2020-02-29T06:15:00+00:00",
+                "estimated": "2020-02-29T06:15:00+00:00",
+                "actual": "2020-02-29T06:18:00+00:00",
+                "estimated_runway": "2020-02-29T06:32:00+00:00",
+                "actual_runway": "2020-02-29T06:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 6,
+                "scheduled": "2020-02-29T09:05:00+00:00",
+                "estimated": "2020-02-29T09:05:00+00:00",
+                "actual": "2020-02-29T08:59:00+00:00",
+                "estimated_runway": "2020-02-29T08:55:00+00:00",
+                "actual_runway": "2020-02-29T08:55:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7328",
+                "iata": "FR7328",
+                "icao": "RYR7328",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DAO",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA1D3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-29",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "119",
+                "delay": 19,
+                "scheduled": "2020-02-29T06:15:00+00:00",
+                "estimated": "2020-02-29T06:15:00+00:00",
+                "actual": "2020-02-29T06:34:00+00:00",
+                "estimated_runway": "2020-02-29T06:49:00+00:00",
+                "actual_runway": "2020-02-29T06:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "41",
+                "delay": 5,
+                "scheduled": "2020-02-29T09:45:00+00:00",
+                "estimated": "2020-02-29T09:45:00+00:00",
+                "actual": "2020-02-29T09:50:00+00:00",
+                "estimated_runway": "2020-02-29T09:47:00+00:00",
+                "actual_runway": "2020-02-29T09:47:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6875",
+                "iata": "FR6875",
+                "icao": "RYR6875",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": 5,
+                "scheduled": "2020-02-28T15:30:00+00:00",
+                "estimated": "2020-02-28T15:30:00+00:00",
+                "actual": "2020-02-28T15:35:00+00:00",
+                "estimated_runway": "2020-02-28T15:49:00+00:00",
+                "actual_runway": "2020-02-28T15:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T16:50:00+00:00",
+                "estimated": "2020-02-28T16:50:00+00:00",
+                "actual": "2020-02-28T16:50:00+00:00",
+                "estimated_runway": "2020-02-28T16:43:00+00:00",
+                "actual_runway": "2020-02-28T16:43:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "294",
+                "iata": "FR294",
+                "icao": "RYR294",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T15:10:00+00:00",
+                "estimated": "2020-02-28T15:10:00+00:00",
+                "actual": "2020-02-28T15:07:00+00:00",
+                "estimated_runway": "2020-02-28T15:22:00+00:00",
+                "actual_runway": "2020-02-28T15:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "H5",
+                "baggage": "20",
+                "delay": 1,
+                "scheduled": "2020-02-28T17:55:00+00:00",
+                "estimated": "2020-02-28T17:55:00+00:00",
+                "actual": "2020-02-28T17:37:00+00:00",
+                "estimated_runway": "2020-02-28T17:26:00+00:00",
+                "actual_runway": "2020-02-28T17:26:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3104",
+                "iata": "FR3104",
+                "icao": "RYR3104",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "107",
+                "delay": null,
+                "scheduled": "2020-02-28T14:25:00+00:00",
+                "estimated": "2020-02-28T14:25:00+00:00",
+                "actual": "2020-02-28T14:25:00+00:00",
+                "estimated_runway": "2020-02-28T14:48:00+00:00",
+                "actual_runway": "2020-02-28T14:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Billund",
+                "timezone": "Europe/Copenhagen",
+                "iata": "BLL",
+                "icao": "EKBI",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 3,
+                "scheduled": "2020-02-28T17:20:00+00:00",
+                "estimated": "2020-02-28T17:20:00+00:00",
+                "actual": "2020-02-28T17:23:00+00:00",
+                "estimated_runway": "2020-02-28T17:17:00+00:00",
+                "actual_runway": "2020-02-28T17:17:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6742",
+                "iata": "FR6742",
+                "icao": "RYR6742",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": 3,
+                "scheduled": "2020-02-28T14:20:00+00:00",
+                "estimated": "2020-02-28T14:20:00+00:00",
+                "actual": "2020-02-28T14:23:00+00:00",
+                "estimated_runway": "2020-02-28T14:40:00+00:00",
+                "actual_runway": "2020-02-28T14:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T15:30:00+00:00",
+                "estimated": "2020-02-28T15:30:00+00:00",
+                "actual": "2020-02-28T15:19:00+00:00",
+                "estimated_runway": "2020-02-28T15:15:00+00:00",
+                "actual_runway": "2020-02-28T15:15:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "672",
+                "iata": "FR672",
+                "icao": "RYR672",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T14:10:00+00:00",
+                "estimated": "2020-02-28T14:10:00+00:00",
+                "actual": "2020-02-28T14:09:00+00:00",
+                "estimated_runway": "2020-02-28T14:22:00+00:00",
+                "actual_runway": "2020-02-28T14:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Milano Malpensa",
+                "timezone": "Europe/Rome",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 2,
+                "scheduled": "2020-02-28T17:35:00+00:00",
+                "estimated": "2020-02-28T17:35:00+00:00",
+                "actual": "2020-02-28T17:31:00+00:00",
+                "estimated_runway": "2020-02-28T17:22:00+00:00",
+                "actual_runway": "2020-02-28T17:22:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6325",
+                "iata": "FR6325",
+                "icao": "RYR6325",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DAM",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA1C1"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "112",
+                "delay": null,
+                "scheduled": "2020-02-28T14:05:00+00:00",
+                "estimated": "2020-02-28T14:05:00+00:00",
+                "actual": "2020-02-28T14:01:00+00:00",
+                "estimated_runway": "2020-02-28T14:12:00+00:00",
+                "actual_runway": "2020-02-28T14:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T15:10:00+00:00",
+                "estimated": "2020-02-28T15:10:00+00:00",
+                "actual": "2020-02-28T14:57:00+00:00",
+                "estimated_runway": "2020-02-28T14:51:00+00:00",
+                "actual_runway": "2020-02-28T14:51:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "5774",
+                "iata": "FR5774",
+                "icao": "RYR5774",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "delay": 3,
+                "scheduled": "2020-02-28T13:50:00+00:00",
+                "estimated": "2020-02-28T13:50:00+00:00",
+                "actual": "2020-02-28T13:53:00+00:00",
+                "estimated_runway": "2020-02-28T14:07:00+00:00",
+                "actual_runway": "2020-02-28T14:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Berlin-Schoenefeld",
+                "timezone": "Europe/Berlin",
+                "iata": "SXF",
+                "icao": "EDDB",
+                "terminal": "D",
+                "gate": "A",
+                "baggage": null,
+                "delay": 7,
+                "scheduled": "2020-02-28T17:10:00+00:00",
+                "estimated": "2020-02-28T17:10:00+00:00",
+                "actual": "2020-02-28T16:58:00+00:00",
+                "estimated_runway": "2020-02-28T16:49:00+00:00",
+                "actual_runway": "2020-02-28T16:49:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8558",
+                "iata": "FR8558",
+                "icao": "RYR8558",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "111",
+                "delay": null,
+                "scheduled": "2020-02-28T13:50:00+00:00",
+                "estimated": "2020-02-28T13:50:00+00:00",
+                "actual": "2020-02-28T13:46:00+00:00",
+                "estimated_runway": "2020-02-28T14:01:00+00:00",
+                "actual_runway": "2020-02-28T14:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T14:50:00+00:00",
+                "estimated": "2020-02-28T14:50:00+00:00",
+                "actual": "2020-02-28T14:42:00+00:00",
+                "estimated_runway": "2020-02-28T14:36:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "562",
+                "iata": "FR562",
+                "icao": "RYR562",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": 28,
+                "scheduled": "2020-02-28T13:40:00+00:00",
+                "estimated": "2020-02-28T13:40:00+00:00",
+                "actual": "2020-02-28T14:08:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Prague Vaclav Havel Airport",
+                "timezone": "Europe/Prague",
+                "iata": "PRG",
+                "icao": "LKPR",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "14",
+                "delay": 5,
+                "scheduled": "2020-02-28T17:05:00+00:00",
+                "estimated": "2020-02-28T17:05:00+00:00",
+                "actual": "2020-02-28T17:10:00+00:00",
+                "estimated_runway": "2020-02-28T17:07:00+00:00",
+                "actual_runway": "2020-02-28T17:07:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7326",
+                "iata": "FR7326",
+                "icao": "RYR7326",
+                "codeshared": {
+                    "airline_name": "ryanair sun",
+                    "airline_iata": "rr*",
+                    "airline_icao": null,
+                    "flight_number": "7326",
+                    "flight_iata": "rr*7326",
+                    "flight_icao": null
+                }
+            },
+            "aircraft": {
+                "registration": "SP-RSW",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "48C234"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": 14,
+                "scheduled": "2020-02-28T13:25:00+00:00",
+                "estimated": "2020-02-28T13:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T13:56:00+00:00",
+                "actual_runway": "2020-02-28T13:56:00+00:00"
+            },
+            "arrival": {
+                "airport": "San Pablo",
+                "timezone": "Europe/Madrid",
+                "iata": "SVQ",
+                "icao": "LEZL",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "delay": 18,
+                "scheduled": "2020-02-28T17:15:00+00:00",
+                "estimated": "2020-02-28T17:15:00+00:00",
+                "actual": "2020-02-28T17:33:00+00:00",
+                "estimated_runway": "2020-02-28T17:29:00+00:00",
+                "actual_runway": "2020-02-28T17:29:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7146",
+                "iata": "FR7146",
+                "icao": "RYR7146",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": null,
+                "scheduled": "2020-02-28T13:20:00+00:00",
+                "estimated": "2020-02-28T13:20:00+00:00",
+                "actual": "2020-02-28T13:18:00+00:00",
+                "estimated_runway": "2020-02-28T13:41:00+00:00",
+                "actual_runway": "2020-02-28T13:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "03",
+                "delay": 4,
+                "scheduled": "2020-02-28T17:00:00+00:00",
+                "estimated": "2020-02-28T17:00:00+00:00",
+                "actual": "2020-02-28T17:00:00+00:00",
+                "estimated_runway": "2020-02-28T16:56:00+00:00",
+                "actual_runway": "2020-02-28T16:56:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3978",
+                "iata": "FR3978",
+                "icao": "RYR3978",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-28T13:15:00+00:00",
+                "estimated": "2020-02-28T13:15:00+00:00",
+                "actual": "2020-02-28T13:12:00+00:00",
+                "estimated_runway": "2020-02-28T13:28:00+00:00",
+                "actual_runway": "2020-02-28T13:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nantes Atlantique",
+                "timezone": "Europe/Paris",
+                "iata": "NTE",
+                "icao": "LFRS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 3,
+                "scheduled": "2020-02-28T15:55:00+00:00",
+                "estimated": "2020-02-28T15:55:00+00:00",
+                "actual": "2020-02-28T15:48:00+00:00",
+                "estimated_runway": "2020-02-28T15:41:00+00:00",
+                "actual_runway": "2020-02-28T15:41:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1986",
+                "iata": "FR1986",
+                "icao": "RYR1986",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "119",
+                "delay": null,
+                "scheduled": "2020-02-28T13:15:00+00:00",
+                "estimated": "2020-02-28T13:15:00+00:00",
+                "actual": "2020-02-28T13:09:00+00:00",
+                "estimated_runway": "2020-02-28T13:21:00+00:00",
+                "actual_runway": "2020-02-28T13:21:00+00:00"
+            },
+            "arrival": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": "C",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-02-28T15:55:00+00:00",
+                "estimated": "2020-02-28T15:55:00+00:00",
+                "actual": "2020-02-28T15:35:00+00:00",
+                "estimated_runway": "2020-02-28T15:31:00+00:00",
+                "actual_runway": "2020-02-28T15:31:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1454",
+                "iata": "FR1454",
+                "icao": "RYR1454",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "117",
+                "delay": 10,
+                "scheduled": "2020-02-28T13:05:00+00:00",
+                "estimated": "2020-02-28T13:05:00+00:00",
+                "actual": "2020-02-28T13:15:00+00:00",
+                "estimated_runway": "2020-02-28T13:39:00+00:00",
+                "actual_runway": "2020-02-28T13:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Salvaza",
+                "timezone": "Europe/Paris",
+                "iata": "CCF",
+                "icao": "LFMK",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 20,
+                "scheduled": "2020-02-28T16:20:00+00:00",
+                "estimated": "2020-02-28T16:20:00+00:00",
+                "actual": "2020-02-28T16:40:00+00:00",
+                "estimated_runway": "2020-02-28T16:34:00+00:00",
+                "actual_runway": "2020-02-28T16:34:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1984",
+                "iata": "FR1984",
+                "icao": "RYR1984",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": 10,
+                "scheduled": "2020-02-28T13:00:00+00:00",
+                "estimated": "2020-02-28T13:00:00+00:00",
+                "actual": "2020-02-28T13:10:00+00:00",
+                "estimated_runway": "2020-02-28T13:35:00+00:00",
+                "actual_runway": "2020-02-28T13:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 5,
+                "scheduled": "2020-02-28T14:10:00+00:00",
+                "estimated": "2020-02-28T14:10:00+00:00",
+                "actual": "2020-02-28T14:15:00+00:00",
+                "estimated_runway": "2020-02-28T14:10:00+00:00",
+                "actual_runway": "2020-02-28T14:10:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "670",
+                "iata": "FR670",
+                "icao": "RYR670",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "delay": null,
+                "scheduled": "2020-02-28T12:50:00+00:00",
+                "estimated": "2020-02-28T12:50:00+00:00",
+                "actual": "2020-02-28T12:46:00+00:00",
+                "estimated_runway": "2020-02-28T12:59:00+00:00",
+                "actual_runway": "2020-02-28T12:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 8,
+                "scheduled": "2020-02-28T14:20:00+00:00",
+                "estimated": "2020-02-28T14:20:00+00:00",
+                "actual": "2020-02-28T14:28:00+00:00",
+                "estimated_runway": "2020-02-28T14:21:00+00:00",
+                "actual_runway": "2020-02-28T14:21:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "122",
+                "iata": "FR122",
+                "icao": "RYR122",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "119",
+                "delay": 3,
+                "scheduled": "2020-02-28T12:30:00+00:00",
+                "estimated": "2020-02-28T12:30:00+00:00",
+                "actual": "2020-02-28T12:33:00+00:00",
+                "estimated_runway": "2020-02-28T12:51:00+00:00",
+                "actual_runway": "2020-02-28T12:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "43",
+                "delay": 2,
+                "scheduled": "2020-02-28T16:00:00+00:00",
+                "estimated": "2020-02-28T16:00:00+00:00",
+                "actual": "2020-02-28T15:59:00+00:00",
+                "estimated_runway": "2020-02-28T15:58:00+00:00",
+                "actual_runway": "2020-02-28T15:58:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3977",
+                "iata": "FR3977",
+                "icao": "RYR3977",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": 29,
+                "scheduled": "2020-02-28T12:30:00+00:00",
+                "estimated": "2020-02-28T12:30:00+00:00",
+                "actual": "2020-02-28T12:59:00+00:00",
+                "estimated_runway": "2020-02-28T13:14:00+00:00",
+                "actual_runway": "2020-02-28T13:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bristol",
+                "timezone": "Europe/London",
+                "iata": "BRS",
+                "icao": "EGGD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 28,
+                "scheduled": "2020-02-28T13:35:00+00:00",
+                "estimated": "2020-02-28T13:35:00+00:00",
+                "actual": "2020-02-28T14:03:00+00:00",
+                "estimated_runway": "2020-02-28T13:56:00+00:00",
+                "actual_runway": "2020-02-28T13:56:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "506",
+                "iata": "FR506",
+                "icao": "RYR506",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "delay": 10,
+                "scheduled": "2020-02-28T11:55:00+00:00",
+                "estimated": "2020-02-28T11:55:00+00:00",
+                "actual": "2020-02-28T12:05:00+00:00",
+                "estimated_runway": "2020-02-28T12:14:00+00:00",
+                "actual_runway": "2020-02-28T12:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T13:15:00+00:00",
+                "estimated": "2020-02-28T13:15:00+00:00",
+                "actual": "2020-02-28T13:12:00+00:00",
+                "estimated_runway": "2020-02-28T13:06:00+00:00",
+                "actual_runway": "2020-02-28T13:06:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2272",
+                "iata": "FR2272",
+                "icao": "RYR2272",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EIFRG",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA658"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T11:30:00+00:00",
+                "estimated": "2020-02-28T11:30:00+00:00",
+                "actual": "2020-02-28T11:23:00+00:00",
+                "estimated_runway": "2020-02-28T11:48:00+00:00",
+                "actual_runway": "2020-02-28T11:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Beauvais-Tille",
+                "timezone": "Europe/Paris",
+                "iata": "BVA",
+                "icao": "LFOB",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": 8,
+                "scheduled": "2020-02-28T14:10:00+00:00",
+                "estimated": "2020-02-28T14:10:00+00:00",
+                "actual": "2020-02-28T14:00:00+00:00",
+                "estimated_runway": "2020-02-28T13:53:00+00:00",
+                "actual_runway": "2020-02-28T13:53:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1860",
+                "iata": "FR1860",
+                "icao": "RYR1860",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DCM",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA243"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "delay": 21,
+                "scheduled": "2020-02-28T11:20:00+00:00",
+                "estimated": "2020-02-28T11:20:00+00:00",
+                "actual": "2020-02-28T11:41:00+00:00",
+                "estimated_runway": "2020-02-28T11:55:00+00:00",
+                "actual_runway": "2020-02-28T11:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 20,
+                "scheduled": "2020-02-28T12:45:00+00:00",
+                "estimated": "2020-02-28T12:45:00+00:00",
+                "actual": "2020-02-28T13:05:00+00:00",
+                "estimated_runway": "2020-02-28T12:58:00+00:00",
+                "actual_runway": "2020-02-28T12:58:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "114",
+                "iata": "FR114",
+                "icao": "RYR114",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": 5,
+                "scheduled": "2020-02-28T15:55:00+00:00",
+                "estimated": "2020-02-28T15:55:00+00:00",
+                "actual": "2020-02-28T16:00:00+00:00",
+                "estimated_runway": "2020-02-28T16:23:00+00:00",
+                "actual_runway": "2020-02-28T16:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Liszt Ferenc International",
+                "timezone": "Europe/Budapest",
+                "iata": "BUD",
+                "icao": "LHBP",
+                "terminal": "2B",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T19:55:00+00:00",
+                "estimated": "2020-02-28T19:55:00+00:00",
+                "actual": "2020-02-28T19:49:00+00:00",
+                "estimated_runway": "2020-02-28T19:45:00+00:00",
+                "actual_runway": "2020-02-28T19:45:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1025",
+                "iata": "FR1025",
+                "icao": "RYR1025",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DPZ",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA565"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "119",
+                "delay": null,
+                "scheduled": "2020-02-28T16:45:00+00:00",
+                "estimated": "2020-02-28T16:45:00+00:00",
+                "actual": "2020-02-28T16:36:00+00:00",
+                "estimated_runway": "2020-02-28T16:47:00+00:00",
+                "actual_runway": "2020-02-28T16:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T18:10:00+00:00",
+                "estimated": "2020-02-28T18:10:00+00:00",
+                "actual": "2020-02-28T17:46:00+00:00",
+                "estimated_runway": "2020-02-28T17:40:00+00:00",
+                "actual_runway": "2020-02-28T17:40:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "211",
+                "iata": "FR211",
+                "icao": "RYR211",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EIGXG",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CAFC2"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T16:45:00+00:00",
+                "estimated": "2020-02-28T16:45:00+00:00",
+                "actual": "2020-02-28T16:37:00+00:00",
+                "estimated_runway": "2020-02-28T16:50:00+00:00",
+                "actual_runway": "2020-02-28T16:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Riga International",
+                "timezone": "Europe/Riga",
+                "iata": "RIX",
+                "icao": "EVRA",
+                "terminal": "C",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:50:00+00:00",
+                "estimated": "2020-02-28T21:50:00+00:00",
+                "actual": "2020-02-28T21:21:00+00:00",
+                "estimated_runway": "2020-02-28T21:16:00+00:00",
+                "actual_runway": "2020-02-28T21:16:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1976",
+                "iata": "FR1976",
+                "icao": "RYR1976",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-28T15:40:00+00:00",
+                "estimated": "2020-02-28T15:40:00+00:00",
+                "actual": "2020-02-28T15:35:00+00:00",
+                "estimated_runway": "2020-02-28T15:47:00+00:00",
+                "actual_runway": "2020-02-28T15:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": "C",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-02-28T18:25:00+00:00",
+                "estimated": "2020-02-28T18:25:00+00:00",
+                "actual": "2020-02-28T18:06:00+00:00",
+                "estimated_runway": "2020-02-28T17:59:00+00:00",
+                "actual_runway": "2020-02-28T17:59:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1456",
+                "iata": "FR1456",
+                "icao": "RYR1456",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T21:30:00+00:00",
+                "estimated": "2020-02-28T21:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T21:41:00+00:00",
+                "actual_runway": "2020-02-28T21:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T22:45:00+00:00",
+                "estimated": "2020-02-28T22:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T22:39:00+00:00",
+                "actual_runway": "2020-02-28T22:39:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "298",
+                "iata": "FR298",
+                "icao": "RYR298",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": null,
+                "scheduled": "2020-02-28T21:15:00+00:00",
+                "estimated": "2020-02-28T21:15:00+00:00",
+                "actual": "2020-02-28T21:12:00+00:00",
+                "estimated_runway": "2020-02-28T21:22:00+00:00",
+                "actual_runway": "2020-02-28T21:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T22:20:00+00:00",
+                "estimated": "2020-02-28T22:20:00+00:00",
+                "actual": "2020-02-28T22:01:00+00:00",
+                "estimated_runway": "2020-02-28T21:55:00+00:00",
+                "actual_runway": "2020-02-28T21:55:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "668",
+                "iata": "FR668",
+                "icao": "RYR668",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": null,
+                "scheduled": "2020-02-28T20:30:00+00:00",
+                "estimated": "2020-02-28T20:30:00+00:00",
+                "actual": "2020-02-28T20:21:00+00:00",
+                "estimated_runway": "2020-02-28T20:28:00+00:00",
+                "actual_runway": "2020-02-28T20:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:35:00+00:00",
+                "estimated": "2020-02-28T21:35:00+00:00",
+                "actual": "2020-02-28T21:10:00+00:00",
+                "estimated_runway": "2020-02-28T21:07:00+00:00",
+                "actual_runway": "2020-02-28T21:07:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "558",
+                "iata": "FR558",
+                "icao": "RYR558",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "delay": null,
+                "scheduled": "2020-02-28T20:25:00+00:00",
+                "estimated": "2020-02-28T20:25:00+00:00",
+                "actual": "2020-02-28T20:15:00+00:00",
+                "estimated_runway": "2020-02-28T20:26:00+00:00",
+                "actual_runway": "2020-02-28T20:26:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:40:00+00:00",
+                "estimated": "2020-02-28T21:40:00+00:00",
+                "actual": "2020-02-28T21:27:00+00:00",
+                "estimated_runway": "2020-02-28T21:19:00+00:00",
+                "actual_runway": "2020-02-28T21:19:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "272",
+                "iata": "FR272",
+                "icao": "RYR272",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": null,
+                "scheduled": "2020-02-28T20:20:00+00:00",
+                "estimated": "2020-02-28T20:20:00+00:00",
+                "actual": "2020-02-28T20:20:00+00:00",
+                "estimated_runway": "2020-02-28T20:32:00+00:00",
+                "actual_runway": "2020-02-28T20:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bristol",
+                "timezone": "Europe/London",
+                "iata": "BRS",
+                "icao": "EGGD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:25:00+00:00",
+                "estimated": "2020-02-28T21:25:00+00:00",
+                "actual": "2020-02-28T21:19:00+00:00",
+                "estimated_runway": "2020-02-28T21:14:00+00:00",
+                "actual_runway": "2020-02-28T21:14:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "508",
+                "iata": "FR508",
+                "icao": "RYR508",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": null,
+                "scheduled": "2020-02-28T19:00:00+00:00",
+                "estimated": "2020-02-28T19:00:00+00:00",
+                "actual": "2020-02-28T18:57:00+00:00",
+                "estimated_runway": "2020-02-28T19:10:00+00:00",
+                "actual_runway": "2020-02-28T19:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T20:05:00+00:00",
+                "estimated": "2020-02-28T20:05:00+00:00",
+                "actual": "2020-02-28T19:50:00+00:00",
+                "estimated_runway": "2020-02-28T19:44:00+00:00",
+                "actual_runway": "2020-02-28T19:44:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "1556",
+                "iata": "FR1556",
+                "icao": "RYR1556",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DLY",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA304"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": null,
+                "scheduled": "2020-02-28T18:50:00+00:00",
+                "estimated": "2020-02-28T18:50:00+00:00",
+                "actual": "2020-02-28T18:50:00+00:00",
+                "estimated_runway": "2020-02-28T18:59:00+00:00",
+                "actual_runway": "2020-02-28T18:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Charleroi Brussels South",
+                "timezone": "Europe/Brussels",
+                "iata": "CRL",
+                "icao": "EBCI",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:30:00+00:00",
+                "estimated": "2020-02-28T21:30:00+00:00",
+                "actual": "2020-02-28T21:19:00+00:00",
+                "estimated_runway": "2020-02-28T21:13:00+00:00",
+                "actual_runway": "2020-02-28T21:13:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "46",
+                "iata": "FR46",
+                "icao": "RYR46",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "delay": null,
+                "scheduled": "2020-02-28T18:50:00+00:00",
+                "estimated": "2020-02-28T18:50:00+00:00",
+                "actual": "2020-02-28T18:42:00+00:00",
+                "estimated_runway": "2020-02-28T18:57:00+00:00",
+                "actual_runway": "2020-02-28T18:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T20:10:00+00:00",
+                "estimated": "2020-02-28T20:10:00+00:00",
+                "actual": "2020-02-28T20:00:00+00:00",
+                "estimated_runway": "2020-02-28T19:51:00+00:00",
+                "actual_runway": "2020-02-28T19:51:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "288",
+                "iata": "FR288",
+                "icao": "RYR288",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-GDD",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CABB5"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "119",
+                "delay": null,
+                "scheduled": "2020-02-28T18:35:00+00:00",
+                "estimated": "2020-02-28T18:35:00+00:00",
+                "actual": "2020-02-28T18:26:00+00:00",
+                "estimated_runway": "2020-02-28T18:43:00+00:00",
+                "actual_runway": "2020-02-28T18:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Kastrup",
+                "timezone": "Europe/Copenhagen",
+                "iata": "CPH",
+                "icao": "EKCH",
+                "terminal": "3",
+                "gate": "F4",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:45:00+00:00",
+                "estimated": "2020-02-28T21:45:00+00:00",
+                "actual": "2020-02-28T21:25:00+00:00",
+                "estimated_runway": "2020-02-28T21:19:00+00:00",
+                "actual_runway": "2020-02-28T21:19:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "632",
+                "iata": "FR632",
+                "icao": "RYR632",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "112",
+                "delay": null,
+                "scheduled": "2020-02-28T18:15:00+00:00",
+                "estimated": "2020-02-28T18:15:00+00:00",
+                "actual": "2020-02-28T18:07:00+00:00",
+                "estimated_runway": "2020-02-28T18:24:00+00:00",
+                "actual_runway": "2020-02-28T18:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Birmingham International Airport",
+                "timezone": "Europe/London",
+                "iata": "BHX",
+                "icao": "EGBB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T19:20:00+00:00",
+                "estimated": "2020-02-28T19:20:00+00:00",
+                "actual": "2020-02-28T19:10:00+00:00",
+                "estimated_runway": "2020-02-28T19:05:00+00:00",
+                "actual_runway": "2020-02-28T19:05:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "666",
+                "iata": "FR666",
+                "icao": "RYR666",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "111",
+                "delay": null,
+                "scheduled": "2020-02-28T17:45:00+00:00",
+                "estimated": "2020-02-28T17:45:00+00:00",
+                "actual": "2020-02-28T17:40:00+00:00",
+                "estimated_runway": "2020-02-28T17:50:00+00:00",
+                "actual_runway": "2020-02-28T17:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T18:50:00+00:00",
+                "estimated": "2020-02-28T18:50:00+00:00",
+                "actual": "2020-02-28T18:30:00+00:00",
+                "estimated_runway": "2020-02-28T18:25:00+00:00",
+                "actual_runway": "2020-02-28T18:25:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "556",
+                "iata": "FR556",
+                "icao": "RYR556",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "delay": null,
+                "scheduled": "2020-02-28T17:30:00+00:00",
+                "estimated": "2020-02-28T17:30:00+00:00",
+                "actual": "2020-02-28T17:21:00+00:00",
+                "estimated_runway": "2020-02-28T17:42:00+00:00",
+                "actual_runway": "2020-02-28T17:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bergamo - Orio al Serio",
+                "timezone": "Europe/Rome",
+                "iata": "BGY",
+                "icao": "LIME",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T21:00:00+00:00",
+                "estimated": "2020-02-28T21:00:00+00:00",
+                "actual": "2020-02-28T20:44:00+00:00",
+                "estimated_runway": "2020-02-28T20:39:00+00:00",
+                "actual_runway": "2020-02-28T20:39:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "4844",
+                "iata": "FR4844",
+                "icao": "RYR4844",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": 13,
+                "scheduled": "2020-02-28T17:25:00+00:00",
+                "estimated": "2020-02-28T17:25:00+00:00",
+                "actual": "2020-02-28T17:38:00+00:00",
+                "estimated_runway": "2020-02-28T17:57:00+00:00",
+                "actual_runway": "2020-02-28T17:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 18,
+                "scheduled": "2020-02-28T20:15:00+00:00",
+                "estimated": "2020-02-28T20:15:00+00:00",
+                "actual": "2020-02-28T20:33:00+00:00",
+                "estimated_runway": "2020-02-28T20:30:00+00:00",
+                "actual_runway": "2020-02-28T20:30:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7138",
+                "iata": "FR7138",
+                "icao": "RYR7138",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": null,
+                "scheduled": "2020-02-28T17:15:00+00:00",
+                "estimated": "2020-02-28T17:15:00+00:00",
+                "actual": "2020-02-28T17:13:00+00:00",
+                "estimated_runway": "2020-02-28T17:28:00+00:00",
+                "actual_runway": "2020-02-28T17:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "03",
+                "delay": null,
+                "scheduled": "2020-02-28T20:55:00+00:00",
+                "estimated": "2020-02-28T20:55:00+00:00",
+                "actual": "2020-02-28T20:50:00+00:00",
+                "estimated_runway": "2020-02-28T20:41:00+00:00",
+                "actual_runway": "2020-02-28T20:41:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7156",
+                "iata": "FR7156",
+                "icao": "RYR7156",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}
