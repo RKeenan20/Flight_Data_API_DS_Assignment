@@ -1,0 +1,176 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 3,
+        "total": 3
+    },
+    "data": [
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "337",
+                "delay": 20,
+                "scheduled": "2020-02-28T18:20:00+00:00",
+                "estimated": "2020-02-28T18:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T18:48:00+00:00",
+                "actual_runway": "2020-02-28T18:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "M",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T19:35:00+00:00",
+                "estimated": "2020-02-28T19:35:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T19:34:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "3228",
+                "iata": "EI3228",
+                "icao": "EIN3228",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3228",
+                    "flight_iata": "re3228",
+                    "flight_icao": "stk3228"
+                }
+            },
+            "aircraft": {
+                "registration": "EI-FSK",
+                "iata": "AT76",
+                "icao": "AT76",
+                "icao24": "4CA6B1"
+            },
+            "live": {
+                "updated": "2020-02-28T19:13:59+00:00",
+                "latitude": 55.87,
+                "longitude": -4.44,
+                "altitude": 4572,
+                "direction": 31.58,
+                "speed_horizontal": 586.98,
+                "speed_vertical": 0,
+                "is_ground": true
+            }
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "336",
+                "delay": 25,
+                "scheduled": "2020-02-28T17:50:00+00:00",
+                "estimated": "2020-02-28T17:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T18:43:00+00:00",
+                "actual_runway": "2020-02-28T18:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": "N",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-02-28T19:10:00+00:00",
+                "estimated": "2020-02-28T19:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T19:53:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "3258",
+                "iata": "EI3258",
+                "icao": "EIN3258",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3258",
+                    "flight_iata": "re3258",
+                    "flight_icao": "stk3258"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-02-28",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "416",
+                "delay": 45,
+                "scheduled": "2020-02-28T20:45:00+00:00",
+                "estimated": "2020-02-28T20:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-02-28T22:24:00+00:00",
+                "actual_runway": "2020-02-28T22:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 70,
+                "scheduled": "2020-02-28T22:05:00+00:00",
+                "estimated": "2020-02-28T22:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "186",
+                "iata": "EI186",
+                "icao": "EIN186",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}

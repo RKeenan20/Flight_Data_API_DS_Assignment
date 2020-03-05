@@ -1,0 +1,254 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 5,
+        "total": 5
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "116",
+                "delay": 8,
+                "scheduled": "2020-03-05T14:15:00+00:00",
+                "estimated": "2020-03-05T14:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:33:00+00:00",
+                "actual_runway": "2020-03-05T14:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Fuerteventura",
+                "timezone": "Atlantic/Canary",
+                "iata": "FUE",
+                "icao": "GCFV",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T18:30:00+00:00",
+                "estimated": "2020-03-05T18:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T18:25:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7128",
+                "iata": "FR7128",
+                "icao": "RYR7128",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "103",
+                "delay": 28,
+                "scheduled": "2020-03-05T17:15:00+00:00",
+                "estimated": "2020-03-05T17:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:59:00+00:00",
+                "actual_runway": "2020-03-05T17:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Menara",
+                "timezone": "Africa/Casablanca",
+                "iata": "RAK",
+                "icao": "GMMX",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": 33,
+                "scheduled": "2020-03-05T21:50:00+00:00",
+                "estimated": "2020-03-05T21:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7378",
+                "iata": "FR7378",
+                "icao": "RYR7378",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "106",
+                "delay": 25,
+                "scheduled": "2020-03-05T17:15:00+00:00",
+                "estimated": "2020-03-05T17:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:51:00+00:00",
+                "actual_runway": "2020-03-05T17:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Faro",
+                "timezone": "Europe/Lisbon",
+                "iata": "FAO",
+                "icao": "LPFR",
+                "terminal": "N",
+                "gate": null,
+                "baggage": null,
+                "delay": 26,
+                "scheduled": "2020-03-05T20:15:00+00:00",
+                "estimated": "2020-03-05T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7032",
+                "iata": "FR7032",
+                "icao": "RYR7032",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "112",
+                "delay": 9,
+                "scheduled": "2020-03-05T16:55:00+00:00",
+                "estimated": "2020-03-05T16:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:22:00+00:00",
+                "actual_runway": "2020-03-05T17:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Gatwick",
+                "timezone": "Europe/London",
+                "iata": "LGW",
+                "icao": "EGKK",
+                "terminal": "S",
+                "gate": null,
+                "baggage": null,
+                "delay": 12,
+                "scheduled": "2020-03-05T18:20:00+00:00",
+                "estimated": "2020-03-05T18:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "126",
+                "iata": "FR126",
+                "icao": "RYR126",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "delay": 5,
+                "scheduled": "2020-03-04T21:35:00+00:00",
+                "estimated": "2020-03-04T21:35:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:54:00+00:00",
+                "actual_runway": "2020-03-04T21:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Southend",
+                "timezone": "Europe/London",
+                "iata": "SEN",
+                "icao": "EGMC",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "delay": 8,
+                "scheduled": "2020-03-04T22:55:00+00:00",
+                "estimated": "2020-03-04T22:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2721",
+                "iata": "FR2721",
+                "icao": "RYR2721",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-GSH",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CAFB4"
+            },
+            "live": {
+                "updated": "2020-03-04T22:10:00+00:00",
+                "latitude": 51.57,
+                "longitude": 0.7,
+                "altitude": 10668,
+                "direction": 99,
+                "speed_horizontal": 875.664,
+                "speed_vertical": 0,
+                "is_ground": true
+            }
+        }
+    ]
+}

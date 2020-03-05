@@ -1,0 +1,5051 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 600,
+        "count": 100,
+        "total": 831
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Washington Dulles International",
+                "timezone": "America/New_York",
+                "iata": "IAD",
+                "icao": "KIAD",
+                "terminal": null,
+                "gate": "B79",
+                "delay": null,
+                "scheduled": "2020-03-04T17:25:00+00:00",
+                "estimated": "2020-03-04T17:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T17:37:00+00:00",
+                "actual_runway": "2020-03-04T17:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "403",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T05:10:00+00:00",
+                "estimated": "2020-03-05T05:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T04:30:00+00:00",
+                "actual_runway": "2020-03-05T04:30:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7938",
+                "iata": "EY7938",
+                "icao": "ETD7938",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "118",
+                    "flight_iata": "ei118",
+                    "flight_icao": "ein118"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Washington Dulles International",
+                "timezone": "America/New_York",
+                "iata": "IAD",
+                "icao": "KIAD",
+                "terminal": null,
+                "gate": "B79",
+                "delay": null,
+                "scheduled": "2020-03-04T17:25:00+00:00",
+                "estimated": "2020-03-04T17:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T17:37:00+00:00",
+                "actual_runway": "2020-03-04T17:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "403",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T05:10:00+00:00",
+                "estimated": "2020-03-05T05:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T04:30:00+00:00",
+                "actual_runway": "2020-03-05T04:30:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6148",
+                "iata": "BA6148",
+                "icao": "BAW6148",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "118",
+                    "flight_iata": "ei118",
+                    "flight_icao": "ein118"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": "C10",
+                "delay": null,
+                "scheduled": "2020-03-04T20:10:00+00:00",
+                "estimated": "2020-03-04T20:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:22:00+00:00",
+                "actual_runway": "2020-03-04T20:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T21:50:00+00:00",
+                "estimated": "2020-03-04T21:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:31:00+00:00",
+                "actual_runway": "2020-03-04T21:31:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "357",
+                "iata": "EI357",
+                "icao": "EIN357",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DVE",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "4CA5C8"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": "C10",
+                "delay": null,
+                "scheduled": "2020-03-04T20:10:00+00:00",
+                "estimated": "2020-03-04T20:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:22:00+00:00",
+                "actual_runway": "2020-03-04T20:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T21:50:00+00:00",
+                "estimated": "2020-03-04T21:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:31:00+00:00",
+                "actual_runway": "2020-03-04T21:31:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2091",
+                "iata": "BA2091",
+                "icao": "BAW2091",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "357",
+                    "flight_iata": "ei357",
+                    "flight_icao": "ein357"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Leeds/bradford",
+                "timezone": "Europe/London",
+                "iata": "LBA",
+                "icao": "EGNM",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:25:00+00:00",
+                "estimated": "2020-03-04T19:25:00+00:00",
+                "actual": "2020-03-04T19:18:00+00:00",
+                "estimated_runway": "2020-03-04T19:28:00+00:00",
+                "actual_runway": "2020-03-04T19:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "102",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T20:30:00+00:00",
+                "estimated": "2020-03-04T20:30:00+00:00",
+                "actual": "2020-03-04T20:12:00+00:00",
+                "estimated_runway": "2020-03-04T20:04:00+00:00",
+                "actual_runway": "2020-03-04T20:04:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "157",
+                "iata": "FR157",
+                "icao": "RYR157",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:39:00+00:00",
+                "actual_runway": "2020-03-04T20:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "401",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:03:00+00:00",
+                "actual_runway": "2020-03-05T14:03:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "144",
+                "iata": "EI144",
+                "icao": "EIN144",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:39:00+00:00",
+                "actual_runway": "2020-03-04T20:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "401",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:03:00+00:00",
+                "actual_runway": "2020-03-05T14:03:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7907",
+                "iata": "EY7907",
+                "icao": "ETD7907",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "144",
+                    "flight_iata": "ei144",
+                    "flight_icao": "ein144"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:39:00+00:00",
+                "actual_runway": "2020-03-04T20:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "401",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:03:00+00:00",
+                "actual_runway": "2020-03-05T14:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6122",
+                "iata": "BA6122",
+                "icao": "BAW6122",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "144",
+                    "flight_iata": "ei144",
+                    "flight_icao": "ein144"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "1",
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-04T21:55:00+00:00",
+                "estimated": "2020-03-04T21:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:55:00+00:00",
+                "actual_runway": "2020-03-04T21:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T22:40:00+00:00",
+                "estimated": "2020-03-04T22:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T22:12:00+00:00",
+                "actual_runway": "2020-03-04T22:12:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "529",
+                "iata": "EI529",
+                "icao": "EIN529",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "1",
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-04T21:55:00+00:00",
+                "estimated": "2020-03-04T21:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:55:00+00:00",
+                "actual_runway": "2020-03-04T21:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T22:40:00+00:00",
+                "estimated": "2020-03-04T22:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T22:12:00+00:00",
+                "actual_runway": "2020-03-04T22:12:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8945",
+                "iata": "BA8945",
+                "icao": "BAW8945",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "529",
+                    "flight_iata": "ei529",
+                    "flight_icao": "ein529"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2E",
+                "gate": "K53",
+                "delay": null,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:18:00+00:00",
+                "estimated_runway": "2020-03-04T21:34:00+00:00",
+                "actual_runway": "2020-03-04T21:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-04T22:15:00+00:00",
+                "estimated": "2020-03-04T22:15:00+00:00",
+                "actual": "2020-03-04T22:05:00+00:00",
+                "estimated_runway": "2020-03-04T21:56:00+00:00",
+                "actual_runway": "2020-03-04T21:56:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "1016",
+                "iata": "AF1016",
+                "icao": "AFR1016",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2E",
+                "gate": "K53",
+                "delay": null,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:18:00+00:00",
+                "estimated_runway": "2020-03-04T21:34:00+00:00",
+                "actual_runway": "2020-03-04T21:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-04T22:15:00+00:00",
+                "estimated": "2020-03-04T22:15:00+00:00",
+                "actual": "2020-03-04T22:05:00+00:00",
+                "estimated_runway": "2020-03-04T21:56:00+00:00",
+                "actual_runway": "2020-03-04T21:56:00+00:00"
+            },
+            "airline": {
+                "name": "Aeroflot",
+                "iata": "SU",
+                "icao": "AFL"
+            },
+            "flight": {
+                "number": "3141",
+                "iata": "SU3141",
+                "icao": "AFL3141",
+                "codeshared": {
+                    "airline_name": "air france",
+                    "airline_iata": "af",
+                    "airline_icao": "afr",
+                    "flight_number": "1016",
+                    "flight_iata": "af1016",
+                    "flight_icao": "afr1016"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2E",
+                "gate": "K53",
+                "delay": null,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:18:00+00:00",
+                "estimated_runway": "2020-03-04T21:34:00+00:00",
+                "actual_runway": "2020-03-04T21:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-04T22:15:00+00:00",
+                "estimated": "2020-03-04T22:15:00+00:00",
+                "actual": "2020-03-04T22:05:00+00:00",
+                "estimated_runway": "2020-03-04T21:56:00+00:00",
+                "actual_runway": "2020-03-04T21:56:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "8295",
+                "iata": "MU8295",
+                "icao": "CES8295",
+                "codeshared": {
+                    "airline_name": "air france",
+                    "airline_iata": "af",
+                    "airline_icao": "afr",
+                    "flight_number": "1016",
+                    "flight_iata": "af1016",
+                    "flight_icao": "afr1016"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2E",
+                "gate": "K53",
+                "delay": null,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:18:00+00:00",
+                "estimated_runway": "2020-03-04T21:34:00+00:00",
+                "actual_runway": "2020-03-04T21:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-04T22:15:00+00:00",
+                "estimated": "2020-03-04T22:15:00+00:00",
+                "actual": "2020-03-04T22:05:00+00:00",
+                "estimated_runway": "2020-03-04T21:56:00+00:00",
+                "actual_runway": "2020-03-04T21:56:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "5199",
+                "iata": "G35199",
+                "icao": "GLO5199",
+                "codeshared": {
+                    "airline_name": "air france",
+                    "airline_iata": "af",
+                    "airline_icao": "afr",
+                    "flight_number": "1016",
+                    "flight_iata": "af1016",
+                    "flight_icao": "afr1016"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2E",
+                "gate": "K53",
+                "delay": null,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:18:00+00:00",
+                "estimated_runway": "2020-03-04T21:34:00+00:00",
+                "actual_runway": "2020-03-04T21:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-04T22:15:00+00:00",
+                "estimated": "2020-03-04T22:15:00+00:00",
+                "actual": "2020-03-04T22:05:00+00:00",
+                "estimated_runway": "2020-03-04T21:56:00+00:00",
+                "actual_runway": "2020-03-04T21:56:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "6076",
+                "iata": "AM6076",
+                "icao": "AMX6076",
+                "codeshared": {
+                    "airline_name": "air france",
+                    "airline_iata": "af",
+                    "airline_icao": "afr",
+                    "flight_number": "1016",
+                    "flight_iata": "af1016",
+                    "flight_icao": "afr1016"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "H7",
+                "delay": 5,
+                "scheduled": "2020-03-04T21:45:00+00:00",
+                "estimated": "2020-03-04T21:45:00+00:00",
+                "actual": "2020-03-04T21:50:00+00:00",
+                "estimated_runway": "2020-03-04T22:00:00+00:00",
+                "actual_runway": "2020-03-04T22:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "baggage": "4",
+                "delay": 20,
+                "scheduled": "2020-03-04T22:25:00+00:00",
+                "estimated": "2020-03-04T22:25:00+00:00",
+                "actual": "2020-03-04T22:18:00+00:00",
+                "estimated_runway": "2020-03-04T22:13:00+00:00",
+                "actual_runway": "2020-03-04T22:13:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2999",
+                "iata": "FR2999",
+                "icao": "RYR2999",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EIDCR",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA251"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "2",
+                "gate": "D27",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:23:00+00:00",
+                "estimated_runway": "2020-03-04T21:33:00+00:00",
+                "actual_runway": "2020-03-04T21:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-04T22:00:00+00:00",
+                "estimated": "2020-03-04T22:00:00+00:00",
+                "actual": "2020-03-04T21:52:00+00:00",
+                "estimated_runway": "2020-03-04T21:45:00+00:00",
+                "actual_runway": "2020-03-04T21:45:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "939",
+                "iata": "KL939",
+                "icao": "KLM939",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "2",
+                "gate": "D27",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:23:00+00:00",
+                "estimated_runway": "2020-03-04T21:33:00+00:00",
+                "actual_runway": "2020-03-04T21:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-04T22:00:00+00:00",
+                "estimated": "2020-03-04T22:00:00+00:00",
+                "actual": "2020-03-04T21:52:00+00:00",
+                "estimated_runway": "2020-03-04T21:45:00+00:00",
+                "actual_runway": "2020-03-04T21:45:00+00:00"
+            },
+            "airline": {
+                "name": "Aeroflot",
+                "iata": "SU",
+                "icao": "AFL"
+            },
+            "flight": {
+                "number": "3408",
+                "iata": "SU3408",
+                "icao": "AFL3408",
+                "codeshared": {
+                    "airline_name": "klm",
+                    "airline_iata": "kl",
+                    "airline_icao": "klm",
+                    "flight_number": "939",
+                    "flight_iata": "kl939",
+                    "flight_icao": "klm939"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "2",
+                "gate": "D27",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:23:00+00:00",
+                "estimated_runway": "2020-03-04T21:33:00+00:00",
+                "actual_runway": "2020-03-04T21:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-04T22:00:00+00:00",
+                "estimated": "2020-03-04T22:00:00+00:00",
+                "actual": "2020-03-04T21:52:00+00:00",
+                "estimated_runway": "2020-03-04T21:45:00+00:00",
+                "actual_runway": "2020-03-04T21:45:00+00:00"
+            },
+            "airline": {
+                "name": "Xiamen Airlines",
+                "iata": "MF",
+                "icao": "CXA"
+            },
+            "flight": {
+                "number": "9758",
+                "iata": "MF9758",
+                "icao": "CXA9758",
+                "codeshared": {
+                    "airline_name": "klm",
+                    "airline_iata": "kl",
+                    "airline_icao": "klm",
+                    "flight_number": "939",
+                    "flight_iata": "kl939",
+                    "flight_icao": "klm939"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "2",
+                "gate": "D27",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:23:00+00:00",
+                "estimated_runway": "2020-03-04T21:33:00+00:00",
+                "actual_runway": "2020-03-04T21:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-04T22:00:00+00:00",
+                "estimated": "2020-03-04T22:00:00+00:00",
+                "actual": "2020-03-04T21:52:00+00:00",
+                "estimated_runway": "2020-03-04T21:45:00+00:00",
+                "actual_runway": "2020-03-04T21:45:00+00:00"
+            },
+            "airline": {
+                "name": "Kenya Airways",
+                "iata": "KQ",
+                "icao": "KQA"
+            },
+            "flight": {
+                "number": "939",
+                "iata": "KQ939",
+                "icao": "KQA939",
+                "codeshared": {
+                    "airline_name": "klm",
+                    "airline_iata": "kl",
+                    "airline_icao": "klm",
+                    "flight_number": "939",
+                    "flight_iata": "kl939",
+                    "flight_icao": "klm939"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "2",
+                "gate": "D27",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:20:00+00:00",
+                "estimated": "2020-03-04T21:20:00+00:00",
+                "actual": "2020-03-04T21:23:00+00:00",
+                "estimated_runway": "2020-03-04T21:33:00+00:00",
+                "actual_runway": "2020-03-04T21:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-04T22:00:00+00:00",
+                "estimated": "2020-03-04T22:00:00+00:00",
+                "actual": "2020-03-04T21:52:00+00:00",
+                "estimated_runway": "2020-03-04T21:45:00+00:00",
+                "actual_runway": "2020-03-04T21:45:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "5566",
+                "iata": "G35566",
+                "icao": "GLO5566",
+                "codeshared": {
+                    "airline_name": "klm",
+                    "airline_iata": "kl",
+                    "airline_icao": "klm",
+                    "flight_number": "939",
+                    "flight_iata": "kl939",
+                    "flight_icao": "klm939"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "D29",
+                "delay": null,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": "2020-03-04T20:25:00+00:00",
+                "estimated_runway": "2020-03-04T20:27:00+00:00",
+                "actual_runway": "2020-03-04T20:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T21:10:00+00:00",
+                "estimated": "2020-03-04T21:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:40:00+00:00",
+                "actual_runway": "2020-03-04T20:40:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "611",
+                "iata": "EI611",
+                "icao": "EIN611",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "D29",
+                "delay": null,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": "2020-03-04T20:25:00+00:00",
+                "estimated_runway": "2020-03-04T20:27:00+00:00",
+                "actual_runway": "2020-03-04T20:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T21:10:00+00:00",
+                "estimated": "2020-03-04T21:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:40:00+00:00",
+                "actual_runway": "2020-03-04T20:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8969",
+                "iata": "BA8969",
+                "icao": "BAW8969",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "611",
+                    "flight_iata": "ei611",
+                    "flight_icao": "ein611"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "H2",
+                "delay": null,
+                "scheduled": "2020-03-04T18:20:00+00:00",
+                "estimated": "2020-03-04T18:20:00+00:00",
+                "actual": "2020-03-04T18:17:00+00:00",
+                "estimated_runway": "2020-03-04T18:32:00+00:00",
+                "actual_runway": "2020-03-04T18:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "1XN",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": "2020-03-04T18:51:00+00:00",
+                "estimated_runway": "2020-03-04T18:44:00+00:00",
+                "actual_runway": "2020-03-04T18:44:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "3105",
+                "iata": "FR3105",
+                "icao": "RYR3105",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Cologne/bonn",
+                "timezone": "Europe/Berlin",
+                "iata": "CGN",
+                "icao": "EDDK",
+                "terminal": null,
+                "gate": null,
+                "delay": 10,
+                "scheduled": "2020-03-04T19:30:00+00:00",
+                "estimated": "2020-03-04T19:30:00+00:00",
+                "actual": "2020-03-04T19:40:00+00:00",
+                "estimated_runway": "2020-03-04T19:49:00+00:00",
+                "actual_runway": "2020-03-04T19:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "GNIB",
+                "baggage": "3",
+                "delay": 2,
+                "scheduled": "2020-03-04T20:30:00+00:00",
+                "estimated": "2020-03-04T20:30:00+00:00",
+                "actual": "2020-03-04T20:32:00+00:00",
+                "estimated_runway": "2020-03-04T20:27:00+00:00",
+                "actual_runway": "2020-03-04T20:27:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "8036",
+                "iata": "FR8036",
+                "icao": "RYR8036",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Marco Polo",
+                "timezone": "Europe/Rome",
+                "iata": "VCE",
+                "icao": "LIPZ",
+                "terminal": null,
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T18:25:00+00:00",
+                "estimated": "2020-03-04T18:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T18:34:00+00:00",
+                "actual_runway": "2020-03-04T18:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:03:00+00:00",
+                "actual_runway": "2020-03-04T20:03:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "423",
+                "iata": "EI423",
+                "icao": "EIN423",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Marco Polo",
+                "timezone": "Europe/Rome",
+                "iata": "VCE",
+                "icao": "LIPZ",
+                "terminal": null,
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T18:25:00+00:00",
+                "estimated": "2020-03-04T18:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T18:34:00+00:00",
+                "actual_runway": "2020-03-04T18:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:03:00+00:00",
+                "actual_runway": "2020-03-04T20:03:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "5180",
+                "iata": "EY5180",
+                "icao": "ETD5180",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "423",
+                    "flight_iata": "ei423",
+                    "flight_icao": "ein423"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Marco Polo",
+                "timezone": "Europe/Rome",
+                "iata": "VCE",
+                "icao": "LIPZ",
+                "terminal": null,
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T18:25:00+00:00",
+                "estimated": "2020-03-04T18:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T18:34:00+00:00",
+                "actual_runway": "2020-03-04T18:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T20:15:00+00:00",
+                "estimated": "2020-03-04T20:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:03:00+00:00",
+                "actual_runway": "2020-03-04T20:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2133",
+                "iata": "BA2133",
+                "icao": "BAW2133",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "423",
+                    "flight_iata": "ei423",
+                    "flight_icao": "ein423"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Milano Malpensa",
+                "timezone": "Europe/Rome",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:50:00+00:00",
+                "estimated": "2020-03-04T19:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:01:00+00:00",
+                "actual_runway": "2020-03-04T20:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "307",
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T21:30:00+00:00",
+                "estimated": "2020-03-04T21:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:16:00+00:00",
+                "actual_runway": "2020-03-04T21:16:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "437",
+                "iata": "EI437",
+                "icao": "EIN437",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Milano Malpensa",
+                "timezone": "Europe/Rome",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:50:00+00:00",
+                "estimated": "2020-03-04T19:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:01:00+00:00",
+                "actual_runway": "2020-03-04T20:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "307",
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T21:30:00+00:00",
+                "estimated": "2020-03-04T21:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T21:16:00+00:00",
+                "actual_runway": "2020-03-04T21:16:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2143",
+                "iata": "BA2143",
+                "icao": "BAW2143",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "437",
+                    "flight_iata": "ei437",
+                    "flight_icao": "ein437"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "138",
+                "delay": 5,
+                "scheduled": "2020-03-04T19:35:00+00:00",
+                "estimated": "2020-03-04T19:35:00+00:00",
+                "actual": "2020-03-04T19:40:00+00:00",
+                "estimated_runway": "2020-03-04T20:16:00+00:00",
+                "actual_runway": "2020-03-04T20:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T07:00:00+00:00",
+                "estimated": "2020-03-05T07:00:00+00:00",
+                "actual": "2020-03-05T06:57:00+00:00",
+                "estimated_runway": "2020-03-05T06:48:00+00:00",
+                "actual_runway": "2020-03-05T06:48:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "23",
+                "iata": "UA23",
+                "icao": "UAL23",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "138",
+                "delay": 5,
+                "scheduled": "2020-03-04T19:35:00+00:00",
+                "estimated": "2020-03-04T19:35:00+00:00",
+                "actual": "2020-03-04T19:40:00+00:00",
+                "estimated_runway": "2020-03-04T20:16:00+00:00",
+                "actual_runway": "2020-03-04T20:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T07:00:00+00:00",
+                "estimated": "2020-03-05T07:00:00+00:00",
+                "actual": "2020-03-05T06:57:00+00:00",
+                "estimated_runway": "2020-03-05T06:48:00+00:00",
+                "actual_runway": "2020-03-05T06:48:00+00:00"
+            },
+            "airline": {
+                "name": "SWISS",
+                "iata": "LX",
+                "icao": "SWR"
+            },
+            "flight": {
+                "number": "3027",
+                "iata": "LX3027",
+                "icao": "SWR3027",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "23",
+                    "flight_iata": "ua23",
+                    "flight_icao": "ual23"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "138",
+                "delay": 5,
+                "scheduled": "2020-03-04T19:35:00+00:00",
+                "estimated": "2020-03-04T19:35:00+00:00",
+                "actual": "2020-03-04T19:40:00+00:00",
+                "estimated_runway": "2020-03-04T20:16:00+00:00",
+                "actual_runway": "2020-03-04T20:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T07:00:00+00:00",
+                "estimated": "2020-03-05T07:00:00+00:00",
+                "actual": "2020-03-05T06:57:00+00:00",
+                "estimated_runway": "2020-03-05T06:48:00+00:00",
+                "actual_runway": "2020-03-05T06:48:00+00:00"
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "7976",
+                "iata": "LH7976",
+                "icao": "DLH7976",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "23",
+                    "flight_iata": "ua23",
+                    "flight_icao": "ual23"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "138",
+                "delay": 5,
+                "scheduled": "2020-03-04T19:35:00+00:00",
+                "estimated": "2020-03-04T19:35:00+00:00",
+                "actual": "2020-03-04T19:40:00+00:00",
+                "estimated_runway": "2020-03-04T20:16:00+00:00",
+                "actual_runway": "2020-03-04T20:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "418",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T07:00:00+00:00",
+                "estimated": "2020-03-05T07:00:00+00:00",
+                "actual": "2020-03-05T06:57:00+00:00",
+                "estimated_runway": "2020-03-05T06:48:00+00:00",
+                "actual_runway": "2020-03-05T06:48:00+00:00"
+            },
+            "airline": {
+                "name": "Air Canada",
+                "iata": "AC",
+                "icao": "ACA"
+            },
+            "flight": {
+                "number": "5362",
+                "iata": "AC5362",
+                "icao": "ACA5362",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "23",
+                    "flight_iata": "ua23",
+                    "flight_icao": "ual23"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "B",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:50:00+00:00",
+                "estimated": "2020-03-04T17:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:04:00+00:00",
+                "actual_runway": "2020-03-04T19:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "421",
+                "baggage": "3",
+                "delay": 35,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T05:48:00+00:00",
+                "actual_runway": "2020-03-05T05:48:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "100",
+                "iata": "EI100",
+                "icao": "EIN100",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-LRB",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "4CA9BB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "B",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:50:00+00:00",
+                "estimated": "2020-03-04T17:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:04:00+00:00",
+                "actual_runway": "2020-03-04T19:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "421",
+                "baggage": "3",
+                "delay": 35,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T05:48:00+00:00",
+                "actual_runway": "2020-03-05T05:48:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7881",
+                "iata": "EY7881",
+                "icao": "ETD7881",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "100",
+                    "flight_iata": "ei100",
+                    "flight_icao": "ein100"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "B",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:50:00+00:00",
+                "estimated": "2020-03-04T17:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:04:00+00:00",
+                "actual_runway": "2020-03-04T19:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "421",
+                "baggage": "3",
+                "delay": 35,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T05:48:00+00:00",
+                "actual_runway": "2020-03-05T05:48:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6132",
+                "iata": "BA6132",
+                "icao": "BAW6132",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "100",
+                    "flight_iata": "ei100",
+                    "flight_icao": "ein100"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "8",
+                "delay": 12,
+                "scheduled": "2020-03-04T20:30:00+00:00",
+                "estimated": "2020-03-04T20:30:00+00:00",
+                "actual": "2020-03-04T20:42:00+00:00",
+                "estimated_runway": "2020-03-04T20:47:00+00:00",
+                "actual_runway": "2020-03-04T20:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T21:50:00+00:00",
+                "estimated": "2020-03-04T21:50:00+00:00",
+                "actual": "2020-03-04T21:50:00+00:00",
+                "estimated_runway": "2020-03-04T21:42:00+00:00",
+                "actual_runway": "2020-03-04T21:42:00+00:00"
+            },
+            "airline": {
+                "name": "BA Cityflyer",
+                "iata": "CJ",
+                "icao": "CFE"
+            },
+            "flight": {
+                "number": "4470",
+                "iata": "CJ4470",
+                "icao": "CFE4470",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "8",
+                "delay": 12,
+                "scheduled": "2020-03-04T20:30:00+00:00",
+                "estimated": "2020-03-04T20:30:00+00:00",
+                "actual": "2020-03-04T20:42:00+00:00",
+                "estimated_runway": "2020-03-04T20:47:00+00:00",
+                "actual_runway": "2020-03-04T20:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T21:50:00+00:00",
+                "estimated": "2020-03-04T21:50:00+00:00",
+                "actual": "2020-03-04T21:50:00+00:00",
+                "estimated_runway": "2020-03-04T21:42:00+00:00",
+                "actual_runway": "2020-03-04T21:42:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4470",
+                "iata": "BA4470",
+                "icao": "BAW4470",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4470",
+                    "flight_iata": "cj4470",
+                    "flight_icao": "cfe4470"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "8",
+                "delay": 12,
+                "scheduled": "2020-03-04T20:30:00+00:00",
+                "estimated": "2020-03-04T20:30:00+00:00",
+                "actual": "2020-03-04T20:42:00+00:00",
+                "estimated_runway": "2020-03-04T20:47:00+00:00",
+                "actual_runway": "2020-03-04T20:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T21:50:00+00:00",
+                "estimated": "2020-03-04T21:50:00+00:00",
+                "actual": "2020-03-04T21:50:00+00:00",
+                "estimated_runway": "2020-03-04T21:42:00+00:00",
+                "actual_runway": "2020-03-04T21:42:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8370",
+                "iata": "EI8370",
+                "icao": "EIN8370",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4470",
+                    "flight_iata": "cj4470",
+                    "flight_icao": "cfe4470"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T18:05:00+00:00",
+                "estimated": "2020-03-04T18:05:00+00:00",
+                "actual": "2020-03-04T18:24:00+00:00",
+                "estimated_runway": "2020-03-04T18:30:00+00:00",
+                "actual_runway": "2020-03-04T18:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T19:25:00+00:00",
+                "estimated": "2020-03-04T19:25:00+00:00",
+                "actual": "2020-03-04T19:33:00+00:00",
+                "estimated_runway": "2020-03-04T19:28:00+00:00",
+                "actual_runway": "2020-03-04T19:28:00+00:00"
+            },
+            "airline": {
+                "name": "BA Cityflyer",
+                "iata": "CJ",
+                "icao": "CFE"
+            },
+            "flight": {
+                "number": "4468",
+                "iata": "CJ4468",
+                "icao": "CFE4468",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T18:05:00+00:00",
+                "estimated": "2020-03-04T18:05:00+00:00",
+                "actual": "2020-03-04T18:24:00+00:00",
+                "estimated_runway": "2020-03-04T18:30:00+00:00",
+                "actual_runway": "2020-03-04T18:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T19:25:00+00:00",
+                "estimated": "2020-03-04T19:25:00+00:00",
+                "actual": "2020-03-04T19:33:00+00:00",
+                "estimated_runway": "2020-03-04T19:28:00+00:00",
+                "actual_runway": "2020-03-04T19:28:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4468",
+                "iata": "BA4468",
+                "icao": "BAW4468",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4468",
+                    "flight_iata": "cj4468",
+                    "flight_icao": "cfe4468"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T18:05:00+00:00",
+                "estimated": "2020-03-04T18:05:00+00:00",
+                "actual": "2020-03-04T18:24:00+00:00",
+                "estimated_runway": "2020-03-04T18:30:00+00:00",
+                "actual_runway": "2020-03-04T18:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "2",
+                "delay": 8,
+                "scheduled": "2020-03-04T19:25:00+00:00",
+                "estimated": "2020-03-04T19:25:00+00:00",
+                "actual": "2020-03-04T19:33:00+00:00",
+                "estimated_runway": "2020-03-04T19:28:00+00:00",
+                "actual_runway": "2020-03-04T19:28:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8368",
+                "iata": "EI8368",
+                "icao": "EIN8368",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4468",
+                    "flight_iata": "cj4468",
+                    "flight_icao": "cfe4468"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T17:30:00+00:00",
+                "estimated": "2020-03-04T17:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "301",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T18:55:00+00:00",
+                "estimated": "2020-03-04T18:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T18:38:00+00:00",
+                "actual_runway": "2020-03-04T18:38:00+00:00"
+            },
+            "airline": {
+                "name": "Cityjet",
+                "iata": "WX",
+                "icao": "BCY"
+            },
+            "flight": {
+                "number": "289",
+                "iata": "WX289",
+                "icao": "BCY289",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T17:30:00+00:00",
+                "estimated": "2020-03-04T17:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "301",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T18:55:00+00:00",
+                "estimated": "2020-03-04T18:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T18:38:00+00:00",
+                "actual_runway": "2020-03-04T18:38:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "289",
+                "iata": "EI289",
+                "icao": "EIN289",
+                "codeshared": {
+                    "airline_name": "cityjet",
+                    "airline_iata": "wx",
+                    "airline_icao": "bcy",
+                    "flight_number": "289",
+                    "flight_iata": "wx289",
+                    "flight_icao": "bcy289"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "10",
+                "delay": 3,
+                "scheduled": "2020-03-04T17:20:00+00:00",
+                "estimated": "2020-03-04T17:20:00+00:00",
+                "actual": "2020-03-04T17:23:00+00:00",
+                "estimated_runway": "2020-03-04T17:29:00+00:00",
+                "actual_runway": "2020-03-04T17:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T18:40:00+00:00",
+                "estimated": "2020-03-04T18:40:00+00:00",
+                "actual": "2020-03-04T18:25:00+00:00",
+                "estimated_runway": "2020-03-04T18:21:00+00:00",
+                "actual_runway": "2020-03-04T18:21:00+00:00"
+            },
+            "airline": {
+                "name": "BA Cityflyer",
+                "iata": "CJ",
+                "icao": "CFE"
+            },
+            "flight": {
+                "number": "4472",
+                "iata": "CJ4472",
+                "icao": "CFE4472",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "10",
+                "delay": 3,
+                "scheduled": "2020-03-04T17:20:00+00:00",
+                "estimated": "2020-03-04T17:20:00+00:00",
+                "actual": "2020-03-04T17:23:00+00:00",
+                "estimated_runway": "2020-03-04T17:29:00+00:00",
+                "actual_runway": "2020-03-04T17:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T18:40:00+00:00",
+                "estimated": "2020-03-04T18:40:00+00:00",
+                "actual": "2020-03-04T18:25:00+00:00",
+                "estimated_runway": "2020-03-04T18:21:00+00:00",
+                "actual_runway": "2020-03-04T18:21:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4472",
+                "iata": "BA4472",
+                "icao": "BAW4472",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4472",
+                    "flight_iata": "cj4472",
+                    "flight_icao": "cfe4472"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "10",
+                "delay": 3,
+                "scheduled": "2020-03-04T17:20:00+00:00",
+                "estimated": "2020-03-04T17:20:00+00:00",
+                "actual": "2020-03-04T17:23:00+00:00",
+                "estimated_runway": "2020-03-04T17:29:00+00:00",
+                "actual_runway": "2020-03-04T17:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T18:40:00+00:00",
+                "estimated": "2020-03-04T18:40:00+00:00",
+                "actual": "2020-03-04T18:25:00+00:00",
+                "estimated_runway": "2020-03-04T18:21:00+00:00",
+                "actual_runway": "2020-03-04T18:21:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8372",
+                "iata": "EI8372",
+                "icao": "EIN8372",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4472",
+                    "flight_iata": "cj4472",
+                    "flight_icao": "cfe4472"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Capodichino",
+                "timezone": "Europe/Rome",
+                "iata": "NAP",
+                "icao": "LIRN",
+                "terminal": null,
+                "gate": "B15",
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": "2020-03-04T18:54:00+00:00",
+                "estimated_runway": "2020-03-04T19:04:00+00:00",
+                "actual_runway": "2020-03-04T19:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "105",
+                "baggage": "8",
+                "delay": 4,
+                "scheduled": "2020-03-04T21:25:00+00:00",
+                "estimated": "2020-03-04T21:25:00+00:00",
+                "actual": "2020-03-04T21:11:00+00:00",
+                "estimated_runway": "2020-03-04T21:07:00+00:00",
+                "actual_runway": "2020-03-04T21:07:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6841",
+                "iata": "FR6841",
+                "icao": "RYR6841",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "1",
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T20:45:00+00:00",
+                "estimated": "2020-03-04T20:45:00+00:00",
+                "actual": "2020-03-04T20:47:00+00:00",
+                "estimated_runway": "2020-03-04T21:06:00+00:00",
+                "actual_runway": "2020-03-04T21:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "304",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T08:30:00+00:00",
+                "estimated": "2020-03-05T08:30:00+00:00",
+                "actual": "2020-03-05T08:10:00+00:00",
+                "estimated_runway": "2020-03-05T07:55:00+00:00",
+                "actual_runway": "2020-03-05T07:55:00+00:00"
+            },
+            "airline": {
+                "name": "Air Canada",
+                "iata": "AC",
+                "icao": "ACA"
+            },
+            "flight": {
+                "number": "842",
+                "iata": "AC842",
+                "icao": "ACA842",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "CGHKR",
+                "iata": "A333",
+                "icao": "A333",
+                "icao24": "C0583A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "1",
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T20:45:00+00:00",
+                "estimated": "2020-03-04T20:45:00+00:00",
+                "actual": "2020-03-04T20:47:00+00:00",
+                "estimated_runway": "2020-03-04T21:06:00+00:00",
+                "actual_runway": "2020-03-04T21:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "304",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T08:30:00+00:00",
+                "estimated": "2020-03-05T08:30:00+00:00",
+                "actual": "2020-03-05T08:10:00+00:00",
+                "estimated_runway": "2020-03-05T07:55:00+00:00",
+                "actual_runway": "2020-03-05T07:55:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "8683",
+                "iata": "UA8683",
+                "icao": "UAL8683",
+                "codeshared": {
+                    "airline_name": "air canada",
+                    "airline_iata": "ac",
+                    "airline_icao": "aca",
+                    "flight_number": "842",
+                    "flight_iata": "ac842",
+                    "flight_icao": "aca842"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "1",
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-04T20:45:00+00:00",
+                "estimated": "2020-03-04T20:45:00+00:00",
+                "actual": "2020-03-04T20:47:00+00:00",
+                "estimated_runway": "2020-03-04T21:06:00+00:00",
+                "actual_runway": "2020-03-04T21:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "304",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T08:30:00+00:00",
+                "estimated": "2020-03-05T08:30:00+00:00",
+                "actual": "2020-03-05T08:10:00+00:00",
+                "estimated_runway": "2020-03-05T07:55:00+00:00",
+                "actual_runway": "2020-03-05T07:55:00+00:00"
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "6695",
+                "iata": "LH6695",
+                "icao": "DLH6695",
+                "codeshared": {
+                    "airline_name": "air canada",
+                    "airline_iata": "ac",
+                    "airline_icao": "aca",
+                    "flight_number": "842",
+                    "flight_iata": "ac842",
+                    "flight_icao": "aca842"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "3",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:45:00+00:00",
+                "estimated": "2020-03-04T17:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T17:55:00+00:00",
+                "actual_runway": "2020-03-04T17:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "422",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T04:40:00+00:00",
+                "actual_runway": "2020-03-05T04:40:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "128",
+                "iata": "EI128",
+                "icao": "EIN128",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "3",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:45:00+00:00",
+                "estimated": "2020-03-04T17:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T17:55:00+00:00",
+                "actual_runway": "2020-03-04T17:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "422",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T04:40:00+00:00",
+                "actual_runway": "2020-03-05T04:40:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7883",
+                "iata": "EY7883",
+                "icao": "ETD7883",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "128",
+                    "flight_iata": "ei128",
+                    "flight_icao": "ein128"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lester B. Pearson International",
+                "timezone": "America/Toronto",
+                "iata": "YYZ",
+                "icao": "CYYZ",
+                "terminal": "3",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T17:45:00+00:00",
+                "estimated": "2020-03-04T17:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T17:55:00+00:00",
+                "actual_runway": "2020-03-04T17:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "422",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T05:15:00+00:00",
+                "estimated": "2020-03-05T05:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T04:40:00+00:00",
+                "actual_runway": "2020-03-05T04:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6158",
+                "iata": "BA6158",
+                "icao": "BAW6158",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "128",
+                    "flight_iata": "ei128",
+                    "flight_icao": "ein128"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Southampton Airport",
+                "timezone": "Europe/London",
+                "iata": "SOU",
+                "icao": "EGHI",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:02:00+00:00",
+                "actual_runway": "2020-03-04T19:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 2,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:07:00+00:00",
+                "actual_runway": "2020-03-04T20:07:00+00:00"
+            },
+            "airline": {
+                "name": "Flybe",
+                "iata": "BE",
+                "icao": "BEE"
+            },
+            "flight": {
+                "number": "387",
+                "iata": "BE387",
+                "icao": "BEE387",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Southampton Airport",
+                "timezone": "Europe/London",
+                "iata": "SOU",
+                "icao": "EGHI",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:02:00+00:00",
+                "actual_runway": "2020-03-04T19:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 2,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:07:00+00:00",
+                "actual_runway": "2020-03-04T20:07:00+00:00"
+            },
+            "airline": {
+                "name": "Virgin Atlantic",
+                "iata": "VS",
+                "icao": "VIR"
+            },
+            "flight": {
+                "number": "8683",
+                "iata": "VS8683",
+                "icao": "VIR8683",
+                "codeshared": {
+                    "airline_name": "flybe",
+                    "airline_iata": "be",
+                    "airline_icao": "bee",
+                    "flight_number": "387",
+                    "flight_iata": "be387",
+                    "flight_icao": "bee387"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Southampton Airport",
+                "timezone": "Europe/London",
+                "iata": "SOU",
+                "icao": "EGHI",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:02:00+00:00",
+                "actual_runway": "2020-03-04T19:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 2,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:07:00+00:00",
+                "actual_runway": "2020-03-04T20:07:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "6114",
+                "iata": "EY6114",
+                "icao": "ETD6114",
+                "codeshared": {
+                    "airline_name": "flybe",
+                    "airline_iata": "be",
+                    "airline_icao": "bee",
+                    "flight_number": "387",
+                    "flight_iata": "be387",
+                    "flight_icao": "bee387"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Southampton Airport",
+                "timezone": "Europe/London",
+                "iata": "SOU",
+                "icao": "EGHI",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:00:00+00:00",
+                "estimated": "2020-03-04T19:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:02:00+00:00",
+                "actual_runway": "2020-03-04T19:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC2",
+                "baggage": "7",
+                "delay": 2,
+                "scheduled": "2020-03-04T20:25:00+00:00",
+                "estimated": "2020-03-04T20:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:07:00+00:00",
+                "actual_runway": "2020-03-04T20:07:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8487",
+                "iata": "EI8487",
+                "icao": "EIN8487",
+                "codeshared": {
+                    "airline_name": "flybe",
+                    "airline_iata": "be",
+                    "airline_icao": "bee",
+                    "flight_number": "387",
+                    "flight_iata": "be387",
+                    "flight_icao": "bee387"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:40:00+00:00",
+                "estimated": "2020-03-04T19:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:29:00+00:00",
+                "actual_runway": "2020-03-04T19:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T20:55:00+00:00",
+                "estimated": "2020-03-04T20:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:23:00+00:00",
+                "actual_runway": "2020-03-04T20:23:00+00:00"
+            },
+            "airline": {
+                "name": "Stobart Air",
+                "iata": "RE",
+                "icao": "STK"
+            },
+            "flight": {
+                "number": "3259",
+                "iata": "RE3259",
+                "icao": "STK3259",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:40:00+00:00",
+                "estimated": "2020-03-04T19:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:29:00+00:00",
+                "actual_runway": "2020-03-04T19:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T20:55:00+00:00",
+                "estimated": "2020-03-04T20:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:23:00+00:00",
+                "actual_runway": "2020-03-04T20:23:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "3259",
+                "iata": "EI3259",
+                "icao": "EIN3259",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3259",
+                    "flight_iata": "re3259",
+                    "flight_icao": "stk3259"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:40:00+00:00",
+                "estimated": "2020-03-04T19:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T19:29:00+00:00",
+                "actual_runway": "2020-03-04T19:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T20:55:00+00:00",
+                "estimated": "2020-03-04T20:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T20:23:00+00:00",
+                "actual_runway": "2020-03-04T20:23:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8859",
+                "iata": "BA8859",
+                "icao": "BAW8859",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3259",
+                    "flight_iata": "re3259",
+                    "flight_icao": "stk3259"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Southend",
+                "timezone": "Europe/London",
+                "iata": "SEN",
+                "icao": "EGMC",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T19:55:00+00:00",
+                "estimated": "2020-03-04T19:55:00+00:00",
+                "actual": "2020-03-04T19:55:00+00:00",
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "109",
+                "baggage": "7",
+                "delay": 3,
+                "scheduled": "2020-03-04T21:10:00+00:00",
+                "estimated": "2020-03-04T21:10:00+00:00",
+                "actual": "2020-03-04T21:13:00+00:00",
+                "estimated_runway": "2020-03-04T21:04:00+00:00",
+                "actual_runway": "2020-03-04T21:04:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2720",
+                "iata": "FR2720",
+                "icao": "RYR2720",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Stansted",
+                "timezone": "Europe/London",
+                "iata": "STN",
+                "icao": "EGSS",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T10:05:00+00:00",
+                "estimated": "2020-03-04T10:05:00+00:00",
+                "actual": "2020-03-04T09:59:00+00:00",
+                "estimated_runway": "2020-03-04T10:09:00+00:00",
+                "actual_runway": "2020-03-04T10:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-04T11:30:00+00:00",
+                "estimated": "2020-03-04T11:30:00+00:00",
+                "actual": "2020-03-04T11:10:00+00:00",
+                "estimated_runway": "2020-03-04T11:03:00+00:00",
+                "actual_runway": "2020-03-04T11:03:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "2371",
+                "iata": "FR2371",
+                "icao": "RYR2371",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ataturk Airport",
+                "timezone": "Europe/Istanbul",
+                "iata": "IST",
+                "icao": "LTBA",
+                "terminal": null,
+                "gate": "B9B",
+                "delay": 20,
+                "scheduled": "2020-03-04T08:35:00+00:00",
+                "estimated": "2020-03-04T08:35:00+00:00",
+                "actual": "2020-03-04T08:54:00+00:00",
+                "estimated_runway": "2020-03-04T08:55:00+00:00",
+                "actual_runway": "2020-03-04T08:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC3",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T10:20:00+00:00",
+                "estimated": "2020-03-04T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T09:57:00+00:00",
+                "actual_runway": "2020-03-04T09:57:00+00:00"
+            },
+            "airline": {
+                "name": "Turkish Airlines",
+                "iata": "TK",
+                "icao": "THY"
+            },
+            "flight": {
+                "number": "1975",
+                "iata": "TK1975",
+                "icao": "THY1975",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "305",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T13:45:00+00:00",
+                "estimated": "2020-03-04T13:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T13:15:00+00:00",
+                "actual_runway": "2020-03-04T13:15:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "483",
+                "iata": "EI483",
+                "icao": "EIN483",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "305",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T13:45:00+00:00",
+                "estimated": "2020-03-04T13:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T13:15:00+00:00",
+                "actual_runway": "2020-03-04T13:15:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7919",
+                "iata": "EY7919",
+                "icao": "ETD7919",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "483",
+                    "flight_iata": "ei483",
+                    "flight_icao": "ein483"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "305",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T13:45:00+00:00",
+                "estimated": "2020-03-04T13:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T13:15:00+00:00",
+                "actual_runway": "2020-03-04T13:15:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2147",
+                "iata": "BA2147",
+                "icao": "BAW2147",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "483",
+                    "flight_iata": "ei483",
+                    "flight_icao": "ein483"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T10:45:00+00:00",
+                "estimated": "2020-03-04T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:55:00+00:00",
+                "actual_runway": "2020-03-04T10:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T12:00:00+00:00",
+                "estimated": "2020-03-04T12:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:49:00+00:00",
+                "actual_runway": "2020-03-04T11:49:00+00:00"
+            },
+            "airline": {
+                "name": "Stobart Air",
+                "iata": "RE",
+                "icao": "STK"
+            },
+            "flight": {
+                "number": "3351",
+                "iata": "RE3351",
+                "icao": "STK3351",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T10:45:00+00:00",
+                "estimated": "2020-03-04T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:55:00+00:00",
+                "actual_runway": "2020-03-04T10:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T12:00:00+00:00",
+                "estimated": "2020-03-04T12:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:49:00+00:00",
+                "actual_runway": "2020-03-04T11:49:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "3351",
+                "iata": "EI3351",
+                "icao": "EIN3351",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3351",
+                    "flight_iata": "re3351",
+                    "flight_icao": "stk3351"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T10:45:00+00:00",
+                "estimated": "2020-03-04T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:55:00+00:00",
+                "actual_runway": "2020-03-04T10:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T12:00:00+00:00",
+                "estimated": "2020-03-04T12:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:49:00+00:00",
+                "actual_runway": "2020-03-04T11:49:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "5164",
+                "iata": "EY5164",
+                "icao": "ETD5164",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3351",
+                    "flight_iata": "re3351",
+                    "flight_icao": "stk3351"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T10:45:00+00:00",
+                "estimated": "2020-03-04T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:55:00+00:00",
+                "actual_runway": "2020-03-04T10:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-04T12:00:00+00:00",
+                "estimated": "2020-03-04T12:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:49:00+00:00",
+                "actual_runway": "2020-03-04T11:49:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8891",
+                "iata": "BA8891",
+                "icao": "BAW8891",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3351",
+                    "flight_iata": "re3351",
+                    "flight_icao": "stk3351"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ronaldsway",
+                "timezone": "Europe/Isle_of_Man",
+                "iata": "IOM",
+                "icao": "EGNS",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:00:00+00:00",
+                "estimated": "2020-03-04T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:35:00+00:00",
+                "estimated": "2020-03-04T11:35:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:22:00+00:00",
+                "actual_runway": "2020-03-04T11:22:00+00:00"
+            },
+            "airline": {
+                "name": "Stobart Air",
+                "iata": "RE",
+                "icao": "STK"
+            },
+            "flight": {
+                "number": "3213",
+                "iata": "RE3213",
+                "icao": "STK3213",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ronaldsway",
+                "timezone": "Europe/Isle_of_Man",
+                "iata": "IOM",
+                "icao": "EGNS",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:00:00+00:00",
+                "estimated": "2020-03-04T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:35:00+00:00",
+                "estimated": "2020-03-04T11:35:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:22:00+00:00",
+                "actual_runway": "2020-03-04T11:22:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "3213",
+                "iata": "EI3213",
+                "icao": "EIN3213",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3213",
+                    "flight_iata": "re3213",
+                    "flight_icao": "stk3213"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ronaldsway",
+                "timezone": "Europe/Isle_of_Man",
+                "iata": "IOM",
+                "icao": "EGNS",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:00:00+00:00",
+                "estimated": "2020-03-04T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:00:00+00:00",
+                "actual_runway": "2020-03-04T11:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:35:00+00:00",
+                "estimated": "2020-03-04T11:35:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:22:00+00:00",
+                "actual_runway": "2020-03-04T11:22:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8907",
+                "iata": "BA8907",
+                "icao": "BAW8907",
+                "codeshared": {
+                    "airline_name": "stobart air",
+                    "airline_iata": "re",
+                    "airline_icao": "stk",
+                    "flight_number": "3213",
+                    "flight_iata": "re3213",
+                    "flight_icao": "stk3213"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": "Y54",
+                "delay": 14,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:25:00+00:00",
+                "estimated_runway": "2020-03-04T10:40:00+00:00",
+                "actual_runway": "2020-03-04T10:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T12:20:00+00:00",
+                "estimated": "2020-03-04T12:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:58:00+00:00",
+                "actual_runway": "2020-03-04T11:58:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "563",
+                "iata": "EI563",
+                "icao": "EIN563",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": "Y54",
+                "delay": 14,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:25:00+00:00",
+                "estimated_runway": "2020-03-04T10:40:00+00:00",
+                "actual_runway": "2020-03-04T10:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T12:20:00+00:00",
+                "estimated": "2020-03-04T12:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:58:00+00:00",
+                "actual_runway": "2020-03-04T11:58:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7877",
+                "iata": "EY7877",
+                "icao": "ETD7877",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "563",
+                    "flight_iata": "ei563",
+                    "flight_icao": "ein563"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": "Y54",
+                "delay": 14,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:25:00+00:00",
+                "estimated_runway": "2020-03-04T10:40:00+00:00",
+                "actual_runway": "2020-03-04T10:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-04T12:20:00+00:00",
+                "estimated": "2020-03-04T12:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:58:00+00:00",
+                "actual_runway": "2020-03-04T11:58:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8949",
+                "iata": "BA8949",
+                "icao": "BAW8949",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "563",
+                    "flight_iata": "ei563",
+                    "flight_icao": "ein563"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "2",
+                "gate": "W42",
+                "delay": 14,
+                "scheduled": "2020-03-04T10:20:00+00:00",
+                "estimated": "2020-03-04T10:20:00+00:00",
+                "actual": "2020-03-04T10:34:00+00:00",
+                "estimated_runway": "2020-03-04T10:54:00+00:00",
+                "actual_runway": "2020-03-04T10:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "104",
+                "baggage": "3",
+                "delay": 14,
+                "scheduled": "2020-03-04T12:10:00+00:00",
+                "estimated": "2020-03-04T12:10:00+00:00",
+                "actual": "2020-03-04T12:24:00+00:00",
+                "estimated_runway": "2020-03-04T12:16:00+00:00",
+                "actual_runway": "2020-03-04T12:16:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "6874",
+                "iata": "FR6874",
+                "icao": "RYR6874",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Bergamo - Orio al Serio",
+                "timezone": "Europe/Rome",
+                "iata": "BGY",
+                "icao": "LIME",
+                "terminal": null,
+                "gate": null,
+                "delay": 5,
+                "scheduled": "2020-03-04T10:20:00+00:00",
+                "estimated": "2020-03-04T10:20:00+00:00",
+                "actual": "2020-03-04T10:20:00+00:00",
+                "estimated_runway": "2020-03-04T10:25:00+00:00",
+                "actual_runway": "2020-03-04T10:25:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-04T12:05:00+00:00",
+                "estimated": "2020-03-04T12:05:00+00:00",
+                "actual": "2020-03-04T11:53:00+00:00",
+                "estimated_runway": "2020-03-04T11:44:00+00:00",
+                "actual_runway": "2020-03-04T11:44:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9429",
+                "iata": "FR9429",
+                "icao": "RYR9429",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Düsseldorf International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "DUS",
+                "icao": "EDDL",
+                "terminal": null,
+                "gate": "C45",
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": "2020-03-04T10:48:00+00:00",
+                "estimated_runway": "2020-03-04T11:03:00+00:00",
+                "actual_runway": "2020-03-04T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "307A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T11:45:00+00:00",
+                "estimated": "2020-03-04T11:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:32:00+00:00",
+                "actual_runway": "2020-03-04T11:32:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "693",
+                "iata": "EI693",
+                "icao": "EIN693",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Düsseldorf International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "DUS",
+                "icao": "EDDL",
+                "terminal": null,
+                "gate": "C45",
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": "2020-03-04T10:48:00+00:00",
+                "estimated_runway": "2020-03-04T11:03:00+00:00",
+                "actual_runway": "2020-03-04T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "307A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T11:45:00+00:00",
+                "estimated": "2020-03-04T11:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:32:00+00:00",
+                "actual_runway": "2020-03-04T11:32:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7960",
+                "iata": "EY7960",
+                "icao": "ETD7960",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "693",
+                    "flight_iata": "ei693",
+                    "flight_icao": "ein693"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Düsseldorf International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "DUS",
+                "icao": "EDDL",
+                "terminal": null,
+                "gate": "C45",
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": "2020-03-04T10:48:00+00:00",
+                "estimated_runway": "2020-03-04T11:03:00+00:00",
+                "actual_runway": "2020-03-04T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "307A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T11:45:00+00:00",
+                "estimated": "2020-03-04T11:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:32:00+00:00",
+                "actual_runway": "2020-03-04T11:32:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8987",
+                "iata": "BA8987",
+                "icao": "BAW8987",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "693",
+                    "flight_iata": "ei693",
+                    "flight_icao": "ein693"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B17",
+                "delay": 12,
+                "scheduled": "2020-03-04T10:15:00+00:00",
+                "estimated": "2020-03-04T10:15:00+00:00",
+                "actual": "2020-03-04T10:13:00+00:00",
+                "estimated_runway": "2020-03-04T10:27:00+00:00",
+                "actual_runway": "2020-03-04T10:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:05:00+00:00",
+                "estimated": "2020-03-04T11:05:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:44:00+00:00",
+                "actual_runway": "2020-03-04T10:44:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "631",
+                "iata": "EI631",
+                "icao": "EIN631",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-CVB",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "4CA15D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B17",
+                "delay": 12,
+                "scheduled": "2020-03-04T10:15:00+00:00",
+                "estimated": "2020-03-04T10:15:00+00:00",
+                "actual": "2020-03-04T10:13:00+00:00",
+                "estimated_runway": "2020-03-04T10:27:00+00:00",
+                "actual_runway": "2020-03-04T10:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:05:00+00:00",
+                "estimated": "2020-03-04T11:05:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:44:00+00:00",
+                "actual_runway": "2020-03-04T10:44:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "7892",
+                "iata": "EY7892",
+                "icao": "ETD7892",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "631",
+                    "flight_iata": "ei631",
+                    "flight_icao": "ein631"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B17",
+                "delay": 12,
+                "scheduled": "2020-03-04T10:15:00+00:00",
+                "estimated": "2020-03-04T10:15:00+00:00",
+                "actual": "2020-03-04T10:13:00+00:00",
+                "estimated_runway": "2020-03-04T10:27:00+00:00",
+                "actual_runway": "2020-03-04T10:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T11:05:00+00:00",
+                "estimated": "2020-03-04T11:05:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:44:00+00:00",
+                "actual_runway": "2020-03-04T10:44:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8971",
+                "iata": "BA8971",
+                "icao": "BAW8971",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "631",
+                    "flight_iata": "ei631",
+                    "flight_icao": "ein631"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": "B17",
+                "delay": null,
+                "scheduled": "2020-03-04T10:55:00+00:00",
+                "estimated": "2020-03-04T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:45:00+00:00",
+                "actual_runway": "2020-03-04T11:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "407",
+                "baggage": "3",
+                "delay": 36,
+                "scheduled": "2020-03-04T12:40:00+00:00",
+                "estimated": "2020-03-04T12:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T12:55:00+00:00",
+                "actual_runway": "2020-03-04T12:55:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "353",
+                "iata": "EI353",
+                "icao": "EIN353",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-DEM",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "4CA293"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": "B17",
+                "delay": null,
+                "scheduled": "2020-03-04T10:55:00+00:00",
+                "estimated": "2020-03-04T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:45:00+00:00",
+                "actual_runway": "2020-03-04T11:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "407",
+                "baggage": "3",
+                "delay": 36,
+                "scheduled": "2020-03-04T12:40:00+00:00",
+                "estimated": "2020-03-04T12:40:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T12:55:00+00:00",
+                "actual_runway": "2020-03-04T12:55:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2089",
+                "iata": "BA2089",
+                "icao": "BAW2089",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "353",
+                    "flight_iata": "ei353",
+                    "flight_icao": "ein353"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ciampino",
+                "timezone": "Europe/Rome",
+                "iata": "CIA",
+                "icao": "LIRA",
+                "terminal": null,
+                "gate": "B04",
+                "delay": null,
+                "scheduled": "2020-03-04T10:55:00+00:00",
+                "estimated": "2020-03-04T10:55:00+00:00",
+                "actual": "2020-03-04T10:45:00+00:00",
+                "estimated_runway": "2020-03-04T10:58:00+00:00",
+                "actual_runway": "2020-03-04T10:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "110",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-04T13:15:00+00:00",
+                "estimated": "2020-03-04T13:15:00+00:00",
+                "actual": "2020-03-04T13:01:00+00:00",
+                "estimated_runway": "2020-03-04T12:52:00+00:00",
+                "actual_runway": "2020-03-04T12:52:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "9431",
+                "iata": "FR9431",
+                "icao": "RYR9431",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "EI-EBR",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "4CA73A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Vienna International",
+                "timezone": "Europe/Vienna",
+                "iata": "VIE",
+                "icao": "LOWW",
+                "terminal": null,
+                "gate": "D69",
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:57:00+00:00",
+                "actual_runway": "2020-03-04T10:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T12:50:00+00:00",
+                "estimated": "2020-03-04T12:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T12:23:00+00:00",
+                "actual_runway": "2020-03-04T12:23:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "342",
+                "iata": "FR342",
+                "icao": "RYR342",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Vienna International",
+                "timezone": "Europe/Vienna",
+                "iata": "VIE",
+                "icao": "LOWW",
+                "terminal": null,
+                "gate": "D69",
+                "delay": null,
+                "scheduled": "2020-03-04T10:50:00+00:00",
+                "estimated": "2020-03-04T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:57:00+00:00",
+                "actual_runway": "2020-03-04T10:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "108",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T12:50:00+00:00",
+                "estimated": "2020-03-04T12:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T12:23:00+00:00",
+                "actual_runway": "2020-03-04T12:23:00+00:00"
+            },
+            "airline": {
+                "name": "Lauda",
+                "iata": "LDM",
+                "icao": null
+            },
+            "flight": {
+                "number": "342",
+                "iata": "LDM342",
+                "icao": null,
+                "codeshared": {
+                    "airline_name": "ryanair",
+                    "airline_iata": "fr",
+                    "airline_icao": "ryr",
+                    "flight_number": "342",
+                    "flight_iata": "fr342",
+                    "flight_icao": "ryr342"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Geneve-cointrin",
+                "timezone": "Europe/Zurich",
+                "iata": "GVA",
+                "icao": "LSGG",
+                "terminal": "1",
+                "gate": "B31",
+                "delay": null,
+                "scheduled": "2020-03-04T10:55:00+00:00",
+                "estimated": "2020-03-04T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:55:00+00:00",
+                "actual_runway": "2020-03-04T10:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "BUS",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-04T12:20:00+00:00",
+                "estimated": "2020-03-04T12:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:53:00+00:00",
+                "actual_runway": "2020-03-04T11:53:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "681",
+                "iata": "EI681",
+                "icao": "EIN681",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "1",
+                "gate": "B22",
+                "delay": 6,
+                "scheduled": "2020-03-04T10:35:00+00:00",
+                "estimated": "2020-03-04T10:35:00+00:00",
+                "actual": "2020-03-04T10:41:00+00:00",
+                "estimated_runway": "2020-03-04T10:52:00+00:00",
+                "actual_runway": "2020-03-04T10:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "113",
+                "baggage": "2",
+                "delay": 20,
+                "scheduled": "2020-03-04T12:20:00+00:00",
+                "estimated": "2020-03-04T12:20:00+00:00",
+                "actual": "2020-03-04T12:12:00+00:00",
+                "estimated_runway": "2020-03-04T12:06:00+00:00",
+                "actual_runway": "2020-03-04T12:06:00+00:00"
+            },
+            "airline": {
+                "name": "Ryanair",
+                "iata": "FR",
+                "icao": "RYR"
+            },
+            "flight": {
+                "number": "7257",
+                "iata": "FR7257",
+                "icao": "RYR7257",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Zurich",
+                "timezone": "Europe/Zurich",
+                "iata": "ZRH",
+                "icao": "LSZH",
+                "terminal": "2",
+                "gate": "E64",
+                "delay": null,
+                "scheduled": "2020-03-04T10:35:00+00:00",
+                "estimated": "2020-03-04T10:35:00+00:00",
+                "actual": "2020-03-04T10:26:00+00:00",
+                "estimated_runway": "2020-03-04T10:35:00+00:00",
+                "actual_runway": "2020-03-04T10:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "301",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T12:05:00+00:00",
+                "estimated": "2020-03-04T12:05:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:35:00+00:00",
+                "actual_runway": "2020-03-04T11:35:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "343",
+                "iata": "EI343",
+                "icao": "EIN343",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Zurich",
+                "timezone": "Europe/Zurich",
+                "iata": "ZRH",
+                "icao": "LSZH",
+                "terminal": "2",
+                "gate": "E64",
+                "delay": null,
+                "scheduled": "2020-03-04T10:35:00+00:00",
+                "estimated": "2020-03-04T10:35:00+00:00",
+                "actual": "2020-03-04T10:26:00+00:00",
+                "estimated_runway": "2020-03-04T10:35:00+00:00",
+                "actual_runway": "2020-03-04T10:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "301",
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-04T12:05:00+00:00",
+                "estimated": "2020-03-04T12:05:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T11:35:00+00:00",
+                "actual_runway": "2020-03-04T11:35:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8997",
+                "iata": "BA8997",
+                "icao": "BAW8997",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "343",
+                    "flight_iata": "ei343",
+                    "flight_icao": "ein343"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-04T09:05:00+00:00",
+                "estimated": "2020-03-04T09:05:00+00:00",
+                "actual": "2020-03-04T09:05:00+00:00",
+                "estimated_runway": "2020-03-04T09:20:00+00:00",
+                "actual_runway": "2020-03-04T09:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "3",
+                "delay": 6,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:21:00+00:00",
+                "estimated_runway": "2020-03-04T10:16:00+00:00",
+                "actual_runway": "2020-03-04T10:16:00+00:00"
+            },
+            "airline": {
+                "name": "BA Cityflyer",
+                "iata": "CJ",
+                "icao": "CFE"
+            },
+            "flight": {
+                "number": "4462",
+                "iata": "CJ4462",
+                "icao": "CFE4462",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "14",
+                "delay": 15,
+                "scheduled": "2020-03-04T09:05:00+00:00",
+                "estimated": "2020-03-04T09:05:00+00:00",
+                "actual": "2020-03-04T09:05:00+00:00",
+                "estimated_runway": "2020-03-04T09:20:00+00:00",
+                "actual_runway": "2020-03-04T09:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "3",
+                "delay": 6,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:21:00+00:00",
+                "estimated_runway": "2020-03-04T10:16:00+00:00",
+                "actual_runway": "2020-03-04T10:16:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4462",
+                "iata": "BA4462",
+                "icao": "BAW4462",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4462",
+                    "flight_iata": "cj4462",
+                    "flight_icao": "cfe4462"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "London City Airport",
+                "timezone": "Europe/London",
+                "iata": "LCY",
+                "icao": "EGLC",
+                "terminal": null,
+                "gate": "14",
+                "delay": 15,
+                "scheduled": "2020-03-04T09:05:00+00:00",
+                "estimated": "2020-03-04T09:05:00+00:00",
+                "actual": "2020-03-04T09:05:00+00:00",
+                "estimated_runway": "2020-03-04T09:20:00+00:00",
+                "actual_runway": "2020-03-04T09:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "VCC1",
+                "baggage": "3",
+                "delay": 6,
+                "scheduled": "2020-03-04T10:25:00+00:00",
+                "estimated": "2020-03-04T10:25:00+00:00",
+                "actual": "2020-03-04T10:21:00+00:00",
+                "estimated_runway": "2020-03-04T10:16:00+00:00",
+                "actual_runway": "2020-03-04T10:16:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8362",
+                "iata": "EI8362",
+                "icao": "EIN8362",
+                "codeshared": {
+                    "airline_name": "ba cityflyer",
+                    "airline_iata": "cj",
+                    "airline_icao": "cfe",
+                    "flight_number": "4462",
+                    "flight_iata": "cj4462",
+                    "flight_icao": "cfe4462"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "1",
+                "gate": "35",
+                "delay": 7,
+                "scheduled": "2020-03-04T10:05:00+00:00",
+                "estimated": "2020-03-04T10:05:00+00:00",
+                "actual": "2020-03-04T10:12:00+00:00",
+                "estimated_runway": "2020-03-04T10:12:00+00:00",
+                "actual_runway": "2020-03-04T10:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "407",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-04T11:00:00+00:00",
+                "estimated": "2020-03-04T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:34:00+00:00",
+                "actual_runway": "2020-03-04T10:34:00+00:00"
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "521",
+                "iata": "EI521",
+                "icao": "EIN521",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "1",
+                "gate": "35",
+                "delay": 7,
+                "scheduled": "2020-03-04T10:05:00+00:00",
+                "estimated": "2020-03-04T10:05:00+00:00",
+                "actual": "2020-03-04T10:12:00+00:00",
+                "estimated_runway": "2020-03-04T10:12:00+00:00",
+                "actual_runway": "2020-03-04T10:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "407",
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-04T11:00:00+00:00",
+                "estimated": "2020-03-04T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-04T10:34:00+00:00",
+                "actual_runway": "2020-03-04T10:34:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "8939",
+                "iata": "BA8939",
+                "icao": "BAW8939",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "521",
+                    "flight_iata": "ei521",
+                    "flight_icao": "ein521"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}

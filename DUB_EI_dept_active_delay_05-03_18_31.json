@@ -1,0 +1,63 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 1,
+        "total": 1
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "204",
+                "delay": 1,
+                "scheduled": "2020-03-05T17:45:00+00:00",
+                "estimated": "2020-03-05T17:45:00+00:00",
+                "actual": "2020-03-05T17:46:00+00:00",
+                "estimated_runway": "2020-03-05T17:59:00+00:00",
+                "actual_runway": "2020-03-05T17:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T19:10:00+00:00",
+                "estimated": "2020-03-05T19:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aer Lingus",
+                "iata": "EI",
+                "icao": "EIN"
+            },
+            "flight": {
+                "number": "8327",
+                "iata": "EI8327",
+                "icao": "EIN8327",
+                "codeshared": {
+                    "airline_name": "british airways",
+                    "airline_iata": "ba",
+                    "airline_icao": "baw",
+                    "flight_number": "827",
+                    "flight_iata": "ba827",
+                    "flight_icao": "baw827"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}

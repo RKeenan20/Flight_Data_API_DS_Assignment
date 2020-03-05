@@ -1,0 +1,4779 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 589
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2A",
+                "gate": "A47",
+                "delay": 4,
+                "scheduled": "2020-03-05T16:15:00+00:00",
+                "estimated": "2020-03-05T16:15:00+00:00",
+                "actual": "2020-03-05T16:19:00+00:00",
+                "estimated_runway": "2020-03-05T16:32:00+00:00",
+                "actual_runway": "2020-03-05T16:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T16:25:00+00:00",
+                "estimated": "2020-03-05T16:25:00+00:00",
+                "actual": "2020-03-05T16:20:00+00:00",
+                "estimated_runway": "2020-03-05T16:16:00+00:00",
+                "actual_runway": "2020-03-05T16:16:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "319",
+                "iata": "BA319",
+                "icao": "BAW319",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": "142",
+                "delay": null,
+                "scheduled": "2020-03-05T15:00:00+00:00",
+                "estimated": "2020-03-05T15:00:00+00:00",
+                "actual": "2020-03-05T14:57:00+00:00",
+                "estimated_runway": "2020-03-05T15:10:00+00:00",
+                "actual_runway": "2020-03-05T15:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T16:05:00+00:00",
+                "estimated": "2020-03-05T16:05:00+00:00",
+                "actual": "2020-03-05T15:51:00+00:00",
+                "estimated_runway": "2020-03-05T15:45:00+00:00",
+                "actual_runway": "2020-03-05T15:45:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1399",
+                "iata": "BA1399",
+                "icao": "BAW1399",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "D24",
+                "delay": 5,
+                "scheduled": "2020-03-05T16:05:00+00:00",
+                "estimated": "2020-03-05T16:05:00+00:00",
+                "actual": "2020-03-05T16:10:00+00:00",
+                "estimated_runway": "2020-03-05T16:27:00+00:00",
+                "actual_runway": "2020-03-05T16:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "9",
+                "delay": null,
+                "scheduled": "2020-03-05T16:25:00+00:00",
+                "estimated": "2020-03-05T16:25:00+00:00",
+                "actual": "2020-03-05T16:19:00+00:00",
+                "estimated_runway": "2020-03-05T16:14:00+00:00",
+                "actual_runway": "2020-03-05T16:14:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "439",
+                "iata": "BA439",
+                "icao": "BAW439",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "M",
+                "gate": "19",
+                "delay": null,
+                "scheduled": "2020-03-05T15:30:00+00:00",
+                "estimated": "2020-03-05T15:30:00+00:00",
+                "actual": "2020-03-05T15:25:00+00:00",
+                "estimated_runway": "2020-03-05T15:39:00+00:00",
+                "actual_runway": "2020-03-05T15:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T16:50:00+00:00",
+                "estimated": "2020-03-05T16:50:00+00:00",
+                "actual": "2020-03-05T16:43:00+00:00",
+                "estimated_runway": "2020-03-05T16:36:00+00:00",
+                "actual_runway": "2020-03-05T16:36:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1489",
+                "iata": "BA1489",
+                "icao": "BAW1489",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "409",
+                "delay": null,
+                "scheduled": "2020-03-05T15:30:00+00:00",
+                "estimated": "2020-03-05T15:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T15:52:00+00:00",
+                "actual_runway": "2020-03-05T15:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "4",
+                "delay": 1,
+                "scheduled": "2020-03-05T16:50:00+00:00",
+                "estimated": "2020-03-05T16:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T16:46:00+00:00",
+                "actual_runway": "2020-03-05T16:46:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5972",
+                "iata": "BA5972",
+                "icao": "BAW5972",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "172",
+                    "flight_iata": "ei172",
+                    "flight_icao": "ein172"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T14:54:00+00:00",
+                "estimated_runway": "2020-03-05T15:04:00+00:00",
+                "actual_runway": "2020-03-05T15:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T16:35:00+00:00",
+                "estimated": "2020-03-05T16:35:00+00:00",
+                "actual": "2020-03-05T16:08:00+00:00",
+                "estimated_runway": "2020-03-05T16:03:00+00:00",
+                "actual_runway": "2020-03-05T16:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1437",
+                "iata": "BA1437",
+                "icao": "BAW1437",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B4",
+                "delay": null,
+                "scheduled": "2020-03-05T16:40:00+00:00",
+                "estimated": "2020-03-05T16:40:00+00:00",
+                "actual": "2020-03-05T16:40:00+00:00",
+                "estimated_runway": "2020-03-05T16:52:00+00:00",
+                "actual_runway": "2020-03-05T16:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T16:55:00+00:00",
+                "estimated": "2020-03-05T16:55:00+00:00",
+                "actual": "2020-03-05T16:41:00+00:00",
+                "estimated_runway": "2020-03-05T16:35:00+00:00",
+                "actual_runway": "2020-03-05T16:35:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "403",
+                "iata": "BA403",
+                "icao": "BAW403",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "George Best Belfast City",
+                "timezone": "Europe/London",
+                "iata": "BHD",
+                "icao": "EGAC",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T15:10:00+00:00",
+                "estimated": "2020-03-05T15:10:00+00:00",
+                "actual": "2020-03-05T15:04:00+00:00",
+                "estimated_runway": "2020-03-05T15:13:00+00:00",
+                "actual_runway": "2020-03-05T15:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T16:35:00+00:00",
+                "estimated": "2020-03-05T16:35:00+00:00",
+                "actual": "2020-03-05T16:09:00+00:00",
+                "estimated_runway": "2020-03-05T16:04:00+00:00",
+                "actual_runway": "2020-03-05T16:04:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1417",
+                "iata": "BA1417",
+                "icao": "BAW1417",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Düsseldorf International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "DUS",
+                "icao": "EDDL",
+                "terminal": null,
+                "gate": "B37",
+                "delay": 23,
+                "scheduled": "2020-03-05T16:15:00+00:00",
+                "estimated": "2020-03-05T16:15:00+00:00",
+                "actual": "2020-03-05T16:38:00+00:00",
+                "estimated_runway": "2020-03-05T16:48:00+00:00",
+                "actual_runway": "2020-03-05T16:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": 11,
+                "scheduled": "2020-03-05T16:45:00+00:00",
+                "estimated": "2020-03-05T16:45:00+00:00",
+                "actual": "2020-03-05T16:56:00+00:00",
+                "estimated_runway": "2020-03-05T16:50:00+00:00",
+                "actual_runway": "2020-03-05T16:50:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "941",
+                "iata": "BA941",
+                "icao": "BAW941",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Arlanda",
+                "timezone": "Europe/Stockholm",
+                "iata": "ARN",
+                "icao": "ESSA",
+                "terminal": "2",
+                "gate": "86",
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T14:56:00+00:00",
+                "estimated_runway": "2020-03-05T15:07:00+00:00",
+                "actual_runway": "2020-03-05T15:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T16:50:00+00:00",
+                "estimated": "2020-03-05T16:50:00+00:00",
+                "actual": "2020-03-05T16:28:00+00:00",
+                "estimated_runway": "2020-03-05T16:19:00+00:00",
+                "actual_runway": "2020-03-05T16:19:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "779",
+                "iata": "BA779",
+                "icao": "BAW779",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Linate",
+                "timezone": "Europe/Rome",
+                "iata": "LIN",
+                "icao": "LIML",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T15:30:00+00:00",
+                "estimated": "2020-03-05T15:30:00+00:00",
+                "actual": "2020-03-05T15:22:00+00:00",
+                "estimated_runway": "2020-03-05T15:28:00+00:00",
+                "actual_runway": "2020-03-05T15:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T16:35:00+00:00",
+                "estimated": "2020-03-05T16:35:00+00:00",
+                "actual": "2020-03-05T16:15:00+00:00",
+                "estimated_runway": "2020-03-05T16:07:00+00:00",
+                "actual_runway": "2020-03-05T16:07:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "563",
+                "iata": "BA563",
+                "icao": "BAW563",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Hamburg Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "HAM",
+                "icao": "EDDH",
+                "terminal": "2",
+                "gate": null,
+                "delay": 8,
+                "scheduled": "2020-03-05T15:25:00+00:00",
+                "estimated": "2020-03-05T15:25:00+00:00",
+                "actual": "2020-03-05T15:33:00+00:00",
+                "estimated_runway": "2020-03-05T15:44:00+00:00",
+                "actual_runway": "2020-03-05T15:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "9",
+                "delay": null,
+                "scheduled": "2020-03-05T16:15:00+00:00",
+                "estimated": "2020-03-05T16:15:00+00:00",
+                "actual": "2020-03-05T16:09:00+00:00",
+                "estimated_runway": "2020-03-05T16:01:00+00:00",
+                "actual_runway": "2020-03-05T16:01:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "975",
+                "iata": "BA975",
+                "icao": "BAW975",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Frankfurt International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "FRA",
+                "icao": "EDDF",
+                "terminal": "2",
+                "gate": "D1",
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T15:02:00+00:00",
+                "estimated_runway": "2020-03-05T15:21:00+00:00",
+                "actual_runway": "2020-03-05T15:21:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T15:55:00+00:00",
+                "estimated": "2020-03-05T15:55:00+00:00",
+                "actual": "2020-03-05T15:45:00+00:00",
+                "estimated_runway": "2020-03-05T15:36:00+00:00",
+                "actual_runway": "2020-03-05T15:36:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "905",
+                "iata": "BA905",
+                "icao": "BAW905",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Geneve-cointrin",
+                "timezone": "Europe/Zurich",
+                "iata": "GVA",
+                "icao": "LSGG",
+                "terminal": null,
+                "gate": "B31",
+                "delay": 14,
+                "scheduled": "2020-03-05T15:25:00+00:00",
+                "estimated": "2020-03-05T15:25:00+00:00",
+                "actual": "2020-03-05T15:39:00+00:00",
+                "estimated_runway": "2020-03-05T15:47:00+00:00",
+                "actual_runway": "2020-03-05T15:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": 6,
+                "scheduled": "2020-03-05T16:10:00+00:00",
+                "estimated": "2020-03-05T16:10:00+00:00",
+                "actual": "2020-03-05T16:16:00+00:00",
+                "estimated_runway": "2020-03-05T16:10:00+00:00",
+                "actual_runway": "2020-03-05T16:10:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "731",
+                "iata": "BA731",
+                "icao": "BAW731",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "212",
+                "delay": null,
+                "scheduled": "2020-03-05T14:25:00+00:00",
+                "estimated": "2020-03-05T14:25:00+00:00",
+                "actual": "2020-03-05T14:24:00+00:00",
+                "estimated_runway": "2020-03-05T14:39:00+00:00",
+                "actual_runway": "2020-03-05T14:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T15:50:00+00:00",
+                "estimated": "2020-03-05T15:50:00+00:00",
+                "actual": "2020-03-05T15:39:00+00:00",
+                "estimated_runway": "2020-03-05T15:32:00+00:00",
+                "actual_runway": "2020-03-05T15:32:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "837",
+                "iata": "BA837",
+                "icao": "BAW837",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Euroairport Swiss",
+                "timezone": "Europe/Zurich",
+                "iata": "BSL",
+                "icao": "_BSL",
+                "terminal": null,
+                "gate": "30",
+                "delay": 4,
+                "scheduled": "2020-03-05T15:25:00+00:00",
+                "estimated": "2020-03-05T15:25:00+00:00",
+                "actual": "2020-03-05T15:29:00+00:00",
+                "estimated_runway": "2020-03-05T15:39:00+00:00",
+                "actual_runway": "2020-03-05T15:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T16:10:00+00:00",
+                "estimated": "2020-03-05T16:10:00+00:00",
+                "actual": "2020-03-05T16:07:00+00:00",
+                "estimated_runway": "2020-03-05T15:58:00+00:00",
+                "actual_runway": "2020-03-05T15:58:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "755",
+                "iata": "BA755",
+                "icao": "BAW755",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dyce",
+                "timezone": "Europe/London",
+                "iata": "ABZ",
+                "icao": "EGPD",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T14:45:00+00:00",
+                "estimated": "2020-03-05T14:45:00+00:00",
+                "actual": "2020-03-05T14:33:00+00:00",
+                "estimated_runway": "2020-03-05T14:45:00+00:00",
+                "actual_runway": "2020-03-05T14:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T16:25:00+00:00",
+                "estimated": "2020-03-05T16:25:00+00:00",
+                "actual": "2020-03-05T16:03:00+00:00",
+                "estimated_runway": "2020-03-05T15:55:00+00:00",
+                "actual_runway": "2020-03-05T15:55:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1309",
+                "iata": "BA1309",
+                "icao": "BAW1309",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Kastrup",
+                "timezone": "Europe/Copenhagen",
+                "iata": "CPH",
+                "icao": "EKCH",
+                "terminal": "2",
+                "gate": "C27",
+                "delay": null,
+                "scheduled": "2020-03-05T14:50:00+00:00",
+                "estimated": "2020-03-05T14:50:00+00:00",
+                "actual": "2020-03-05T14:41:00+00:00",
+                "estimated_runway": "2020-03-05T14:53:00+00:00",
+                "actual_runway": "2020-03-05T14:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T16:00:00+00:00",
+                "estimated": "2020-03-05T16:00:00+00:00",
+                "actual": "2020-03-05T15:36:00+00:00",
+                "estimated_runway": "2020-03-05T15:31:00+00:00",
+                "actual_runway": "2020-03-05T15:31:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "817",
+                "iata": "BA817",
+                "icao": "BAW817",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "409",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:05:00+00:00",
+                "actual_runway": "2020-03-05T14:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-05T15:30:00+00:00",
+                "estimated": "2020-03-05T15:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:57:00+00:00",
+                "actual_runway": "2020-03-05T14:57:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5968",
+                "iata": "BA5968",
+                "icao": "BAW5968",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "168",
+                    "flight_iata": "ei168",
+                    "flight_icao": "ein168"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "1",
+                "gate": "204",
+                "delay": 6,
+                "scheduled": "2020-03-05T13:05:00+00:00",
+                "estimated": "2020-03-05T13:05:00+00:00",
+                "actual": "2020-03-05T13:11:00+00:00",
+                "estimated_runway": "2020-03-05T13:24:00+00:00",
+                "actual_runway": "2020-03-05T13:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T14:35:00+00:00",
+                "estimated": "2020-03-05T14:35:00+00:00",
+                "actual": "2020-03-05T14:33:00+00:00",
+                "estimated_runway": "2020-03-05T14:27:00+00:00",
+                "actual_runway": "2020-03-05T14:27:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "835",
+                "iata": "BA835",
+                "icao": "BAW835",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Mohamed V",
+                "timezone": "Africa/Casablanca",
+                "iata": "CMN",
+                "icao": "GMMN",
+                "terminal": "1",
+                "gate": null,
+                "delay": 1,
+                "scheduled": "2020-03-05T13:30:00+00:00",
+                "estimated": "2020-03-05T13:30:00+00:00",
+                "actual": "2020-03-05T13:31:00+00:00",
+                "estimated_runway": "2020-03-05T13:54:00+00:00",
+                "actual_runway": "2020-03-05T13:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "4",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T15:50:00+00:00",
+                "estimated": "2020-03-05T15:50:00+00:00",
+                "actual": "2020-03-05T15:44:00+00:00",
+                "estimated_runway": "2020-03-05T15:33:00+00:00",
+                "actual_runway": "2020-03-05T15:33:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "7840",
+                "iata": "BA7840",
+                "icao": "BAW7840",
+                "codeshared": {
+                    "airline_name": "royal air maroc",
+                    "airline_iata": "at",
+                    "airline_icao": "ram",
+                    "flight_number": "800",
+                    "flight_iata": "at800",
+                    "flight_icao": "ram800"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "D24",
+                "delay": null,
+                "scheduled": "2020-03-05T14:15:00+00:00",
+                "estimated": "2020-03-05T14:15:00+00:00",
+                "actual": "2020-03-05T14:15:00+00:00",
+                "estimated_runway": "2020-03-05T14:31:00+00:00",
+                "actual_runway": "2020-03-05T14:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T14:35:00+00:00",
+                "estimated": "2020-03-05T14:35:00+00:00",
+                "actual": "2020-03-05T14:30:00+00:00",
+                "estimated_runway": "2020-03-05T14:22:00+00:00",
+                "actual_runway": "2020-03-05T14:22:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "435",
+                "iata": "BA435",
+                "icao": "BAW435",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUXK",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "4010DB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dyce",
+                "timezone": "Europe/London",
+                "iata": "ABZ",
+                "icao": "EGPD",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T13:25:00+00:00",
+                "estimated": "2020-03-05T13:25:00+00:00",
+                "actual": "2020-03-05T13:10:00+00:00",
+                "estimated_runway": "2020-03-05T13:21:00+00:00",
+                "actual_runway": "2020-03-05T13:21:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T14:40:00+00:00",
+                "estimated_runway": "2020-03-05T14:35:00+00:00",
+                "actual_runway": "2020-03-05T14:35:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1311",
+                "iata": "BA1311",
+                "icao": "BAW1311",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Keflavik International",
+                "timezone": "Atlantic/Reykjavik",
+                "iata": "KEF",
+                "icao": "BIKF",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T13:00:00+00:00",
+                "estimated": "2020-03-05T13:00:00+00:00",
+                "actual": "2020-03-05T12:47:00+00:00",
+                "estimated_runway": "2020-03-05T13:04:00+00:00",
+                "actual_runway": "2020-03-05T13:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T16:10:00+00:00",
+                "estimated": "2020-03-05T16:10:00+00:00",
+                "actual": "2020-03-05T15:45:00+00:00",
+                "estimated_runway": "2020-03-05T15:38:00+00:00",
+                "actual_runway": "2020-03-05T15:38:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "895",
+                "iata": "BA895",
+                "icao": "BAW895",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "4",
+                "gate": "H7",
+                "delay": null,
+                "scheduled": "2020-03-05T14:45:00+00:00",
+                "estimated": "2020-03-05T14:45:00+00:00",
+                "actual": "2020-03-05T14:45:00+00:00",
+                "estimated_runway": "2020-03-05T15:08:00+00:00",
+                "actual_runway": "2020-03-05T15:08:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T16:20:00+00:00",
+                "estimated": "2020-03-05T16:20:00+00:00",
+                "actual": "2020-03-05T16:03:00+00:00",
+                "estimated_runway": "2020-03-05T15:54:00+00:00",
+                "actual_runway": "2020-03-05T15:54:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "7060",
+                "iata": "BA7060",
+                "icao": "BAW7060",
+                "codeshared": {
+                    "airline_name": "iberia",
+                    "airline_iata": "ib",
+                    "airline_icao": "ibe",
+                    "flight_number": "3172",
+                    "flight_iata": "ib3172",
+                    "flight_icao": "ibe3172"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Valencia",
+                "timezone": "Europe/Madrid",
+                "iata": "VLC",
+                "icao": "LEVC",
+                "terminal": "1",
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T14:10:00+00:00",
+                "estimated": "2020-03-05T14:10:00+00:00",
+                "actual": "2020-03-05T14:08:00+00:00",
+                "estimated_runway": "2020-03-05T14:18:00+00:00",
+                "actual_runway": "2020-03-05T14:18:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T15:45:00+00:00",
+                "estimated": "2020-03-05T15:45:00+00:00",
+                "actual": "2020-03-05T15:22:00+00:00",
+                "estimated_runway": "2020-03-05T15:17:00+00:00",
+                "actual_runway": "2020-03-05T15:17:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "409",
+                "iata": "BA409",
+                "icao": "BAW409",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "George Best Belfast City",
+                "timezone": "Europe/London",
+                "iata": "BHD",
+                "icao": "EGAC",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T13:15:00+00:00",
+                "estimated": "2020-03-05T13:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T13:23:00+00:00",
+                "actual_runway": "2020-03-05T13:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T14:30:00+00:00",
+                "estimated": "2020-03-05T14:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T14:18:00+00:00",
+                "actual_runway": "2020-03-05T14:18:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2134",
+                "iata": "BA2134",
+                "icao": "BAW2134",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "934",
+                    "flight_iata": "ei934",
+                    "flight_icao": "ein934"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2A",
+                "gate": "A47",
+                "delay": 21,
+                "scheduled": "2020-03-05T14:55:00+00:00",
+                "estimated": "2020-03-05T14:55:00+00:00",
+                "actual": "2020-03-05T15:16:00+00:00",
+                "estimated_runway": "2020-03-05T15:30:00+00:00",
+                "actual_runway": "2020-03-05T15:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": 6,
+                "scheduled": "2020-03-05T15:15:00+00:00",
+                "estimated": "2020-03-05T15:15:00+00:00",
+                "actual": "2020-03-05T15:21:00+00:00",
+                "estimated_runway": "2020-03-05T15:16:00+00:00",
+                "actual_runway": "2020-03-05T15:16:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "315",
+                "iata": "BA315",
+                "icao": "BAW315",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "1",
+                "gate": "D6",
+                "delay": null,
+                "scheduled": "2020-03-05T15:00:00+00:00",
+                "estimated": "2020-03-05T15:00:00+00:00",
+                "actual": "2020-03-05T14:52:00+00:00",
+                "estimated_runway": "2020-03-05T15:04:00+00:00",
+                "actual_runway": "2020-03-05T15:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "07",
+                "delay": null,
+                "scheduled": "2020-03-05T16:30:00+00:00",
+                "estimated": "2020-03-05T16:30:00+00:00",
+                "actual": "2020-03-05T15:57:00+00:00",
+                "estimated_runway": "2020-03-05T15:51:00+00:00",
+                "actual_runway": "2020-03-05T15:51:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "485",
+                "iata": "BA485",
+                "icao": "BAW485",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "1",
+                "gate": "D12",
+                "delay": null,
+                "scheduled": "2020-03-05T14:15:00+00:00",
+                "estimated": "2020-03-05T14:15:00+00:00",
+                "actual": "2020-03-05T14:13:00+00:00",
+                "estimated_runway": "2020-03-05T14:26:00+00:00",
+                "actual_runway": "2020-03-05T14:26:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T15:40:00+00:00",
+                "estimated": "2020-03-05T15:40:00+00:00",
+                "actual": "2020-03-05T15:16:00+00:00",
+                "estimated_runway": "2020-03-05T15:10:00+00:00",
+                "actual_runway": "2020-03-05T15:10:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "475",
+                "iata": "BA475",
+                "icao": "BAW475",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUYW",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "406AE3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Prague Vaclav Havel Airport",
+                "timezone": "Europe/Prague",
+                "iata": "PRG",
+                "icao": "LKPR",
+                "terminal": "2",
+                "gate": "B2",
+                "delay": null,
+                "scheduled": "2020-03-05T14:25:00+00:00",
+                "estimated": "2020-03-05T14:25:00+00:00",
+                "actual": "2020-03-05T14:20:00+00:00",
+                "estimated_runway": "2020-03-05T14:32:00+00:00",
+                "actual_runway": "2020-03-05T14:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "07",
+                "delay": null,
+                "scheduled": "2020-03-05T15:40:00+00:00",
+                "estimated": "2020-03-05T15:40:00+00:00",
+                "actual": "2020-03-05T15:18:00+00:00",
+                "estimated_runway": "2020-03-05T15:13:00+00:00",
+                "actual_runway": "2020-03-05T15:13:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "859",
+                "iata": "BA859",
+                "icao": "BAW859",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B4",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:57:00+00:00",
+                "estimated_runway": "2020-03-05T14:10:00+00:00",
+                "actual_runway": "2020-03-05T14:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": "2020-03-05T14:07:00+00:00",
+                "estimated_runway": "2020-03-05T14:01:00+00:00",
+                "actual_runway": "2020-03-05T14:01:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "397",
+                "iata": "BA397",
+                "icao": "BAW397",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Shannon",
+                "timezone": "Europe/Dublin",
+                "iata": "SNN",
+                "icao": "EINN",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T12:48:00+00:00",
+                "actual_runway": "2020-03-05T12:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T14:25:00+00:00",
+                "estimated": "2020-03-05T14:25:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T13:56:00+00:00",
+                "actual_runway": "2020-03-05T13:56:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5942",
+                "iata": "BA5942",
+                "icao": "BAW5942",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "384",
+                    "flight_iata": "ei384",
+                    "flight_icao": "ein384"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:50:00+00:00",
+                "estimated_runway": "2020-03-05T14:01:00+00:00",
+                "actual_runway": "2020-03-05T14:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T15:30:00+00:00",
+                "estimated": "2020-03-05T15:30:00+00:00",
+                "actual": "2020-03-05T15:02:00+00:00",
+                "estimated_runway": "2020-03-05T14:55:00+00:00",
+                "actual_runway": "2020-03-05T14:55:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1449",
+                "iata": "BA1449",
+                "icao": "BAW1449",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "G-EUXF",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "400AFE"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": "2020-03-05T12:34:00+00:00",
+                "estimated_runway": "2020-03-05T12:47:00+00:00",
+                "actual_runway": "2020-03-05T12:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T13:55:00+00:00",
+                "estimated": "2020-03-05T13:55:00+00:00",
+                "actual": "2020-03-05T13:30:00+00:00",
+                "estimated_runway": "2020-03-05T13:22:00+00:00",
+                "actual_runway": "2020-03-05T13:22:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1395",
+                "iata": "BA1395",
+                "icao": "BAW1395",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "4",
+                "gate": "H4",
+                "delay": null,
+                "scheduled": "2020-03-05T13:20:00+00:00",
+                "estimated": "2020-03-05T13:20:00+00:00",
+                "actual": "2020-03-05T13:16:00+00:00",
+                "estimated_runway": "2020-03-05T13:30:00+00:00",
+                "actual_runway": "2020-03-05T13:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T14:55:00+00:00",
+                "estimated": "2020-03-05T14:55:00+00:00",
+                "actual": "2020-03-05T14:29:00+00:00",
+                "estimated_runway": "2020-03-05T14:21:00+00:00",
+                "actual_runway": "2020-03-05T14:21:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "7066",
+                "iata": "BA7066",
+                "icao": "BAW7066",
+                "codeshared": {
+                    "airline_name": "iberia",
+                    "airline_iata": "ib",
+                    "airline_icao": "ibe",
+                    "flight_number": "3176",
+                    "flight_iata": "ib3176",
+                    "flight_icao": "ibe3176"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Zurich",
+                "timezone": "Europe/Zurich",
+                "iata": "ZRH",
+                "icao": "LSZH",
+                "terminal": "1",
+                "gate": "D31",
+                "delay": null,
+                "scheduled": "2020-03-05T13:10:00+00:00",
+                "estimated": "2020-03-05T13:10:00+00:00",
+                "actual": "2020-03-05T13:04:00+00:00",
+                "estimated_runway": "2020-03-05T13:18:00+00:00",
+                "actual_runway": "2020-03-05T13:18:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T14:10:00+00:00",
+                "estimated": "2020-03-05T14:10:00+00:00",
+                "actual": "2020-03-05T13:45:00+00:00",
+                "estimated_runway": "2020-03-05T13:40:00+00:00",
+                "actual_runway": "2020-03-05T13:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "713",
+                "iata": "BA713",
+                "icao": "BAW713",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Cote D'azur International Airport",
+                "timezone": "Europe/Paris",
+                "iata": "NCE",
+                "icao": "LFMN",
+                "terminal": "1",
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2020-03-05T13:50:00+00:00",
+                "estimated": "2020-03-05T13:50:00+00:00",
+                "actual": "2020-03-05T13:52:00+00:00",
+                "estimated_runway": "2020-03-05T14:05:00+00:00",
+                "actual_runway": "2020-03-05T14:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": 4,
+                "scheduled": "2020-03-05T15:00:00+00:00",
+                "estimated": "2020-03-05T15:00:00+00:00",
+                "actual": "2020-03-05T15:04:00+00:00",
+                "estimated_runway": "2020-03-05T14:50:00+00:00",
+                "actual_runway": "2020-03-05T14:50:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "347",
+                "iata": "BA347",
+                "icao": "BAW347",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Leonardo Da Vinci (Fiumicino)",
+                "timezone": "Europe/Rome",
+                "iata": "FCO",
+                "icao": "LIRF",
+                "terminal": "3",
+                "gate": "E16",
+                "delay": null,
+                "scheduled": "2020-03-05T13:25:00+00:00",
+                "estimated": "2020-03-05T13:25:00+00:00",
+                "actual": "2020-03-05T13:24:00+00:00",
+                "estimated_runway": "2020-03-05T13:36:00+00:00",
+                "actual_runway": "2020-03-05T13:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T15:15:00+00:00",
+                "estimated": "2020-03-05T15:15:00+00:00",
+                "actual": "2020-03-05T15:10:00+00:00",
+                "estimated_runway": "2020-03-05T15:02:00+00:00",
+                "actual_runway": "2020-03-05T15:02:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "555",
+                "iata": "BA555",
+                "icao": "BAW555",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Linate",
+                "timezone": "Europe/Rome",
+                "iata": "LIN",
+                "icao": "LIML",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T13:15:00+00:00",
+                "estimated": "2020-03-05T13:15:00+00:00",
+                "actual": "2020-03-05T13:05:00+00:00",
+                "estimated_runway": "2020-03-05T13:11:00+00:00",
+                "actual_runway": "2020-03-05T13:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T14:25:00+00:00",
+                "estimated": "2020-03-05T14:25:00+00:00",
+                "actual": "2020-03-05T14:10:00+00:00",
+                "estimated_runway": "2020-03-05T13:59:00+00:00",
+                "actual_runway": "2020-03-05T13:59:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "577",
+                "iata": "BA577",
+                "icao": "BAW577",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUPF",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "40083C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Hamburg Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "HAM",
+                "icao": "EDDH",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T13:25:00+00:00",
+                "estimated": "2020-03-05T13:25:00+00:00",
+                "actual": "2020-03-05T13:11:00+00:00",
+                "estimated_runway": "2020-03-05T13:22:00+00:00",
+                "actual_runway": "2020-03-05T13:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "9",
+                "delay": null,
+                "scheduled": "2020-03-05T14:15:00+00:00",
+                "estimated": "2020-03-05T14:15:00+00:00",
+                "actual": "2020-03-05T13:46:00+00:00",
+                "estimated_runway": "2020-03-05T13:38:00+00:00",
+                "actual_runway": "2020-03-05T13:38:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "969",
+                "iata": "BA969",
+                "icao": "BAW969",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Lisbon Portela",
+                "timezone": "Europe/Lisbon",
+                "iata": "LIS",
+                "icao": "LPPT",
+                "terminal": "1",
+                "gate": null,
+                "delay": 10,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": "2020-03-05T12:55:00+00:00",
+                "estimated_runway": "2020-03-05T13:12:00+00:00",
+                "actual_runway": "2020-03-05T13:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "08",
+                "delay": 2,
+                "scheduled": "2020-03-05T15:40:00+00:00",
+                "estimated": "2020-03-05T15:40:00+00:00",
+                "actual": "2020-03-05T15:42:00+00:00",
+                "estimated_runway": "2020-03-05T15:39:00+00:00",
+                "actual_runway": "2020-03-05T15:39:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "507",
+                "iata": "BA507",
+                "icao": "BAW507",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Geneve-cointrin",
+                "timezone": "Europe/Zurich",
+                "iata": "GVA",
+                "icao": "LSGG",
+                "terminal": null,
+                "gate": "B33",
+                "delay": 1,
+                "scheduled": "2020-03-05T13:30:00+00:00",
+                "estimated": "2020-03-05T13:30:00+00:00",
+                "actual": "2020-03-05T13:31:00+00:00",
+                "estimated_runway": "2020-03-05T13:40:00+00:00",
+                "actual_runway": "2020-03-05T13:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": "2020-03-05T14:18:00+00:00",
+                "estimated_runway": "2020-03-05T14:10:00+00:00",
+                "actual_runway": "2020-03-05T14:10:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "729",
+                "iata": "BA729",
+                "icao": "BAW729",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GTTNB",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "407463"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Berlin-tegel / Otto Lilienthal",
+                "timezone": "Europe/Berlin",
+                "iata": "TXL",
+                "icao": "EDDT",
+                "terminal": "A",
+                "gate": "13",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:56:00+00:00",
+                "estimated_runway": "2020-03-05T14:11:00+00:00",
+                "actual_runway": "2020-03-05T14:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T14:51:00+00:00",
+                "estimated_runway": "2020-03-05T14:45:00+00:00",
+                "actual_runway": "2020-03-05T14:45:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "983",
+                "iata": "BA983",
+                "icao": "BAW983",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T12:10:00+00:00",
+                "estimated": "2020-03-05T12:10:00+00:00",
+                "actual": "2020-03-05T12:05:00+00:00",
+                "estimated_runway": "2020-03-05T12:14:00+00:00",
+                "actual_runway": "2020-03-05T12:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T13:35:00+00:00",
+                "estimated": "2020-03-05T13:35:00+00:00",
+                "actual": "2020-03-05T13:14:00+00:00",
+                "estimated_runway": "2020-03-05T13:04:00+00:00",
+                "actual_runway": "2020-03-05T13:04:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1327",
+                "iata": "BA1327",
+                "icao": "BAW1327",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "G-MEDN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "40560B"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+                "timezone": "Europe/Athens",
+                "iata": "ATH",
+                "icao": "LGAV",
+                "terminal": "M",
+                "gate": "A11",
+                "delay": null,
+                "scheduled": "2020-03-05T14:25:00+00:00",
+                "estimated": "2020-03-05T14:25:00+00:00",
+                "actual": "2020-03-05T14:17:00+00:00",
+                "estimated_runway": "2020-03-05T14:29:00+00:00",
+                "actual_runway": "2020-03-05T14:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T16:30:00+00:00",
+                "estimated": "2020-03-05T16:30:00+00:00",
+                "actual": "2020-03-05T16:13:00+00:00",
+                "estimated_runway": "2020-03-05T16:06:00+00:00",
+                "actual_runway": "2020-03-05T16:06:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "641",
+                "iata": "BA641",
+                "icao": "BAW641",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Düsseldorf International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "DUS",
+                "icao": "EDDL",
+                "terminal": null,
+                "gate": "B37",
+                "delay": null,
+                "scheduled": "2020-03-05T12:35:00+00:00",
+                "estimated": "2020-03-05T12:35:00+00:00",
+                "actual": "2020-03-05T12:22:00+00:00",
+                "estimated_runway": "2020-03-05T12:31:00+00:00",
+                "actual_runway": "2020-03-05T12:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T13:10:00+00:00",
+                "estimated": "2020-03-05T13:10:00+00:00",
+                "actual": "2020-03-05T12:43:00+00:00",
+                "estimated_runway": "2020-03-05T12:36:00+00:00",
+                "actual_runway": "2020-03-05T12:36:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "939",
+                "iata": "BA939",
+                "icao": "BAW939",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "M",
+                "gate": "21",
+                "delay": null,
+                "scheduled": "2020-03-05T13:00:00+00:00",
+                "estimated": "2020-03-05T13:00:00+00:00",
+                "actual": "2020-03-05T12:52:00+00:00",
+                "estimated_runway": "2020-03-05T13:02:00+00:00",
+                "actual_runway": "2020-03-05T13:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T14:30:00+00:00",
+                "estimated": "2020-03-05T14:30:00+00:00",
+                "actual": "2020-03-05T14:08:00+00:00",
+                "estimated_runway": "2020-03-05T14:02:00+00:00",
+                "actual_runway": "2020-03-05T14:02:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1487",
+                "iata": "BA1487",
+                "icao": "BAW1487",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "409",
+                "delay": null,
+                "scheduled": "2020-03-05T12:00:00+00:00",
+                "estimated": "2020-03-05T12:00:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T12:04:00+00:00",
+                "actual_runway": "2020-03-05T12:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T13:30:00+00:00",
+                "estimated": "2020-03-05T13:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T12:56:00+00:00",
+                "actual_runway": "2020-03-05T12:56:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5964",
+                "iata": "BA5964",
+                "icao": "BAW5964",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "164",
+                    "flight_iata": "ei164",
+                    "flight_icao": "ein164"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Marco Polo",
+                "timezone": "Europe/Rome",
+                "iata": "VCE",
+                "icao": "LIPZ",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T12:50:00+00:00",
+                "estimated": "2020-03-05T12:50:00+00:00",
+                "actual": "2020-03-05T12:41:00+00:00",
+                "estimated_runway": "2020-03-05T12:52:00+00:00",
+                "actual_runway": "2020-03-05T12:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T14:20:00+00:00",
+                "estimated": "2020-03-05T14:20:00+00:00",
+                "actual": "2020-03-05T13:57:00+00:00",
+                "estimated_runway": "2020-03-05T13:52:00+00:00",
+                "actual_runway": "2020-03-05T13:52:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "579",
+                "iata": "BA579",
+                "icao": "BAW579",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Geneve-cointrin",
+                "timezone": "Europe/Zurich",
+                "iata": "GVA",
+                "icao": "LSGG",
+                "terminal": null,
+                "gate": "B34",
+                "delay": null,
+                "scheduled": "2020-03-05T12:25:00+00:00",
+                "estimated": "2020-03-05T12:25:00+00:00",
+                "actual": "2020-03-05T12:25:00+00:00",
+                "estimated_runway": "2020-03-05T12:42:00+00:00",
+                "actual_runway": "2020-03-05T12:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": 7,
+                "scheduled": "2020-03-05T13:15:00+00:00",
+                "estimated": "2020-03-05T13:15:00+00:00",
+                "actual": "2020-03-05T13:22:00+00:00",
+                "estimated_runway": "2020-03-05T13:13:00+00:00",
+                "actual_runway": "2020-03-05T13:13:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "727",
+                "iata": "BA727",
+                "icao": "BAW727",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Ataturk Airport",
+                "timezone": "Europe/Istanbul",
+                "iata": "IST",
+                "icao": "LTBA",
+                "terminal": null,
+                "gate": "F7B",
+                "delay": 2,
+                "scheduled": "2020-03-05T10:00:00+00:00",
+                "estimated": "2020-03-05T10:00:00+00:00",
+                "actual": "2020-03-05T10:02:00+00:00",
+                "estimated_runway": "2020-03-05T10:32:00+00:00",
+                "actual_runway": "2020-03-05T10:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T11:20:00+00:00",
+                "estimated": "2020-03-05T11:20:00+00:00",
+                "actual": "2020-03-05T11:09:00+00:00",
+                "estimated_runway": "2020-03-05T11:03:00+00:00",
+                "actual_runway": "2020-03-05T11:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "675",
+                "iata": "BA675",
+                "icao": "BAW675",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GTTNH",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "4075FD"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Frederic Chopin",
+                "timezone": "Europe/Warsaw",
+                "iata": "WAW",
+                "icao": "EPWA",
+                "terminal": "A",
+                "gate": "8N",
+                "delay": 1,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": "2020-03-05T12:46:00+00:00",
+                "estimated_runway": "2020-03-05T12:57:00+00:00",
+                "actual_runway": "2020-03-05T12:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T14:30:00+00:00",
+                "estimated": "2020-03-05T14:30:00+00:00",
+                "actual": "2020-03-05T14:29:00+00:00",
+                "estimated_runway": "2020-03-05T14:14:00+00:00",
+                "actual_runway": "2020-03-05T14:14:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "847",
+                "iata": "BA847",
+                "icao": "BAW847",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GNEOP",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "407600"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Cote D'azur International Airport",
+                "timezone": "Europe/Paris",
+                "iata": "NCE",
+                "icao": "LFMN",
+                "terminal": "1",
+                "gate": null,
+                "delay": 8,
+                "scheduled": "2020-03-05T12:30:00+00:00",
+                "estimated": "2020-03-05T12:30:00+00:00",
+                "actual": "2020-03-05T12:22:00+00:00",
+                "estimated_runway": "2020-03-05T12:34:00+00:00",
+                "actual_runway": "2020-03-05T12:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": 7,
+                "scheduled": "2020-03-05T13:50:00+00:00",
+                "estimated": "2020-03-05T13:50:00+00:00",
+                "actual": "2020-03-05T13:41:00+00:00",
+                "estimated_runway": "2020-03-05T13:35:00+00:00",
+                "actual_runway": "2020-03-05T13:35:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "343",
+                "iata": "BA343",
+                "icao": "BAW343",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "1",
+                "gate": "D14",
+                "delay": null,
+                "scheduled": "2020-03-05T12:20:00+00:00",
+                "estimated": "2020-03-05T12:20:00+00:00",
+                "actual": "2020-03-05T12:09:00+00:00",
+                "estimated_runway": "2020-03-05T12:24:00+00:00",
+                "actual_runway": "2020-03-05T12:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T13:50:00+00:00",
+                "estimated": "2020-03-05T13:50:00+00:00",
+                "actual": "2020-03-05T13:23:00+00:00",
+                "estimated_runway": "2020-03-05T13:19:00+00:00",
+                "actual_runway": "2020-03-05T13:19:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "483",
+                "iata": "BA483",
+                "icao": "BAW483",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUUJ",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "4009C7"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Helsinki-vantaa",
+                "timezone": "Europe/Helsinki",
+                "iata": "HEL",
+                "icao": "EFHK",
+                "terminal": "2",
+                "gate": "51B",
+                "delay": 14,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T14:14:00+00:00",
+                "estimated_runway": "2020-03-05T14:25:00+00:00",
+                "actual_runway": "2020-03-05T14:25:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "04",
+                "delay": 6,
+                "scheduled": "2020-03-05T15:10:00+00:00",
+                "estimated": "2020-03-05T15:10:00+00:00",
+                "actual": "2020-03-05T15:16:00+00:00",
+                "estimated_runway": "2020-03-05T15:11:00+00:00",
+                "actual_runway": "2020-03-05T15:11:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6079",
+                "iata": "BA6079",
+                "icao": "BAW6079",
+                "codeshared": {
+                    "airline_name": "finnair",
+                    "airline_iata": "ay",
+                    "airline_icao": "fin",
+                    "flight_number": "1335",
+                    "flight_iata": "ay1335",
+                    "flight_icao": "fin1335"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Helsinki-vantaa",
+                "timezone": "Europe/Helsinki",
+                "iata": "HEL",
+                "icao": "EFHK",
+                "terminal": "2",
+                "gate": "55",
+                "delay": null,
+                "scheduled": "2020-03-05T13:50:00+00:00",
+                "estimated": "2020-03-05T13:50:00+00:00",
+                "actual": "2020-03-05T13:40:00+00:00",
+                "estimated_runway": "2020-03-05T13:55:00+00:00",
+                "actual_runway": "2020-03-05T13:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T15:05:00+00:00",
+                "estimated": "2020-03-05T15:05:00+00:00",
+                "actual": "2020-03-05T14:43:00+00:00",
+                "estimated_runway": "2020-03-05T14:40:00+00:00",
+                "actual_runway": "2020-03-05T14:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "799",
+                "iata": "BA799",
+                "icao": "BAW799",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUUF",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "400981"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Galileo Galilei",
+                "timezone": "Europe/Rome",
+                "iata": "PSA",
+                "icao": "LIRP",
+                "terminal": null,
+                "gate": "21",
+                "delay": 5,
+                "scheduled": "2020-03-05T12:20:00+00:00",
+                "estimated": "2020-03-05T12:20:00+00:00",
+                "actual": "2020-03-05T12:17:00+00:00",
+                "estimated_runway": "2020-03-05T12:40:00+00:00",
+                "actual_runway": "2020-03-05T12:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "10",
+                "delay": 6,
+                "scheduled": "2020-03-05T13:45:00+00:00",
+                "estimated": "2020-03-05T13:45:00+00:00",
+                "actual": "2020-03-05T13:51:00+00:00",
+                "estimated_runway": "2020-03-05T13:43:00+00:00",
+                "actual_runway": "2020-03-05T13:43:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "605",
+                "iata": "BA605",
+                "icao": "BAW605",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Frankfurt International Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "FRA",
+                "icao": "EDDF",
+                "terminal": "2",
+                "gate": "D1",
+                "delay": null,
+                "scheduled": "2020-03-05T12:05:00+00:00",
+                "estimated": "2020-03-05T12:05:00+00:00",
+                "actual": "2020-03-05T11:57:00+00:00",
+                "estimated_runway": "2020-03-05T12:15:00+00:00",
+                "actual_runway": "2020-03-05T12:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T13:00:00+00:00",
+                "estimated": "2020-03-05T13:00:00+00:00",
+                "actual": "2020-03-05T12:40:00+00:00",
+                "estimated_runway": "2020-03-05T12:27:00+00:00",
+                "actual_runway": "2020-03-05T12:27:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "907",
+                "iata": "BA907",
+                "icao": "BAW907",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "4S",
+                "gate": "S31",
+                "delay": null,
+                "scheduled": "2020-03-05T12:50:00+00:00",
+                "estimated": "2020-03-05T12:50:00+00:00",
+                "actual": "2020-03-05T12:48:00+00:00",
+                "estimated_runway": "2020-03-05T13:03:00+00:00",
+                "actual_runway": "2020-03-05T13:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": 19,
+                "scheduled": "2020-03-05T14:05:00+00:00",
+                "estimated": "2020-03-05T14:05:00+00:00",
+                "actual": "2020-03-05T14:03:00+00:00",
+                "estimated_runway": "2020-03-05T13:53:00+00:00",
+                "actual_runway": "2020-03-05T13:53:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "467",
+                "iata": "BA467",
+                "icao": "BAW467",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "4S",
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2020-03-05T12:30:00+00:00",
+                "estimated": "2020-03-05T12:30:00+00:00",
+                "actual": "2020-03-05T12:36:00+00:00",
+                "estimated_runway": "2020-03-05T12:55:00+00:00",
+                "actual_runway": "2020-03-05T12:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": 17,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:41:00+00:00",
+                "estimated_runway": "2020-03-05T13:37:00+00:00",
+                "actual_runway": "2020-03-05T13:37:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "459",
+                "iata": "BA459",
+                "icao": "BAW459",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Franz Josef Strauss",
+                "timezone": "Europe/Berlin",
+                "iata": "MUC",
+                "icao": "EDDM",
+                "terminal": "1",
+                "gate": "B10",
+                "delay": null,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": "2020-03-05T12:44:00+00:00",
+                "estimated_runway": "2020-03-05T12:54:00+00:00",
+                "actual_runway": "2020-03-05T12:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:35:00+00:00",
+                "estimated_runway": "2020-03-05T13:28:00+00:00",
+                "actual_runway": "2020-03-05T13:28:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "951",
+                "iata": "BA951",
+                "icao": "BAW951",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Liszt Ferenc International",
+                "timezone": "Europe/Budapest",
+                "iata": "BUD",
+                "icao": "LHBP",
+                "terminal": "2B",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T12:25:00+00:00",
+                "estimated": "2020-03-05T12:25:00+00:00",
+                "actual": "2020-03-05T12:23:00+00:00",
+                "estimated_runway": "2020-03-05T12:34:00+00:00",
+                "actual_runway": "2020-03-05T12:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "03",
+                "delay": null,
+                "scheduled": "2020-03-05T14:10:00+00:00",
+                "estimated": "2020-03-05T14:10:00+00:00",
+                "actual": "2020-03-05T14:04:00+00:00",
+                "estimated_runway": "2020-03-05T13:58:00+00:00",
+                "actual_runway": "2020-03-05T13:58:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "869",
+                "iata": "BA869",
+                "icao": "BAW869",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Leeds/bradford",
+                "timezone": "Europe/London",
+                "iata": "LBA",
+                "icao": "EGNM",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T11:10:00+00:00",
+                "estimated": "2020-03-05T11:10:00+00:00",
+                "actual": "2020-03-05T11:01:00+00:00",
+                "estimated_runway": "2020-03-05T11:11:00+00:00",
+                "actual_runway": "2020-03-05T11:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T12:20:00+00:00",
+                "estimated": "2020-03-05T12:20:00+00:00",
+                "actual": "2020-03-05T11:56:00+00:00",
+                "estimated_runway": "2020-03-05T11:51:00+00:00",
+                "actual_runway": "2020-03-05T11:51:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1347",
+                "iata": "BA1347",
+                "icao": "BAW1347",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Kastrup",
+                "timezone": "Europe/Copenhagen",
+                "iata": "CPH",
+                "icao": "EKCH",
+                "terminal": "2",
+                "gate": "C27",
+                "delay": null,
+                "scheduled": "2020-03-05T12:50:00+00:00",
+                "estimated": "2020-03-05T12:50:00+00:00",
+                "actual": "2020-03-05T12:40:00+00:00",
+                "estimated_runway": "2020-03-05T12:50:00+00:00",
+                "actual_runway": "2020-03-05T12:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T13:38:00+00:00",
+                "estimated_runway": "2020-03-05T13:25:00+00:00",
+                "actual_runway": "2020-03-05T13:25:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "815",
+                "iata": "BA815",
+                "icao": "BAW815",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Guglielmo Marconi",
+                "timezone": "Europe/Rome",
+                "iata": "BLQ",
+                "icao": "LIPE",
+                "terminal": null,
+                "gate": "21",
+                "delay": null,
+                "scheduled": "2020-03-05T12:40:00+00:00",
+                "estimated": "2020-03-05T12:40:00+00:00",
+                "actual": "2020-03-05T12:34:00+00:00",
+                "estimated_runway": "2020-03-05T12:44:00+00:00",
+                "actual_runway": "2020-03-05T12:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T14:05:00+00:00",
+                "estimated": "2020-03-05T14:05:00+00:00",
+                "actual": "2020-03-05T13:53:00+00:00",
+                "estimated_runway": "2020-03-05T13:46:00+00:00",
+                "actual_runway": "2020-03-05T13:46:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "541",
+                "iata": "BA541",
+                "icao": "BAW541",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Cork",
+                "timezone": "Europe/Dublin",
+                "iata": "ORK",
+                "icao": "EICK",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T11:50:00+00:00",
+                "estimated": "2020-03-05T11:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T11:57:00+00:00",
+                "actual_runway": "2020-03-05T11:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T13:20:00+00:00",
+                "estimated": "2020-03-05T13:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T12:58:00+00:00",
+                "actual_runway": "2020-03-05T12:58:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5928",
+                "iata": "BA5928",
+                "icao": "BAW5928",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "712",
+                    "flight_iata": "ei712",
+                    "flight_icao": "ein712"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Berlin-tegel / Otto Lilienthal",
+                "timezone": "Europe/Berlin",
+                "iata": "TXL",
+                "icao": "EDDT",
+                "terminal": "A",
+                "gate": "13",
+                "delay": null,
+                "scheduled": "2020-03-05T12:35:00+00:00",
+                "estimated": "2020-03-05T12:35:00+00:00",
+                "actual": "2020-03-05T12:25:00+00:00",
+                "estimated_runway": "2020-03-05T12:35:00+00:00",
+                "actual_runway": "2020-03-05T12:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T13:40:00+00:00",
+                "estimated": "2020-03-05T13:40:00+00:00",
+                "actual": "2020-03-05T13:16:00+00:00",
+                "estimated_runway": "2020-03-05T13:10:00+00:00",
+                "actual_runway": "2020-03-05T13:10:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "993",
+                "iata": "BA993",
+                "icao": "BAW993",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GEUOD",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "40093D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "M",
+                "gate": "19",
+                "delay": null,
+                "scheduled": "2020-03-05T11:40:00+00:00",
+                "estimated": "2020-03-05T11:40:00+00:00",
+                "actual": "2020-03-05T11:33:00+00:00",
+                "estimated_runway": "2020-03-05T11:45:00+00:00",
+                "actual_runway": "2020-03-05T11:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T13:10:00+00:00",
+                "estimated": "2020-03-05T13:10:00+00:00",
+                "actual": "2020-03-05T12:50:00+00:00",
+                "estimated_runway": "2020-03-05T12:45:00+00:00",
+                "actual_runway": "2020-03-05T12:45:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1481",
+                "iata": "BA1481",
+                "icao": "BAW1481",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Glasgow International",
+                "timezone": "Europe/London",
+                "iata": "GLA",
+                "icao": "EGPF",
+                "terminal": "M",
+                "gate": "23",
+                "delay": null,
+                "scheduled": "2020-03-05T11:05:00+00:00",
+                "estimated": "2020-03-05T11:05:00+00:00",
+                "actual": "2020-03-05T10:55:00+00:00",
+                "estimated_runway": "2020-03-05T11:07:00+00:00",
+                "actual_runway": "2020-03-05T11:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T12:35:00+00:00",
+                "estimated": "2020-03-05T12:35:00+00:00",
+                "actual": "2020-03-05T12:11:00+00:00",
+                "estimated_runway": "2020-03-05T12:02:00+00:00",
+                "actual_runway": "2020-03-05T12:02:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1491",
+                "iata": "BA1491",
+                "icao": "BAW1491",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T11:20:00+00:00",
+                "estimated": "2020-03-05T11:20:00+00:00",
+                "actual": "2020-03-05T11:20:00+00:00",
+                "estimated_runway": "2020-03-05T11:29:00+00:00",
+                "actual_runway": "2020-03-05T11:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-05T12:55:00+00:00",
+                "estimated": "2020-03-05T12:55:00+00:00",
+                "actual": "2020-03-05T12:46:00+00:00",
+                "estimated_runway": "2020-03-05T12:34:00+00:00",
+                "actual_runway": "2020-03-05T12:34:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1445",
+                "iata": "BA1445",
+                "icao": "BAW1445",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Hanover Airport",
+                "timezone": "Europe/Berlin",
+                "iata": "HAJ",
+                "icao": "EDDV",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T11:20:00+00:00",
+                "estimated": "2020-03-05T11:20:00+00:00",
+                "actual": "2020-03-05T11:05:00+00:00",
+                "estimated_runway": "2020-03-05T11:17:00+00:00",
+                "actual_runway": "2020-03-05T11:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T12:05:00+00:00",
+                "estimated": "2020-03-05T12:05:00+00:00",
+                "actual": "2020-03-05T11:42:00+00:00",
+                "estimated_runway": "2020-03-05T11:36:00+00:00",
+                "actual_runway": "2020-03-05T11:36:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "977",
+                "iata": "BA977",
+                "icao": "BAW977",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Euroairport Swiss",
+                "timezone": "Europe/Zurich",
+                "iata": "BSL",
+                "icao": "_BSL",
+                "terminal": null,
+                "gate": "30",
+                "delay": 8,
+                "scheduled": "2020-03-05T11:10:00+00:00",
+                "estimated": "2020-03-05T11:10:00+00:00",
+                "actual": "2020-03-05T11:08:00+00:00",
+                "estimated_runway": "2020-03-05T11:20:00+00:00",
+                "actual_runway": "2020-03-05T11:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": 11,
+                "scheduled": "2020-03-05T12:00:00+00:00",
+                "estimated": "2020-03-05T12:00:00+00:00",
+                "actual": "2020-03-05T11:48:00+00:00",
+                "estimated_runway": "2020-03-05T11:37:00+00:00",
+                "actual_runway": "2020-03-05T11:37:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "753",
+                "iata": "BA753",
+                "icao": "BAW753",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Brussels Airport",
+                "timezone": "Europe/Brussels",
+                "iata": "BRU",
+                "icao": "EBBR",
+                "terminal": null,
+                "gate": "B6",
+                "delay": null,
+                "scheduled": "2020-03-05T11:50:00+00:00",
+                "estimated": "2020-03-05T11:50:00+00:00",
+                "actual": "2020-03-05T11:41:00+00:00",
+                "estimated_runway": "2020-03-05T11:54:00+00:00",
+                "actual_runway": "2020-03-05T11:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-05T12:10:00+00:00",
+                "estimated": "2020-03-05T12:10:00+00:00",
+                "actual": "2020-03-05T11:54:00+00:00",
+                "estimated_runway": "2020-03-05T11:44:00+00:00",
+                "actual_runway": "2020-03-05T11:44:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "393",
+                "iata": "BA393",
+                "icao": "BAW393",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Milano Malpensa",
+                "timezone": "Europe/Rome",
+                "iata": "MXP",
+                "icao": "LIMC",
+                "terminal": "1",
+                "gate": null,
+                "delay": 11,
+                "scheduled": "2020-03-05T11:35:00+00:00",
+                "estimated": "2020-03-05T11:35:00+00:00",
+                "actual": "2020-03-05T11:27:00+00:00",
+                "estimated_runway": "2020-03-05T11:42:00+00:00",
+                "actual_runway": "2020-03-05T11:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": 6,
+                "scheduled": "2020-03-05T12:45:00+00:00",
+                "estimated": "2020-03-05T12:45:00+00:00",
+                "actual": "2020-03-05T12:29:00+00:00",
+                "estimated_runway": "2020-03-05T12:23:00+00:00",
+                "actual_runway": "2020-03-05T12:23:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "573",
+                "iata": "BA573",
+                "icao": "BAW573",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Findel",
+                "timezone": "Europe/Luxembourg",
+                "iata": "LUX",
+                "icao": "ELLX",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T11:10:00+00:00",
+                "estimated": "2020-03-05T11:10:00+00:00",
+                "actual": "2020-03-05T10:56:00+00:00",
+                "estimated_runway": "2020-03-05T11:07:00+00:00",
+                "actual_runway": "2020-03-05T11:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T11:40:00+00:00",
+                "estimated": "2020-03-05T11:40:00+00:00",
+                "actual": "2020-03-05T11:17:00+00:00",
+                "estimated_runway": "2020-03-05T11:09:00+00:00",
+                "actual_runway": "2020-03-05T11:09:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "417",
+                "iata": "BA417",
+                "icao": "BAW417",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "1",
+                "gate": "D10",
+                "delay": 13,
+                "scheduled": "2020-03-05T11:40:00+00:00",
+                "estimated": "2020-03-05T11:40:00+00:00",
+                "actual": "2020-03-05T11:32:00+00:00",
+                "estimated_runway": "2020-03-05T11:49:00+00:00",
+                "actual_runway": "2020-03-05T11:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T13:10:00+00:00",
+                "estimated": "2020-03-05T13:10:00+00:00",
+                "actual": "2020-03-05T12:49:00+00:00",
+                "estimated_runway": "2020-03-05T12:43:00+00:00",
+                "actual_runway": "2020-03-05T12:43:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "479",
+                "iata": "BA479",
+                "icao": "BAW479",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "El Prat De Llobregat",
+                "timezone": "Europe/Madrid",
+                "iata": "BCN",
+                "icao": "LEBL",
+                "terminal": "1",
+                "gate": "D10",
+                "delay": null,
+                "scheduled": "2020-03-05T10:10:00+00:00",
+                "estimated": "2020-03-05T10:10:00+00:00",
+                "actual": "2020-03-05T10:07:00+00:00",
+                "estimated_runway": "2020-03-05T10:23:00+00:00",
+                "actual_runway": "2020-03-05T10:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "11",
+                "delay": null,
+                "scheduled": "2020-03-05T11:35:00+00:00",
+                "estimated": "2020-03-05T11:35:00+00:00",
+                "actual": "2020-03-05T11:27:00+00:00",
+                "estimated_runway": "2020-03-05T11:12:00+00:00",
+                "actual_runway": "2020-03-05T11:12:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "473",
+                "iata": "BA473",
+                "icao": "BAW473",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Landvetter",
+                "timezone": "Europe/Stockholm",
+                "iata": "GOT",
+                "icao": "ESGG",
+                "terminal": "T1",
+                "gate": "19B",
+                "delay": null,
+                "scheduled": "2020-03-05T11:35:00+00:00",
+                "estimated": "2020-03-05T11:35:00+00:00",
+                "actual": "2020-03-05T11:24:00+00:00",
+                "estimated_runway": "2020-03-05T11:34:00+00:00",
+                "actual_runway": "2020-03-05T11:34:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T12:50:00+00:00",
+                "estimated": "2020-03-05T12:50:00+00:00",
+                "actual": "2020-03-05T12:25:00+00:00",
+                "estimated_runway": "2020-03-05T12:17:00+00:00",
+                "actual_runway": "2020-03-05T12:17:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "791",
+                "iata": "BA791",
+                "icao": "BAW791",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "St-Exupéry",
+                "timezone": "Europe/Paris",
+                "iata": "LYS",
+                "icao": "LFLL",
+                "terminal": "1",
+                "gate": null,
+                "delay": 34,
+                "scheduled": "2020-03-05T12:00:00+00:00",
+                "estimated": "2020-03-05T12:00:00+00:00",
+                "actual": "2020-03-05T12:34:00+00:00",
+                "estimated_runway": "2020-03-05T12:47:00+00:00",
+                "actual_runway": "2020-03-05T12:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": 22,
+                "scheduled": "2020-03-05T12:50:00+00:00",
+                "estimated": "2020-03-05T12:50:00+00:00",
+                "actual": "2020-03-05T13:12:00+00:00",
+                "estimated_runway": "2020-03-05T13:03:00+00:00",
+                "actual_runway": "2020-03-05T13:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "361",
+                "iata": "BA361",
+                "icao": "BAW361",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Charles De Gaulle",
+                "timezone": "Europe/Paris",
+                "iata": "CDG",
+                "icao": "LFPG",
+                "terminal": "2C",
+                "gate": "C91",
+                "delay": 7,
+                "scheduled": "2020-03-05T11:50:00+00:00",
+                "estimated": "2020-03-05T11:50:00+00:00",
+                "actual": "2020-03-05T11:57:00+00:00",
+                "estimated_runway": "2020-03-05T12:11:00+00:00",
+                "actual_runway": "2020-03-05T12:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T12:15:00+00:00",
+                "estimated": "2020-03-05T12:15:00+00:00",
+                "actual": "2020-03-05T12:00:00+00:00",
+                "estimated_runway": "2020-03-05T11:54:00+00:00",
+                "actual_runway": "2020-03-05T11:54:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "309",
+                "iata": "BA309",
+                "icao": "BAW309",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Vienna International",
+                "timezone": "Europe/Vienna",
+                "iata": "VIE",
+                "icao": "LOWW",
+                "terminal": null,
+                "gate": "D28",
+                "delay": null,
+                "scheduled": "2020-03-05T11:30:00+00:00",
+                "estimated": "2020-03-05T11:30:00+00:00",
+                "actual": "2020-03-05T11:21:00+00:00",
+                "estimated_runway": "2020-03-05T11:43:00+00:00",
+                "actual_runway": "2020-03-05T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "07",
+                "delay": null,
+                "scheduled": "2020-03-05T13:00:00+00:00",
+                "estimated": "2020-03-05T13:00:00+00:00",
+                "actual": "2020-03-05T12:57:00+00:00",
+                "estimated_runway": "2020-03-05T12:47:00+00:00",
+                "actual_runway": "2020-03-05T12:47:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "697",
+                "iata": "BA697",
+                "icao": "BAW697",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Leonardo Da Vinci (Fiumicino)",
+                "timezone": "Europe/Rome",
+                "iata": "FCO",
+                "icao": "LIRF",
+                "terminal": "3",
+                "gate": "E20",
+                "delay": null,
+                "scheduled": "2020-03-05T11:55:00+00:00",
+                "estimated": "2020-03-05T11:55:00+00:00",
+                "actual": "2020-03-05T11:41:00+00:00",
+                "estimated_runway": "2020-03-05T11:52:00+00:00",
+                "actual_runway": "2020-03-05T11:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T13:45:00+00:00",
+                "estimated": "2020-03-05T13:45:00+00:00",
+                "actual": "2020-03-05T13:26:00+00:00",
+                "estimated_runway": "2020-03-05T13:18:00+00:00",
+                "actual_runway": "2020-03-05T13:18:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "549",
+                "iata": "BA549",
+                "icao": "BAW549",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GTTNJ",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "4076CD"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Schiphol",
+                "timezone": "Europe/Amsterdam",
+                "iata": "AMS",
+                "icao": "EHAM",
+                "terminal": "3",
+                "gate": "D28",
+                "delay": 4,
+                "scheduled": "2020-03-05T11:40:00+00:00",
+                "estimated": "2020-03-05T11:40:00+00:00",
+                "actual": "2020-03-05T11:44:00+00:00",
+                "estimated_runway": "2020-03-05T12:04:00+00:00",
+                "actual_runway": "2020-03-05T12:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": null,
+                "scheduled": "2020-03-05T12:00:00+00:00",
+                "estimated": "2020-03-05T12:00:00+00:00",
+                "actual": "2020-03-05T11:59:00+00:00",
+                "estimated_runway": "2020-03-05T11:53:00+00:00",
+                "actual_runway": "2020-03-05T11:53:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "431",
+                "iata": "BA431",
+                "icao": "BAW431",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Blagnac",
+                "timezone": "Europe/Paris",
+                "iata": "TLS",
+                "icao": "LFBO",
+                "terminal": null,
+                "gate": "57",
+                "delay": 39,
+                "scheduled": "2020-03-05T11:20:00+00:00",
+                "estimated": "2020-03-05T11:20:00+00:00",
+                "actual": "2020-03-05T11:59:00+00:00",
+                "estimated_runway": "2020-03-05T12:15:00+00:00",
+                "actual_runway": "2020-03-05T12:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "11",
+                "delay": 31,
+                "scheduled": "2020-03-05T12:25:00+00:00",
+                "estimated": "2020-03-05T12:25:00+00:00",
+                "actual": "2020-03-05T12:56:00+00:00",
+                "estimated_runway": "2020-03-05T12:48:00+00:00",
+                "actual_runway": "2020-03-05T12:48:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "373",
+                "iata": "BA373",
+                "icao": "BAW373",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Gardermoen",
+                "timezone": "Europe/Oslo",
+                "iata": "OSL",
+                "icao": "ENGM",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T11:45:00+00:00",
+                "estimated": "2020-03-05T11:45:00+00:00",
+                "actual": "2020-03-05T11:34:00+00:00",
+                "estimated_runway": "2020-03-05T11:43:00+00:00",
+                "actual_runway": "2020-03-05T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2020-03-05T13:20:00+00:00",
+                "estimated": "2020-03-05T13:20:00+00:00",
+                "actual": "2020-03-05T12:50:00+00:00",
+                "estimated_runway": "2020-03-05T12:44:00+00:00",
+                "actual_runway": "2020-03-05T12:44:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "763",
+                "iata": "BA763",
+                "icao": "BAW763",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Berlin-tegel / Otto Lilienthal",
+                "timezone": "Europe/Berlin",
+                "iata": "TXL",
+                "icao": "EDDT",
+                "terminal": "A",
+                "gate": "13",
+                "delay": null,
+                "scheduled": "2020-03-05T11:05:00+00:00",
+                "estimated": "2020-03-05T11:05:00+00:00",
+                "actual": "2020-03-05T10:51:00+00:00",
+                "estimated_runway": "2020-03-05T11:06:00+00:00",
+                "actual_runway": "2020-03-05T11:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "9",
+                "delay": null,
+                "scheduled": "2020-03-05T12:10:00+00:00",
+                "estimated": "2020-03-05T12:10:00+00:00",
+                "actual": "2020-03-05T11:48:00+00:00",
+                "estimated_runway": "2020-03-05T11:41:00+00:00",
+                "actual_runway": "2020-03-05T11:41:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "991",
+                "iata": "BA991",
+                "icao": "BAW991",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Marseille Provence Airport",
+                "timezone": "Europe/Paris",
+                "iata": "MRS",
+                "icao": "LFML",
+                "terminal": "1A",
+                "gate": null,
+                "delay": 116,
+                "scheduled": "2020-03-05T11:20:00+00:00",
+                "estimated": "2020-03-05T11:20:00+00:00",
+                "actual": "2020-03-05T11:19:00+00:00",
+                "estimated_runway": "2020-03-05T11:31:00+00:00",
+                "actual_runway": "2020-03-05T11:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "11",
+                "delay": 96,
+                "scheduled": "2020-03-05T12:30:00+00:00",
+                "estimated": "2020-03-05T12:30:00+00:00",
+                "actual": "2020-03-05T12:08:00+00:00",
+                "estimated_runway": "2020-03-05T12:03:00+00:00",
+                "actual_runway": "2020-03-05T12:03:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "367",
+                "iata": "BA367",
+                "icao": "BAW367",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Indira Gandhi International",
+                "timezone": "Asia/Kolkata",
+                "iata": "DEL",
+                "icao": "VIDP",
+                "terminal": "3",
+                "gate": "1",
+                "delay": 26,
+                "scheduled": "2020-03-05T11:00:00+00:00",
+                "estimated": "2020-03-05T11:00:00+00:00",
+                "actual": "2020-03-05T11:26:00+00:00",
+                "estimated_runway": "2020-03-05T11:47:00+00:00",
+                "actual_runway": "2020-03-05T11:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "3",
+                "delay": 7,
+                "scheduled": "2020-03-05T15:20:00+00:00",
+                "estimated": "2020-03-05T15:20:00+00:00",
+                "actual": "2020-03-05T15:27:00+00:00",
+                "estimated_runway": "2020-03-05T15:18:00+00:00",
+                "actual_runway": "2020-03-05T15:18:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "256",
+                "iata": "BA256",
+                "icao": "BAW256",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Kansai International",
+                "timezone": "Asia/Tokyo",
+                "iata": "KIX",
+                "icao": "RJBB",
+                "terminal": "1",
+                "gate": "32",
+                "delay": null,
+                "scheduled": "2020-03-05T11:10:00+00:00",
+                "estimated": "2020-03-05T11:10:00+00:00",
+                "actual": "2020-03-05T11:00:00+00:00",
+                "estimated_runway": "2020-03-05T11:18:00+00:00",
+                "actual_runway": "2020-03-05T11:18:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2020-03-05T14:50:00+00:00",
+                "estimated": "2020-03-05T14:50:00+00:00",
+                "actual": "2020-03-05T14:44:00+00:00",
+                "estimated_runway": "2020-03-05T14:36:00+00:00",
+                "actual_runway": "2020-03-05T14:36:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "20",
+                "iata": "BA20",
+                "icao": "BAW20",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GZBJG",
+                "iata": "B788",
+                "icao": "B788",
+                "icao24": "406A9E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Narita International Airport",
+                "timezone": "Asia/Tokyo",
+                "iata": "NRT",
+                "icao": "RJAA",
+                "terminal": "2",
+                "gate": "73",
+                "delay": null,
+                "scheduled": "2020-03-05T12:35:00+00:00",
+                "estimated": "2020-03-05T12:35:00+00:00",
+                "actual": "2020-03-05T12:21:00+00:00",
+                "estimated_runway": "2020-03-05T12:47:00+00:00",
+                "actual_runway": "2020-03-05T12:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "8",
+                "delay": 4,
+                "scheduled": "2020-03-05T16:10:00+00:00",
+                "estimated": "2020-03-05T16:10:00+00:00",
+                "actual": "2020-03-05T16:14:00+00:00",
+                "estimated_runway": "2020-03-05T15:56:00+00:00",
+                "actual_runway": "2020-03-05T15:56:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "6",
+                "iata": "BA6",
+                "icao": "BAW6",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Inverness",
+                "timezone": "Europe/London",
+                "iata": "INV",
+                "icao": "EGPE",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T16:40:00+00:00",
+                "estimated": "2020-03-05T16:40:00+00:00",
+                "actual": "2020-03-05T16:32:00+00:00",
+                "estimated_runway": "2020-03-05T16:39:00+00:00",
+                "actual_runway": "2020-03-05T16:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:20:00+00:00",
+                "estimated": "2020-03-05T18:20:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:56:00+00:00",
+                "actual_runway": "2020-03-05T17:56:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1469",
+                "iata": "BA1469",
+                "icao": "BAW1469",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "G-EUPE",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "40083B"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Gardermoen",
+                "timezone": "Europe/Oslo",
+                "iata": "OSL",
+                "icao": "ENGM",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T16:50:00+00:00",
+                "estimated": "2020-03-05T16:50:00+00:00",
+                "actual": "2020-03-05T16:44:00+00:00",
+                "estimated_runway": "2020-03-05T16:54:00+00:00",
+                "actual_runway": "2020-03-05T16:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:15:00+00:00",
+                "estimated": "2020-03-05T18:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:57:00+00:00",
+                "actual_runway": "2020-03-05T17:57:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "767",
+                "iata": "BA767",
+                "icao": "BAW767",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Larnaca",
+                "timezone": "Asia/Nicosia",
+                "iata": "LCA",
+                "icao": "LCLK",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T15:00:00+00:00",
+                "estimated": "2020-03-05T15:00:00+00:00",
+                "actual": "2020-03-05T14:51:00+00:00",
+                "estimated_runway": "2020-03-05T15:06:00+00:00",
+                "actual_runway": "2020-03-05T15:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:15:00+00:00",
+                "estimated": "2020-03-05T18:15:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:55:00+00:00",
+                "actual_runway": "2020-03-05T17:55:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "665",
+                "iata": "BA665",
+                "icao": "BAW665",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GNEOT",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "4076E2"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newcastle Airport",
+                "timezone": "Europe/London",
+                "iata": "NCL",
+                "icao": "EGNT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2020-03-05T16:55:00+00:00",
+                "estimated": "2020-03-05T16:55:00+00:00",
+                "actual": "2020-03-05T16:47:00+00:00",
+                "estimated_runway": "2020-03-05T16:55:00+00:00",
+                "actual_runway": "2020-03-05T16:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:10:00+00:00",
+                "estimated": "2020-03-05T18:10:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:50:00+00:00",
+                "actual_runway": "2020-03-05T17:50:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1335",
+                "iata": "BA1335",
+                "icao": "BAW1335",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Barajas",
+                "timezone": "Europe/Madrid",
+                "iata": "MAD",
+                "icao": "LEMD",
+                "terminal": "4",
+                "gate": "H8",
+                "delay": null,
+                "scheduled": "2020-03-05T16:30:00+00:00",
+                "estimated": "2020-03-05T16:30:00+00:00",
+                "actual": "2020-03-05T16:24:00+00:00",
+                "estimated_runway": "2020-03-05T16:42:00+00:00",
+                "actual_runway": "2020-03-05T16:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2020-03-05T18:05:00+00:00",
+                "estimated": "2020-03-05T18:05:00+00:00",
+                "actual": "2020-03-05T17:35:00+00:00",
+                "estimated_runway": "2020-03-05T17:28:00+00:00",
+                "actual_runway": "2020-03-05T17:28:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "7056",
+                "iata": "BA7056",
+                "icao": "BAW7056",
+                "codeshared": {
+                    "airline_name": "iberia",
+                    "airline_iata": "ib",
+                    "airline_icao": "ibe",
+                    "flight_number": "3164",
+                    "flight_iata": "ib3164",
+                    "flight_icao": "ibe3164"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Manchester Airport",
+                "timezone": "Europe/London",
+                "iata": "MAN",
+                "icao": "EGCC",
+                "terminal": "3",
+                "gate": "142",
+                "delay": null,
+                "scheduled": "2020-03-05T17:05:00+00:00",
+                "estimated": "2020-03-05T17:05:00+00:00",
+                "actual": "2020-03-05T16:53:00+00:00",
+                "estimated_runway": "2020-03-05T17:03:00+00:00",
+                "actual_runway": "2020-03-05T17:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:05:00+00:00",
+                "estimated": "2020-03-05T18:05:00+00:00",
+                "actual": "2020-03-05T17:52:00+00:00",
+                "estimated_runway": "2020-03-05T17:45:00+00:00",
+                "actual_runway": "2020-03-05T17:45:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1403",
+                "iata": "BA1403",
+                "icao": "BAW1403",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "G-EUPY",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "4008F2"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dubai",
+                "timezone": "Asia/Dubai",
+                "iata": "DXB",
+                "icao": "OMDB",
+                "terminal": "1",
+                "gate": "D2",
+                "delay": null,
+                "scheduled": "2020-03-05T14:00:00+00:00",
+                "estimated": "2020-03-05T14:00:00+00:00",
+                "actual": "2020-03-05T14:00:00+00:00",
+                "estimated_runway": "2020-03-05T14:24:00+00:00",
+                "actual_runway": "2020-03-05T14:24:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-05T18:00:00+00:00",
+                "estimated": "2020-03-05T18:00:00+00:00",
+                "actual": "2020-03-05T17:47:00+00:00",
+                "estimated_runway": "2020-03-05T17:40:00+00:00",
+                "actual_runway": "2020-03-05T17:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "104",
+                "iata": "BA104",
+                "icao": "BAW104",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "GXWBB",
+                "iata": "A35K",
+                "icao": "A35K",
+                "icao24": "407798"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Dublin International",
+                "timezone": "Europe/Dublin",
+                "iata": "DUB",
+                "icao": "EIDW",
+                "terminal": "2",
+                "gate": "410",
+                "delay": null,
+                "scheduled": "2020-03-05T16:30:00+00:00",
+                "estimated": "2020-03-05T16:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T16:40:00+00:00",
+                "actual_runway": "2020-03-05T16:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2020-03-05T17:50:00+00:00",
+                "estimated": "2020-03-05T17:50:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-05T17:38:00+00:00",
+                "actual_runway": "2020-03-05T17:38:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "5974",
+                "iata": "BA5974",
+                "icao": "BAW5974",
+                "codeshared": {
+                    "airline_name": "aer lingus",
+                    "airline_iata": "ei",
+                    "airline_icao": "ein",
+                    "flight_number": "174",
+                    "flight_iata": "ei174",
+                    "flight_icao": "ein174"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-05",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Edinburgh",
+                "timezone": "Europe/London",
+                "iata": "EDI",
+                "icao": "EGPH",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2020-03-05T16:30:00+00:00",
+                "estimated": "2020-03-05T16:30:00+00:00",
+                "actual": "2020-03-05T16:21:00+00:00",
+                "estimated_runway": "2020-03-05T16:30:00+00:00",
+                "actual_runway": "2020-03-05T16:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "Heathrow",
+                "timezone": "Europe/London",
+                "iata": "LHR",
+                "icao": "EGLL",
+                "terminal": "5",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2020-03-05T17:50:00+00:00",
+                "estimated": "2020-03-05T17:50:00+00:00",
+                "actual": "2020-03-05T17:39:00+00:00",
+                "estimated_runway": "2020-03-05T17:33:00+00:00",
+                "actual_runway": "2020-03-05T17:33:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "1455",
+                "iata": "BA1455",
+                "icao": "BAW1455",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}
