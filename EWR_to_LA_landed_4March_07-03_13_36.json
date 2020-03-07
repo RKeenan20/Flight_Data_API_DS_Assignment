@@ -1,0 +1,949 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "121",
+                "delay": 16,
+                "scheduled": "2020-03-04T07:00:00+00:00",
+                "estimated": "2020-03-04T07:00:00+00:00",
+                "actual": "2020-03-04T06:55:00+00:00",
+                "estimated_runway": "2020-03-04T07:14:00+00:00",
+                "actual_runway": "2020-03-04T07:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T10:08:00+00:00",
+                "estimated": "2020-03-04T10:08:00+00:00",
+                "actual": "2020-03-04T09:50:00+00:00",
+                "estimated_runway": "2020-03-04T09:41:00+00:00",
+                "actual_runway": "2020-03-04T09:41:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "7040",
+                "iata": "AD7040",
+                "icao": "AZU7040",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "240",
+                    "flight_iata": "ua240",
+                    "flight_icao": "ual240"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "126",
+                "delay": 15,
+                "scheduled": "2020-03-04T08:29:00+00:00",
+                "estimated": "2020-03-04T08:29:00+00:00",
+                "actual": "2020-03-04T08:44:00+00:00",
+                "estimated_runway": "2020-03-04T09:22:00+00:00",
+                "actual_runway": "2020-03-04T09:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "77",
+                "baggage": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T11:48:00+00:00",
+                "estimated": "2020-03-04T11:48:00+00:00",
+                "actual": "2020-03-04T11:46:00+00:00",
+                "estimated_runway": "2020-03-04T11:40:00+00:00",
+                "actual_runway": "2020-03-04T11:40:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "7042",
+                "iata": "AD7042",
+                "icao": "AZU7042",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "703",
+                    "flight_iata": "ua703",
+                    "flight_icao": "ual703"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "A",
+                "gate": "31",
+                "delay": null,
+                "scheduled": "2020-03-04T07:30:00+00:00",
+                "estimated": "2020-03-04T07:30:00+00:00",
+                "actual": "2020-03-04T07:21:00+00:00",
+                "estimated_runway": "2020-03-04T07:38:00+00:00",
+                "actual_runway": "2020-03-04T07:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:15:00+00:00",
+                "estimated": "2020-03-04T11:15:00+00:00",
+                "actual": "2020-03-04T10:23:00+00:00",
+                "estimated_runway": "2020-03-04T10:20:00+00:00",
+                "actual_runway": "2020-03-04T10:20:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "221",
+                "iata": "AS221",
+                "icao": "ASA221",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N272AK",
+                "iata": "B739",
+                "icao": "B739",
+                "icao24": "A2ADF4"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "121",
+                "delay": 16,
+                "scheduled": "2020-03-04T07:00:00+00:00",
+                "estimated": "2020-03-04T07:00:00+00:00",
+                "actual": "2020-03-04T06:55:00+00:00",
+                "estimated_runway": "2020-03-04T07:14:00+00:00",
+                "actual_runway": "2020-03-04T07:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T10:08:00+00:00",
+                "estimated": "2020-03-04T10:08:00+00:00",
+                "actual": "2020-03-04T09:50:00+00:00",
+                "estimated_runway": "2020-03-04T09:41:00+00:00",
+                "actual_runway": "2020-03-04T09:41:00+00:00"
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "7359",
+                "iata": "CA7359",
+                "icao": "CCA7359",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "240",
+                    "flight_iata": "ua240",
+                    "flight_icao": "ual240"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "126",
+                "delay": 15,
+                "scheduled": "2020-03-04T08:29:00+00:00",
+                "estimated": "2020-03-04T08:29:00+00:00",
+                "actual": "2020-03-04T08:44:00+00:00",
+                "estimated_runway": "2020-03-04T09:22:00+00:00",
+                "actual_runway": "2020-03-04T09:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "77",
+                "baggage": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T11:48:00+00:00",
+                "estimated": "2020-03-04T11:48:00+00:00",
+                "actual": "2020-03-04T11:46:00+00:00",
+                "estimated_runway": "2020-03-04T11:40:00+00:00",
+                "actual_runway": "2020-03-04T11:40:00+00:00"
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "7360",
+                "iata": "CA7360",
+                "icao": "CCA7360",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "703",
+                    "flight_iata": "ua703",
+                    "flight_icao": "ual703"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "A",
+                "gate": "31",
+                "delay": null,
+                "scheduled": "2020-03-04T07:30:00+00:00",
+                "estimated": "2020-03-04T07:30:00+00:00",
+                "actual": "2020-03-04T07:21:00+00:00",
+                "estimated_runway": "2020-03-04T07:38:00+00:00",
+                "actual_runway": "2020-03-04T07:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:15:00+00:00",
+                "estimated": "2020-03-04T11:15:00+00:00",
+                "actual": "2020-03-04T10:23:00+00:00",
+                "estimated_runway": "2020-03-04T10:20:00+00:00",
+                "actual_runway": "2020-03-04T10:20:00+00:00"
+            },
+            "airline": {
+                "name": "JAL",
+                "iata": "JL",
+                "icao": "JAL"
+            },
+            "flight": {
+                "number": "5443",
+                "iata": "JL5443",
+                "icao": "JAL5443",
+                "codeshared": {
+                    "airline_name": "alaska airlines",
+                    "airline_iata": "as",
+                    "airline_icao": "asa",
+                    "flight_number": "221",
+                    "flight_iata": "as221",
+                    "flight_icao": "asa221"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "A",
+                "gate": "31",
+                "delay": null,
+                "scheduled": "2020-03-04T07:30:00+00:00",
+                "estimated": "2020-03-04T07:30:00+00:00",
+                "actual": "2020-03-04T07:21:00+00:00",
+                "estimated_runway": "2020-03-04T07:38:00+00:00",
+                "actual_runway": "2020-03-04T07:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:15:00+00:00",
+                "estimated": "2020-03-04T11:15:00+00:00",
+                "actual": "2020-03-04T10:23:00+00:00",
+                "estimated_runway": "2020-03-04T10:20:00+00:00",
+                "actual_runway": "2020-03-04T10:20:00+00:00"
+            },
+            "airline": {
+                "name": "El Al",
+                "iata": "LY",
+                "icao": "ELY"
+            },
+            "flight": {
+                "number": "9463",
+                "iata": "LY9463",
+                "icao": "ELY9463",
+                "codeshared": {
+                    "airline_name": "alaska airlines",
+                    "airline_iata": "as",
+                    "airline_icao": "asa",
+                    "flight_number": "221",
+                    "flight_iata": "as221",
+                    "flight_icao": "asa221"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "82",
+                "delay": null,
+                "scheduled": "2020-03-04T10:00:00+00:00",
+                "estimated": "2020-03-04T10:00:00+00:00",
+                "actual": "2020-03-04T09:54:00+00:00",
+                "estimated_runway": "2020-03-04T10:35:00+00:00",
+                "actual_runway": "2020-03-04T10:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76B",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T13:36:00+00:00",
+                "estimated": "2020-03-04T13:36:00+00:00",
+                "actual": "2020-03-04T13:19:00+00:00",
+                "estimated_runway": "2020-03-04T13:08:00+00:00",
+                "actual_runway": "2020-03-04T13:08:00+00:00"
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "9530",
+                "iata": "NZ9530",
+                "icao": "ANZ9530",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "2158",
+                    "flight_iata": "ua2158",
+                    "flight_icao": "ual2158"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "126",
+                "delay": 15,
+                "scheduled": "2020-03-04T08:29:00+00:00",
+                "estimated": "2020-03-04T08:29:00+00:00",
+                "actual": "2020-03-04T08:44:00+00:00",
+                "estimated_runway": "2020-03-04T09:22:00+00:00",
+                "actual_runway": "2020-03-04T09:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "77",
+                "baggage": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T11:48:00+00:00",
+                "estimated": "2020-03-04T11:48:00+00:00",
+                "actual": "2020-03-04T11:46:00+00:00",
+                "estimated_runway": "2020-03-04T11:40:00+00:00",
+                "actual_runway": "2020-03-04T11:40:00+00:00"
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "9537",
+                "iata": "NZ9537",
+                "icao": "ANZ9537",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "703",
+                    "flight_iata": "ua703",
+                    "flight_icao": "ual703"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "121",
+                "delay": 16,
+                "scheduled": "2020-03-04T07:00:00+00:00",
+                "estimated": "2020-03-04T07:00:00+00:00",
+                "actual": "2020-03-04T06:55:00+00:00",
+                "estimated_runway": "2020-03-04T07:14:00+00:00",
+                "actual_runway": "2020-03-04T07:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T10:08:00+00:00",
+                "estimated": "2020-03-04T10:08:00+00:00",
+                "actual": "2020-03-04T09:50:00+00:00",
+                "estimated_runway": "2020-03-04T09:41:00+00:00",
+                "actual_runway": "2020-03-04T09:41:00+00:00"
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "9542",
+                "iata": "NZ9542",
+                "icao": "ANZ9542",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "240",
+                    "flight_iata": "ua240",
+                    "flight_icao": "ual240"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "80",
+                "delay": 75,
+                "scheduled": "2020-03-04T20:00:00+00:00",
+                "estimated": "2020-03-04T20:00:00+00:00",
+                "actual": "2020-03-04T21:15:00+00:00",
+                "estimated_runway": "2020-03-04T21:32:00+00:00",
+                "actual_runway": "2020-03-04T21:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "72A",
+                "baggage": "3",
+                "delay": 80,
+                "scheduled": "2020-03-04T23:22:00+00:00",
+                "estimated": "2020-03-04T23:22:00+00:00",
+                "actual": "2020-03-05T00:42:00+00:00",
+                "estimated_runway": "2020-03-05T00:31:00+00:00",
+                "actual_runway": "2020-03-05T00:31:00+00:00"
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "9543",
+                "iata": "NZ9543",
+                "icao": "ANZ9543",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "628",
+                    "flight_iata": "ua628",
+                    "flight_icao": "ual628"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "A",
+                "gate": "31",
+                "delay": null,
+                "scheduled": "2020-03-04T07:30:00+00:00",
+                "estimated": "2020-03-04T07:30:00+00:00",
+                "actual": "2020-03-04T07:21:00+00:00",
+                "estimated_runway": "2020-03-04T07:38:00+00:00",
+                "actual_runway": "2020-03-04T07:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:15:00+00:00",
+                "estimated": "2020-03-04T11:15:00+00:00",
+                "actual": "2020-03-04T10:23:00+00:00",
+                "estimated_runway": "2020-03-04T10:20:00+00:00",
+                "actual_runway": "2020-03-04T10:20:00+00:00"
+            },
+            "airline": {
+                "name": "Qantas",
+                "iata": "QF",
+                "icao": "QFA"
+            },
+            "flight": {
+                "number": "3665",
+                "iata": "QF3665",
+                "icao": "QFA3665",
+                "codeshared": {
+                    "airline_name": "alaska airlines",
+                    "airline_iata": "as",
+                    "airline_icao": "asa",
+                    "flight_number": "221",
+                    "flight_iata": "as221",
+                    "flight_icao": "asa221"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "A",
+                "gate": "31",
+                "delay": null,
+                "scheduled": "2020-03-04T07:30:00+00:00",
+                "estimated": "2020-03-04T07:30:00+00:00",
+                "actual": "2020-03-04T07:21:00+00:00",
+                "estimated_runway": "2020-03-04T07:38:00+00:00",
+                "actual_runway": "2020-03-04T07:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T11:15:00+00:00",
+                "estimated": "2020-03-04T11:15:00+00:00",
+                "actual": "2020-03-04T10:23:00+00:00",
+                "estimated_runway": "2020-03-04T10:20:00+00:00",
+                "actual_runway": "2020-03-04T10:20:00+00:00"
+            },
+            "airline": {
+                "name": "Singapore Airlines",
+                "iata": "SQ",
+                "icao": "SIA"
+            },
+            "flight": {
+                "number": "1420",
+                "iata": "SQ1420",
+                "icao": "SIA1420",
+                "codeshared": {
+                    "airline_name": "alaska airlines",
+                    "airline_iata": "as",
+                    "airline_icao": "asa",
+                    "flight_number": "221",
+                    "flight_iata": "as221",
+                    "flight_icao": "asa221"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "80",
+                "delay": 75,
+                "scheduled": "2020-03-04T20:00:00+00:00",
+                "estimated": "2020-03-04T20:00:00+00:00",
+                "actual": "2020-03-04T21:15:00+00:00",
+                "estimated_runway": "2020-03-04T21:32:00+00:00",
+                "actual_runway": "2020-03-04T21:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "72A",
+                "baggage": "3",
+                "delay": 80,
+                "scheduled": "2020-03-04T23:22:00+00:00",
+                "estimated": "2020-03-04T23:22:00+00:00",
+                "actual": "2020-03-05T00:42:00+00:00",
+                "estimated_runway": "2020-03-05T00:31:00+00:00",
+                "actual_runway": "2020-03-05T00:31:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "8546",
+                "iata": "TP8546",
+                "icao": "TAP8546",
+                "codeshared": {
+                    "airline_name": "united airlines",
+                    "airline_iata": "ua",
+                    "airline_icao": "ual",
+                    "flight_number": "628",
+                    "flight_iata": "ua628",
+                    "flight_icao": "ual628"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "82",
+                "delay": null,
+                "scheduled": "2020-03-04T10:00:00+00:00",
+                "estimated": "2020-03-04T10:00:00+00:00",
+                "actual": "2020-03-04T09:54:00+00:00",
+                "estimated_runway": "2020-03-04T10:35:00+00:00",
+                "actual_runway": "2020-03-04T10:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76B",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T13:36:00+00:00",
+                "estimated": "2020-03-04T13:36:00+00:00",
+                "actual": "2020-03-04T13:19:00+00:00",
+                "estimated_runway": "2020-03-04T13:08:00+00:00",
+                "actual_runway": "2020-03-04T13:08:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "2158",
+                "iata": "UA2158",
+                "icao": "UAL2158",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N595UA",
+                "iata": "B752",
+                "icao": "B752",
+                "icao24": "A7B1BD"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "121",
+                "delay": 16,
+                "scheduled": "2020-03-04T07:00:00+00:00",
+                "estimated": "2020-03-04T07:00:00+00:00",
+                "actual": "2020-03-04T06:55:00+00:00",
+                "estimated_runway": "2020-03-04T07:14:00+00:00",
+                "actual_runway": "2020-03-04T07:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "76A",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2020-03-04T10:08:00+00:00",
+                "estimated": "2020-03-04T10:08:00+00:00",
+                "actual": "2020-03-04T09:50:00+00:00",
+                "estimated_runway": "2020-03-04T09:41:00+00:00",
+                "actual_runway": "2020-03-04T09:41:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "240",
+                "iata": "UA240",
+                "icao": "UAL240",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "80",
+                "delay": 75,
+                "scheduled": "2020-03-04T20:00:00+00:00",
+                "estimated": "2020-03-04T20:00:00+00:00",
+                "actual": "2020-03-04T21:15:00+00:00",
+                "estimated_runway": "2020-03-04T21:32:00+00:00",
+                "actual_runway": "2020-03-04T21:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "72A",
+                "baggage": "3",
+                "delay": 80,
+                "scheduled": "2020-03-04T23:22:00+00:00",
+                "estimated": "2020-03-04T23:22:00+00:00",
+                "actual": "2020-03-05T00:42:00+00:00",
+                "estimated_runway": "2020-03-05T00:31:00+00:00",
+                "actual_runway": "2020-03-05T00:31:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "628",
+                "iata": "UA628",
+                "icao": "UAL628",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N17105",
+                "iata": "B752",
+                "icao": "B752",
+                "icao24": "A11F5A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-04",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Newark Liberty International",
+                "timezone": "America/New_York",
+                "iata": "EWR",
+                "icao": "KEWR",
+                "terminal": "C",
+                "gate": "126",
+                "delay": 15,
+                "scheduled": "2020-03-04T08:29:00+00:00",
+                "estimated": "2020-03-04T08:29:00+00:00",
+                "actual": "2020-03-04T08:44:00+00:00",
+                "estimated_runway": "2020-03-04T09:22:00+00:00",
+                "actual_runway": "2020-03-04T09:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "7",
+                "gate": "77",
+                "baggage": "3",
+                "delay": 19,
+                "scheduled": "2020-03-04T11:48:00+00:00",
+                "estimated": "2020-03-04T11:48:00+00:00",
+                "actual": "2020-03-04T11:46:00+00:00",
+                "estimated_runway": "2020-03-04T11:40:00+00:00",
+                "actual_runway": "2020-03-04T11:40:00+00:00"
+            },
+            "airline": {
+                "name": "United Airlines",
+                "iata": "UA",
+                "icao": "UAL"
+            },
+            "flight": {
+                "number": "703",
+                "iata": "UA703",
+                "icao": "UAL703",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N76010",
+                "iata": "B772",
+                "icao": "B772",
+                "icao24": "AA441C"
+            },
+            "live": null
+        }
+    ]
+}
