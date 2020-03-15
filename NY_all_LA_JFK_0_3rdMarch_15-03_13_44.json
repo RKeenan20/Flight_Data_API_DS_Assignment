@@ -1,0 +1,5232 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 155
+    },
+    "data": [
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "42",
+                "delay": null,
+                "scheduled": "2020-03-03T07:30:00+00:00",
+                "estimated": "2020-03-03T07:30:00+00:00",
+                "actual": "2020-03-03T07:22:00+00:00",
+                "estimated_runway": "2020-03-03T07:39:00+00:00",
+                "actual_runway": "2020-03-03T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42A",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T11:05:00+00:00",
+                "estimated": "2020-03-03T11:05:00+00:00",
+                "actual": "2020-03-03T10:30:00+00:00",
+                "estimated_runway": "2020-03-03T10:14:00+00:00",
+                "actual_runway": "2020-03-03T10:14:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "1",
+                "iata": "AA1",
+                "icao": "AAL1",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N115NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A03FFF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 20,
+                "scheduled": "2020-03-03T19:30:00+00:00",
+                "estimated": "2020-03-03T19:30:00+00:00",
+                "actual": "2020-03-03T19:50:00+00:00",
+                "estimated_runway": "2020-03-03T19:50:00+00:00",
+                "actual_runway": "2020-03-03T19:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T23:13:00+00:00",
+                "estimated": "2020-03-03T23:13:00+00:00",
+                "actual": "2020-03-03T22:40:00+00:00",
+                "estimated_runway": "2020-03-03T22:40:00+00:00",
+                "actual_runway": "2020-03-03T22:40:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "117",
+                "iata": "AA117",
+                "icao": "AAL117",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N113AN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A03765"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": null,
+                "scheduled": "2020-03-03T06:00:00+00:00",
+                "estimated": "2020-03-03T06:00:00+00:00",
+                "actual": "2020-03-03T05:55:00+00:00",
+                "estimated_runway": "2020-03-03T06:10:00+00:00",
+                "actual_runway": "2020-03-03T06:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T09:40:00+00:00",
+                "estimated": "2020-03-03T09:40:00+00:00",
+                "actual": "2020-03-03T08:53:00+00:00",
+                "estimated_runway": "2020-03-03T08:49:00+00:00",
+                "actual_runway": "2020-03-03T08:49:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "171",
+                "iata": "AA171",
+                "icao": "AAL171",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N109NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A0275C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "37",
+                "delay": 14,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:26:00+00:00",
+                "estimated_runway": "2020-03-03T21:44:00+00:00",
+                "actual_runway": "2020-03-03T21:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "47A",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:59:00+00:00",
+                "estimated": "2020-03-04T00:59:00+00:00",
+                "actual": "2020-03-04T00:46:00+00:00",
+                "estimated_runway": "2020-03-04T00:38:00+00:00",
+                "actual_runway": "2020-03-04T00:38:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "185",
+                "iata": "AA185",
+                "icao": "AAL185",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N115NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A03FFF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "38",
+                "delay": null,
+                "scheduled": "2020-03-03T09:00:00+00:00",
+                "estimated": "2020-03-03T09:00:00+00:00",
+                "actual": "2020-03-03T08:55:00+00:00",
+                "estimated_runway": "2020-03-03T09:10:00+00:00",
+                "actual_runway": "2020-03-03T09:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "46B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T12:40:00+00:00",
+                "estimated": "2020-03-03T12:40:00+00:00",
+                "actual": "2020-03-03T11:53:00+00:00",
+                "estimated_runway": "2020-03-03T11:46:00+00:00",
+                "actual_runway": "2020-03-03T11:46:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "255",
+                "iata": "AA255",
+                "icao": "AAL255",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N112AN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A033AE"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "44",
+                "delay": 11,
+                "scheduled": "2020-03-03T12:30:00+00:00",
+                "estimated": "2020-03-03T12:30:00+00:00",
+                "actual": "2020-03-03T12:41:00+00:00",
+                "estimated_runway": "2020-03-03T12:41:00+00:00",
+                "actual_runway": "2020-03-03T12:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T16:03:00+00:00",
+                "estimated": "2020-03-03T16:03:00+00:00",
+                "actual": "2020-03-03T15:20:00+00:00",
+                "estimated_runway": "2020-03-03T15:20:00+00:00",
+                "actual_runway": "2020-03-03T15:20:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "3",
+                "iata": "AA3",
+                "icao": "AAL3",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N101NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A009A4"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "38",
+                "delay": 16,
+                "scheduled": "2020-03-03T20:30:00+00:00",
+                "estimated": "2020-03-03T20:30:00+00:00",
+                "actual": "2020-03-03T20:26:00+00:00",
+                "estimated_runway": "2020-03-03T20:45:00+00:00",
+                "actual_runway": "2020-03-03T20:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "45",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:09:00+00:00",
+                "estimated": "2020-03-04T00:09:00+00:00",
+                "actual": "2020-03-03T23:49:00+00:00",
+                "estimated_runway": "2020-03-03T23:33:00+00:00",
+                "actual_runway": "2020-03-03T23:33:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "300",
+                "iata": "AA300",
+                "icao": "AAL300",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N109NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A0275C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "42",
+                "delay": 22,
+                "scheduled": "2020-03-03T18:30:00+00:00",
+                "estimated": "2020-03-03T18:30:00+00:00",
+                "actual": "2020-03-03T18:51:00+00:00",
+                "estimated_runway": "2020-03-03T18:51:00+00:00",
+                "actual_runway": "2020-03-03T18:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:05:00+00:00",
+                "estimated": "2020-03-03T22:05:00+00:00",
+                "actual": "2020-03-03T21:29:00+00:00",
+                "estimated_runway": "2020-03-03T21:29:00+00:00",
+                "actual_runway": "2020-03-03T21:29:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "302",
+                "iata": "AA302",
+                "icao": "AAL302",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N105NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A01880"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 13,
+                "scheduled": "2020-03-03T17:00:00+00:00",
+                "estimated": "2020-03-03T17:00:00+00:00",
+                "actual": "2020-03-03T17:12:00+00:00",
+                "estimated_runway": "2020-03-03T17:12:00+00:00",
+                "actual_runway": "2020-03-03T17:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T20:35:00+00:00",
+                "estimated": "2020-03-03T20:35:00+00:00",
+                "actual": "2020-03-03T19:56:00+00:00",
+                "estimated_runway": "2020-03-03T19:56:00+00:00",
+                "actual_runway": "2020-03-03T19:56:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "306",
+                "iata": "AA306",
+                "icao": "AAL306",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N116AN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A0428A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "46",
+                "delay": null,
+                "scheduled": "2020-03-03T11:00:00+00:00",
+                "estimated": "2020-03-03T11:00:00+00:00",
+                "actual": "2020-03-03T10:56:00+00:00",
+                "estimated_runway": "2020-03-03T11:27:00+00:00",
+                "actual_runway": "2020-03-03T11:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": 10,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T14:29:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "331",
+                "iata": "AA331",
+                "icao": "AAL331",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N107NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A01FEE"
+            },
+            "live": {
+                "updated": "2020-03-03T21:32:09+00:00",
+                "latitude": 36.14,
+                "longitude": -111.27,
+                "altitude": 10972.8,
+                "direction": 247,
+                "speed_horizontal": 818.584,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": 9,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": "2020-03-03T14:39:00+00:00",
+                "estimated_runway": "2020-03-03T14:39:00+00:00",
+                "actual_runway": "2020-03-03T14:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:59:00+00:00",
+                "estimated": "2020-03-03T17:59:00+00:00",
+                "actual": "2020-03-03T17:25:00+00:00",
+                "estimated_runway": "2020-03-03T17:25:00+00:00",
+                "actual_runway": "2020-03-03T17:25:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "341",
+                "iata": "AA341",
+                "icao": "AAL341",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N106NN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "A01C37"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "3472",
+                "iata": "AF3472",
+                "icao": "AFR3472",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "447",
+                    "flight_iata": "dl447",
+                    "flight_icao": "dal447"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "8841",
+                "iata": "AF8841",
+                "icao": "AFR8841",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B41",
+                "delay": null,
+                "scheduled": "2020-03-03T08:05:00+00:00",
+                "estimated": "2020-03-03T08:05:00+00:00",
+                "actual": "2020-03-03T07:58:00+00:00",
+                "estimated_runway": "2020-03-03T08:40:00+00:00",
+                "actual_runway": "2020-03-03T08:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T11:37:00+00:00",
+                "estimated": "2020-03-03T11:37:00+00:00",
+                "actual": "2020-03-03T11:23:00+00:00",
+                "estimated_runway": "2020-03-03T11:13:00+00:00",
+                "actual_runway": "2020-03-03T11:13:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "3111",
+                "iata": "AM3111",
+                "icao": "AMX3111",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "2346",
+                    "flight_iata": "dl2346",
+                    "flight_icao": "dal2346"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B33",
+                "delay": 15,
+                "scheduled": "2020-03-03T11:40:00+00:00",
+                "estimated": "2020-03-03T11:40:00+00:00",
+                "actual": "2020-03-03T11:54:00+00:00",
+                "estimated_runway": "2020-03-03T11:54:00+00:00",
+                "actual_runway": "2020-03-03T11:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T15:12:00+00:00",
+                "estimated": "2020-03-03T15:12:00+00:00",
+                "actual": "2020-03-03T14:27:00+00:00",
+                "estimated_runway": "2020-03-03T14:27:00+00:00",
+                "actual_runway": "2020-03-03T14:27:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "3168",
+                "iata": "AM3168",
+                "icao": "AMX3168",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "423",
+                    "flight_iata": "dl423",
+                    "flight_icao": "dal423"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B37",
+                "delay": null,
+                "scheduled": "2020-03-03T07:00:00+00:00",
+                "estimated": "2020-03-03T07:00:00+00:00",
+                "actual": "2020-03-03T06:57:00+00:00",
+                "estimated_runway": "2020-03-03T07:10:00+00:00",
+                "actual_runway": "2020-03-03T07:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T10:25:00+00:00",
+                "estimated": "2020-03-03T10:25:00+00:00",
+                "actual": "2020-03-03T09:58:00+00:00",
+                "estimated_runway": "2020-03-03T09:48:00+00:00",
+                "actual_runway": "2020-03-03T09:48:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "4334",
+                "iata": "AM4334",
+                "icao": "AMX4334",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "1529",
+                    "flight_iata": "dl1529",
+                    "flight_icao": "dal1529"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "4774",
+                "iata": "AM4774",
+                "icao": "AMX4774",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "447",
+                    "flight_iata": "dl447",
+                    "flight_icao": "dal447"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "5479",
+                "iata": "AM5479",
+                "icao": "AMX5479",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T16:50:00+00:00",
+                "estimated_runway": "2020-03-03T17:10:00+00:00",
+                "actual_runway": "2020-03-03T17:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T20:29:00+00:00",
+                "estimated": "2020-03-03T20:29:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T19:52:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "5528",
+                "iata": "AM5528",
+                "icao": "AMX5528",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "428",
+                    "flight_iata": "dl428",
+                    "flight_icao": "dal428"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "7",
+                "gate": "6",
+                "delay": null,
+                "scheduled": "2020-03-03T07:30:00+00:00",
+                "estimated": "2020-03-03T07:30:00+00:00",
+                "actual": "2020-03-03T07:22:00+00:00",
+                "estimated_runway": "2020-03-03T07:46:00+00:00",
+                "actual_runway": "2020-03-03T07:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "60",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T11:20:00+00:00",
+                "estimated": "2020-03-03T11:20:00+00:00",
+                "actual": "2020-03-03T10:52:00+00:00",
+                "estimated_runway": "2020-03-03T10:34:00+00:00",
+                "actual_runway": "2020-03-03T10:34:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "1399",
+                "iata": "AS1399",
+                "icao": "ASA1399",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "7",
+                "gate": "11",
+                "delay": 35,
+                "scheduled": "2020-03-03T19:20:00+00:00",
+                "estimated": "2020-03-03T19:20:00+00:00",
+                "actual": "2020-03-03T19:54:00+00:00",
+                "estimated_runway": "2020-03-03T19:54:00+00:00",
+                "actual_runway": "2020-03-03T19:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "66",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T23:15:00+00:00",
+                "estimated": "2020-03-03T23:15:00+00:00",
+                "actual": "2020-03-03T22:52:00+00:00",
+                "estimated_runway": "2020-03-03T22:52:00+00:00",
+                "actual_runway": "2020-03-03T22:52:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "229",
+                "iata": "AS229",
+                "icao": "ASA229",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N481AS",
+                "iata": "B739",
+                "icao": "B739",
+                "icao24": "A5EC61"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "7",
+                "gate": "8",
+                "delay": 11,
+                "scheduled": "2020-03-03T13:05:00+00:00",
+                "estimated": "2020-03-03T13:05:00+00:00",
+                "actual": "2020-03-03T13:16:00+00:00",
+                "estimated_runway": "2020-03-03T13:16:00+00:00",
+                "actual_runway": "2020-03-03T13:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "63",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T16:07:00+00:00",
+                "estimated_runway": "2020-03-03T16:07:00+00:00",
+                "actual_runway": "2020-03-03T16:07:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "411",
+                "iata": "AS411",
+                "icao": "ASA411",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N268AK",
+                "iata": "B739",
+                "icao": "B739",
+                "icao24": "A29CBF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "7",
+                "gate": "11",
+                "delay": 17,
+                "scheduled": "2020-03-03T17:25:00+00:00",
+                "estimated": "2020-03-03T17:25:00+00:00",
+                "actual": "2020-03-03T17:42:00+00:00",
+                "estimated_runway": "2020-03-03T17:42:00+00:00",
+                "actual_runway": "2020-03-03T17:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "66",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T21:20:00+00:00",
+                "estimated": "2020-03-03T21:20:00+00:00",
+                "actual": "2020-03-03T20:26:00+00:00",
+                "estimated_runway": "2020-03-03T20:26:00+00:00",
+                "actual_runway": "2020-03-03T20:26:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "425",
+                "iata": "AS425",
+                "icao": "ASA425",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N566AS",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "A73D45"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "7",
+                "gate": "9",
+                "delay": 40,
+                "scheduled": "2020-03-03T11:30:00+00:00",
+                "estimated": "2020-03-03T11:30:00+00:00",
+                "actual": "2020-03-03T12:09:00+00:00",
+                "estimated_runway": "2020-03-03T12:09:00+00:00",
+                "actual_runway": "2020-03-03T12:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "6",
+                "gate": "68B",
+                "baggage": null,
+                "delay": 2,
+                "scheduled": "2020-03-03T15:20:00+00:00",
+                "estimated": "2020-03-03T15:20:00+00:00",
+                "actual": "2020-03-03T15:06:00+00:00",
+                "estimated_runway": "2020-03-03T15:06:00+00:00",
+                "actual_runway": "2020-03-03T15:06:00+00:00"
+            },
+            "airline": {
+                "name": "Alaska Airlines",
+                "iata": "AS",
+                "icao": "ASA"
+            },
+            "flight": {
+                "number": "991",
+                "iata": "AS991",
+                "icao": "ASA991",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N294AK",
+                "iata": "B739",
+                "icao": "B739",
+                "icao24": "A30460"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "38",
+                "delay": 16,
+                "scheduled": "2020-03-03T20:30:00+00:00",
+                "estimated": "2020-03-03T20:30:00+00:00",
+                "actual": "2020-03-03T20:26:00+00:00",
+                "estimated_runway": "2020-03-03T20:45:00+00:00",
+                "actual_runway": "2020-03-03T20:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "45",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:09:00+00:00",
+                "estimated": "2020-03-04T00:09:00+00:00",
+                "actual": "2020-03-03T23:49:00+00:00",
+                "estimated_runway": "2020-03-03T23:33:00+00:00",
+                "actual_runway": "2020-03-03T23:33:00+00:00"
+            },
+            "airline": {
+                "name": "Royal Air Maroc",
+                "iata": "AT",
+                "icao": "RAM"
+            },
+            "flight": {
+                "number": "5007",
+                "iata": "AT5007",
+                "icao": "RAM5007",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "300",
+                    "flight_iata": "aa300",
+                    "flight_icao": "aal300"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "22",
+                "delay": 55,
+                "scheduled": "2020-03-03T22:40:00+00:00",
+                "estimated": "2020-03-03T22:40:00+00:00",
+                "actual": "2020-03-03T22:28:00+00:00",
+                "estimated_runway": "2020-03-03T23:35:00+00:00",
+                "actual_runway": "2020-03-03T23:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 38,
+                "scheduled": "2020-03-04T02:05:00+00:00",
+                "estimated": "2020-03-04T02:05:00+00:00",
+                "actual": "2020-03-04T02:43:00+00:00",
+                "estimated_runway": "2020-03-04T02:35:00+00:00",
+                "actual_runway": "2020-03-04T02:35:00+00:00"
+            },
+            "airline": {
+                "name": "Royal Air Maroc",
+                "iata": "AT",
+                "icao": "RAM"
+            },
+            "flight": {
+                "number": "9538",
+                "iata": "AT9538",
+                "icao": "RAM9538",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1823",
+                    "flight_iata": "b61823",
+                    "flight_icao": "jbu1823"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "Royal Air Maroc",
+                "iata": "AT",
+                "icao": "RAM"
+            },
+            "flight": {
+                "number": "9540",
+                "iata": "AT9540",
+                "icao": "RAM9540",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1723",
+                    "flight_iata": "b61723",
+                    "flight_icao": "jbu1723"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "42",
+                "delay": 22,
+                "scheduled": "2020-03-03T18:30:00+00:00",
+                "estimated": "2020-03-03T18:30:00+00:00",
+                "actual": "2020-03-03T18:51:00+00:00",
+                "estimated_runway": "2020-03-03T18:51:00+00:00",
+                "actual_runway": "2020-03-03T18:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:05:00+00:00",
+                "estimated": "2020-03-03T22:05:00+00:00",
+                "actual": "2020-03-03T21:29:00+00:00",
+                "estimated_runway": "2020-03-03T21:29:00+00:00",
+                "actual_runway": "2020-03-03T21:29:00+00:00"
+            },
+            "airline": {
+                "name": "Finnair",
+                "iata": "AY",
+                "icao": "FIN"
+            },
+            "flight": {
+                "number": "5719",
+                "iata": "AY5719",
+                "icao": "FIN5719",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "302",
+                    "flight_iata": "aa302",
+                    "flight_icao": "aal302"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 13,
+                "scheduled": "2020-03-03T17:00:00+00:00",
+                "estimated": "2020-03-03T17:00:00+00:00",
+                "actual": "2020-03-03T17:12:00+00:00",
+                "estimated_runway": "2020-03-03T17:12:00+00:00",
+                "actual_runway": "2020-03-03T17:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T20:35:00+00:00",
+                "estimated": "2020-03-03T20:35:00+00:00",
+                "actual": "2020-03-03T19:56:00+00:00",
+                "estimated_runway": "2020-03-03T19:56:00+00:00",
+                "actual_runway": "2020-03-03T19:56:00+00:00"
+            },
+            "airline": {
+                "name": "Finnair",
+                "iata": "AY",
+                "icao": "FIN"
+            },
+            "flight": {
+                "number": "5731",
+                "iata": "AY5731",
+                "icao": "FIN5731",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "306",
+                    "flight_iata": "aa306",
+                    "flight_icao": "aal306"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "Alitalia",
+                "iata": "AZ",
+                "icao": "AZA"
+            },
+            "flight": {
+                "number": "3137",
+                "iata": "AZ3137",
+                "icao": "AZA3137",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "447",
+                    "flight_iata": "dl447",
+                    "flight_icao": "dal447"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "Alitalia",
+                "iata": "AZ",
+                "icao": "AZA"
+            },
+            "flight": {
+                "number": "3174",
+                "iata": "AZ3174",
+                "icao": "AZA3174",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T16:50:00+00:00",
+                "estimated_runway": "2020-03-03T17:10:00+00:00",
+                "actual_runway": "2020-03-03T17:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T20:29:00+00:00",
+                "estimated": "2020-03-03T20:29:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T19:52:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Alitalia",
+                "iata": "AZ",
+                "icao": "AZA"
+            },
+            "flight": {
+                "number": "3488",
+                "iata": "AZ3488",
+                "icao": "AZA3488",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "428",
+                    "flight_iata": "dl428",
+                    "flight_icao": "dal428"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": 39,
+                "scheduled": "2020-03-03T19:10:00+00:00",
+                "estimated": "2020-03-03T19:10:00+00:00",
+                "actual": "2020-03-03T19:48:00+00:00",
+                "estimated_runway": "2020-03-03T19:48:00+00:00",
+                "actual_runway": "2020-03-03T19:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:54:00+00:00",
+                "estimated": "2020-03-03T22:54:00+00:00",
+                "actual": "2020-03-03T22:31:00+00:00",
+                "estimated_runway": "2020-03-03T22:31:00+00:00",
+                "actual_runway": "2020-03-03T22:31:00+00:00"
+            },
+            "airline": {
+                "name": "Alitalia",
+                "iata": "AZ",
+                "icao": "AZA"
+            },
+            "flight": {
+                "number": "3489",
+                "iata": "AZ3489",
+                "icao": "AZA3489",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "427",
+                    "flight_iata": "dl427",
+                    "flight_icao": "dal427"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "10",
+                "delay": null,
+                "scheduled": "2020-03-03T06:59:00+00:00",
+                "estimated": "2020-03-03T06:59:00+00:00",
+                "actual": "2020-03-03T06:50:00+00:00",
+                "estimated_runway": "2020-03-03T07:01:00+00:00",
+                "actual_runway": "2020-03-03T07:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T10:27:00+00:00",
+                "estimated": "2020-03-03T10:27:00+00:00",
+                "actual": "2020-03-03T10:12:00+00:00",
+                "estimated_runway": "2020-03-03T09:46:00+00:00",
+                "actual_runway": "2020-03-03T09:46:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "123",
+                "iata": "B6123",
+                "icao": "JBU123",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N961JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD60B7"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "30",
+                "delay": 15,
+                "scheduled": "2020-03-03T16:00:00+00:00",
+                "estimated": "2020-03-03T16:00:00+00:00",
+                "actual": "2020-03-03T16:15:00+00:00",
+                "estimated_runway": "2020-03-03T16:15:00+00:00",
+                "actual_runway": "2020-03-03T16:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "59",
+                "baggage": null,
+                "delay": 4,
+                "scheduled": "2020-03-03T19:27:00+00:00",
+                "estimated": "2020-03-03T19:27:00+00:00",
+                "actual": "2020-03-03T18:56:00+00:00",
+                "estimated_runway": "2020-03-03T18:56:00+00:00",
+                "actual_runway": "2020-03-03T18:56:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "1323",
+                "iata": "B61323",
+                "icao": "JBU1323",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "24",
+                "delay": 19,
+                "scheduled": "2020-03-03T17:30:00+00:00",
+                "estimated": "2020-03-03T17:30:00+00:00",
+                "actual": "2020-03-03T17:48:00+00:00",
+                "estimated_runway": "2020-03-03T17:48:00+00:00",
+                "actual_runway": "2020-03-03T17:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T21:02:00+00:00",
+                "estimated": "2020-03-03T21:02:00+00:00",
+                "actual": "2020-03-03T20:40:00+00:00",
+                "estimated_runway": "2020-03-03T20:40:00+00:00",
+                "actual_runway": "2020-03-03T20:40:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "1523",
+                "iata": "B61523",
+                "icao": "JBU1523",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N989JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "ADCD6D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "30",
+                "delay": 25,
+                "scheduled": "2020-03-03T19:31:00+00:00",
+                "estimated": "2020-03-03T19:31:00+00:00",
+                "actual": "2020-03-03T19:55:00+00:00",
+                "estimated_runway": "2020-03-03T19:55:00+00:00",
+                "actual_runway": "2020-03-03T19:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T23:06:00+00:00",
+                "estimated": "2020-03-03T23:06:00+00:00",
+                "actual": "2020-03-03T22:49:00+00:00",
+                "estimated_runway": "2020-03-03T22:49:00+00:00",
+                "actual_runway": "2020-03-03T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "1623",
+                "iata": "B61623",
+                "icao": "JBU1623",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N944JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD1CDE"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "1723",
+                "iata": "B61723",
+                "icao": "JBU1723",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N962JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD646E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "22",
+                "delay": 55,
+                "scheduled": "2020-03-03T22:40:00+00:00",
+                "estimated": "2020-03-03T22:40:00+00:00",
+                "actual": "2020-03-03T22:28:00+00:00",
+                "estimated_runway": "2020-03-03T23:35:00+00:00",
+                "actual_runway": "2020-03-03T23:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 38,
+                "scheduled": "2020-03-04T02:05:00+00:00",
+                "estimated": "2020-03-04T02:05:00+00:00",
+                "actual": "2020-03-04T02:43:00+00:00",
+                "estimated_runway": "2020-03-04T02:35:00+00:00",
+                "actual_runway": "2020-03-04T02:35:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "1823",
+                "iata": "B61823",
+                "icao": "JBU1823",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N992JB",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "ADDADB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "8",
+                "delay": null,
+                "scheduled": "2020-03-03T05:35:00+00:00",
+                "estimated": "2020-03-03T05:35:00+00:00",
+                "actual": "2020-03-03T05:29:00+00:00",
+                "estimated_runway": "2020-03-03T05:41:00+00:00",
+                "actual_runway": "2020-03-03T05:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T08:53:00+00:00",
+                "estimated": "2020-03-03T08:53:00+00:00",
+                "actual": "2020-03-03T08:27:00+00:00",
+                "estimated_runway": "2020-03-03T08:19:00+00:00",
+                "actual_runway": "2020-03-03T08:19:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "23",
+                "iata": "B623",
+                "icao": "JBU23",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N964JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD6BDC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "23",
+                "delay": null,
+                "scheduled": "2020-03-03T08:25:00+00:00",
+                "estimated": "2020-03-03T08:25:00+00:00",
+                "actual": "2020-03-03T08:14:00+00:00",
+                "estimated_runway": "2020-03-03T08:43:00+00:00",
+                "actual_runway": "2020-03-03T08:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2020-03-03T11:57:00+00:00",
+                "estimated": "2020-03-03T11:57:00+00:00",
+                "actual": "2020-03-03T11:34:00+00:00",
+                "estimated_runway": "2020-03-03T11:20:00+00:00",
+                "actual_runway": "2020-03-03T11:20:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "323",
+                "iata": "B6323",
+                "icao": "JBU323",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N947JB",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD27F3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-03T12:00:00+00:00",
+                "estimated": "2020-03-03T12:00:00+00:00",
+                "actual": "2020-03-03T11:59:00+00:00",
+                "estimated_runway": "2020-03-03T11:59:00+00:00",
+                "actual_runway": "2020-03-03T11:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "59",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T14:42:00+00:00",
+                "estimated_runway": "2020-03-03T14:42:00+00:00",
+                "actual_runway": "2020-03-03T14:42:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "523",
+                "iata": "B6523",
+                "icao": "JBU523",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "24",
+                "delay": 11,
+                "scheduled": "2020-03-03T14:15:00+00:00",
+                "estimated": "2020-03-03T14:15:00+00:00",
+                "actual": "2020-03-03T14:25:00+00:00",
+                "estimated_runway": "2020-03-03T14:25:00+00:00",
+                "actual_runway": "2020-03-03T14:25:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "59",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T17:40:00+00:00",
+                "estimated": "2020-03-03T17:40:00+00:00",
+                "actual": "2020-03-03T17:15:00+00:00",
+                "estimated_runway": "2020-03-03T17:15:00+00:00",
+                "actual_runway": "2020-03-03T17:15:00+00:00"
+            },
+            "airline": {
+                "name": "JetBlue Airways",
+                "iata": "B6",
+                "icao": "JBU"
+            },
+            "flight": {
+                "number": "623",
+                "iata": "B6623",
+                "icao": "JBU623",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N945JT",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "AD2095"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "38",
+                "delay": null,
+                "scheduled": "2020-03-03T09:00:00+00:00",
+                "estimated": "2020-03-03T09:00:00+00:00",
+                "actual": "2020-03-03T08:55:00+00:00",
+                "estimated_runway": "2020-03-03T09:10:00+00:00",
+                "actual_runway": "2020-03-03T09:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "46B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T12:40:00+00:00",
+                "estimated": "2020-03-03T12:40:00+00:00",
+                "actual": "2020-03-03T11:53:00+00:00",
+                "estimated_runway": "2020-03-03T11:46:00+00:00",
+                "actual_runway": "2020-03-03T11:46:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2430",
+                "iata": "BA2430",
+                "icao": "BAW2430",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "255",
+                    "flight_iata": "aa255",
+                    "flight_icao": "aal255"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": 9,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": "2020-03-03T14:39:00+00:00",
+                "estimated_runway": "2020-03-03T14:39:00+00:00",
+                "actual_runway": "2020-03-03T14:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:59:00+00:00",
+                "estimated": "2020-03-03T17:59:00+00:00",
+                "actual": "2020-03-03T17:25:00+00:00",
+                "estimated_runway": "2020-03-03T17:25:00+00:00",
+                "actual_runway": "2020-03-03T17:25:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "2487",
+                "iata": "BA2487",
+                "icao": "BAW2487",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "341",
+                    "flight_iata": "aa341",
+                    "flight_icao": "aal341"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": null,
+                "scheduled": "2020-03-03T06:00:00+00:00",
+                "estimated": "2020-03-03T06:00:00+00:00",
+                "actual": "2020-03-03T05:55:00+00:00",
+                "estimated_runway": "2020-03-03T06:10:00+00:00",
+                "actual_runway": "2020-03-03T06:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T09:40:00+00:00",
+                "estimated": "2020-03-03T09:40:00+00:00",
+                "actual": "2020-03-03T08:53:00+00:00",
+                "estimated_runway": "2020-03-03T08:49:00+00:00",
+                "actual_runway": "2020-03-03T08:49:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4310",
+                "iata": "BA4310",
+                "icao": "BAW4310",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "171",
+                    "flight_iata": "aa171",
+                    "flight_icao": "aal171"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "38",
+                "delay": 16,
+                "scheduled": "2020-03-03T20:30:00+00:00",
+                "estimated": "2020-03-03T20:30:00+00:00",
+                "actual": "2020-03-03T20:26:00+00:00",
+                "estimated_runway": "2020-03-03T20:45:00+00:00",
+                "actual_runway": "2020-03-03T20:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "45",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:09:00+00:00",
+                "estimated": "2020-03-04T00:09:00+00:00",
+                "actual": "2020-03-03T23:49:00+00:00",
+                "estimated_runway": "2020-03-03T23:33:00+00:00",
+                "actual_runway": "2020-03-03T23:33:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4312",
+                "iata": "BA4312",
+                "icao": "BAW4312",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "300",
+                    "flight_iata": "aa300",
+                    "flight_icao": "aal300"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "46",
+                "delay": null,
+                "scheduled": "2020-03-03T11:00:00+00:00",
+                "estimated": "2020-03-03T11:00:00+00:00",
+                "actual": "2020-03-03T10:56:00+00:00",
+                "estimated_runway": "2020-03-03T11:27:00+00:00",
+                "actual_runway": "2020-03-03T11:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": 10,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T14:29:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4319",
+                "iata": "BA4319",
+                "icao": "BAW4319",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "331",
+                    "flight_iata": "aa331",
+                    "flight_icao": "aal331"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 20,
+                "scheduled": "2020-03-03T19:30:00+00:00",
+                "estimated": "2020-03-03T19:30:00+00:00",
+                "actual": "2020-03-03T19:50:00+00:00",
+                "estimated_runway": "2020-03-03T19:50:00+00:00",
+                "actual_runway": "2020-03-03T19:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T23:13:00+00:00",
+                "estimated": "2020-03-03T23:13:00+00:00",
+                "actual": "2020-03-03T22:40:00+00:00",
+                "estimated_runway": "2020-03-03T22:40:00+00:00",
+                "actual_runway": "2020-03-03T22:40:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4331",
+                "iata": "BA4331",
+                "icao": "BAW4331",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "117",
+                    "flight_iata": "aa117",
+                    "flight_icao": "aal117"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 13,
+                "scheduled": "2020-03-03T17:00:00+00:00",
+                "estimated": "2020-03-03T17:00:00+00:00",
+                "actual": "2020-03-03T17:12:00+00:00",
+                "estimated_runway": "2020-03-03T17:12:00+00:00",
+                "actual_runway": "2020-03-03T17:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T20:35:00+00:00",
+                "estimated": "2020-03-03T20:35:00+00:00",
+                "actual": "2020-03-03T19:56:00+00:00",
+                "estimated_runway": "2020-03-03T19:56:00+00:00",
+                "actual_runway": "2020-03-03T19:56:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4333",
+                "iata": "BA4333",
+                "icao": "BAW4333",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "306",
+                    "flight_iata": "aa306",
+                    "flight_icao": "aal306"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "42",
+                "delay": null,
+                "scheduled": "2020-03-03T07:30:00+00:00",
+                "estimated": "2020-03-03T07:30:00+00:00",
+                "actual": "2020-03-03T07:22:00+00:00",
+                "estimated_runway": "2020-03-03T07:39:00+00:00",
+                "actual_runway": "2020-03-03T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42A",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T11:05:00+00:00",
+                "estimated": "2020-03-03T11:05:00+00:00",
+                "actual": "2020-03-03T10:30:00+00:00",
+                "estimated_runway": "2020-03-03T10:14:00+00:00",
+                "actual_runway": "2020-03-03T10:14:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4337",
+                "iata": "BA4337",
+                "icao": "BAW4337",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "1",
+                    "flight_iata": "aa1",
+                    "flight_icao": "aal1"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "37",
+                "delay": 14,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:26:00+00:00",
+                "estimated_runway": "2020-03-03T21:44:00+00:00",
+                "actual_runway": "2020-03-03T21:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "47A",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:59:00+00:00",
+                "estimated": "2020-03-04T00:59:00+00:00",
+                "actual": "2020-03-04T00:46:00+00:00",
+                "estimated_runway": "2020-03-04T00:38:00+00:00",
+                "actual_runway": "2020-03-04T00:38:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4338",
+                "iata": "BA4338",
+                "icao": "BAW4338",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "185",
+                    "flight_iata": "aa185",
+                    "flight_icao": "aal185"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "44",
+                "delay": 11,
+                "scheduled": "2020-03-03T12:30:00+00:00",
+                "estimated": "2020-03-03T12:30:00+00:00",
+                "actual": "2020-03-03T12:41:00+00:00",
+                "estimated_runway": "2020-03-03T12:41:00+00:00",
+                "actual_runway": "2020-03-03T12:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T16:03:00+00:00",
+                "estimated": "2020-03-03T16:03:00+00:00",
+                "actual": "2020-03-03T15:20:00+00:00",
+                "estimated_runway": "2020-03-03T15:20:00+00:00",
+                "actual_runway": "2020-03-03T15:20:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "4720",
+                "iata": "BA4720",
+                "icao": "BAW4720",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "3",
+                    "flight_iata": "aa3",
+                    "flight_icao": "aal3"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T09:50:00+00:00",
+                "estimated": "2020-03-03T09:50:00+00:00",
+                "actual": "2020-03-03T09:49:00+00:00",
+                "estimated_runway": "2020-03-03T10:02:00+00:00",
+                "actual_runway": "2020-03-03T10:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T13:15:00+00:00",
+                "estimated": "2020-03-03T13:15:00+00:00",
+                "actual": "2020-03-03T13:06:00+00:00",
+                "estimated_runway": "2020-03-03T12:37:00+00:00",
+                "actual_runway": "2020-03-03T12:37:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "1085",
+                "iata": "DL1085",
+                "icao": "DAL1085",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N174DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A12861"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B37",
+                "delay": null,
+                "scheduled": "2020-03-03T07:00:00+00:00",
+                "estimated": "2020-03-03T07:00:00+00:00",
+                "actual": "2020-03-03T06:57:00+00:00",
+                "estimated_runway": "2020-03-03T07:10:00+00:00",
+                "actual_runway": "2020-03-03T07:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T10:25:00+00:00",
+                "estimated": "2020-03-03T10:25:00+00:00",
+                "actual": "2020-03-03T09:58:00+00:00",
+                "estimated_runway": "2020-03-03T09:48:00+00:00",
+                "actual_runway": "2020-03-03T09:48:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "1529",
+                "iata": "DL1529",
+                "icao": "DAL1529",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N175DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A12C18"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B41",
+                "delay": null,
+                "scheduled": "2020-03-03T08:05:00+00:00",
+                "estimated": "2020-03-03T08:05:00+00:00",
+                "actual": "2020-03-03T07:58:00+00:00",
+                "estimated_runway": "2020-03-03T08:40:00+00:00",
+                "actual_runway": "2020-03-03T08:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T11:37:00+00:00",
+                "estimated": "2020-03-03T11:37:00+00:00",
+                "actual": "2020-03-03T11:23:00+00:00",
+                "estimated_runway": "2020-03-03T11:13:00+00:00",
+                "actual_runway": "2020-03-03T11:13:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "2346",
+                "iata": "DL2346",
+                "icao": "DAL2346",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N169DZ",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A11380"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "3099",
+                "iata": "DL3099",
+                "icao": "DAL3099",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N1201P",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A0563B"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B33",
+                "delay": 15,
+                "scheduled": "2020-03-03T11:40:00+00:00",
+                "estimated": "2020-03-03T11:40:00+00:00",
+                "actual": "2020-03-03T11:54:00+00:00",
+                "estimated_runway": "2020-03-03T11:54:00+00:00",
+                "actual_runway": "2020-03-03T11:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T15:12:00+00:00",
+                "estimated": "2020-03-03T15:12:00+00:00",
+                "actual": "2020-03-03T14:27:00+00:00",
+                "estimated_runway": "2020-03-03T14:27:00+00:00",
+                "actual_runway": "2020-03-03T14:27:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "423",
+                "iata": "DL423",
+                "icao": "DAL423",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N183DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A14C29"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": 39,
+                "scheduled": "2020-03-03T19:10:00+00:00",
+                "estimated": "2020-03-03T19:10:00+00:00",
+                "actual": "2020-03-03T19:48:00+00:00",
+                "estimated_runway": "2020-03-03T19:48:00+00:00",
+                "actual_runway": "2020-03-03T19:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:54:00+00:00",
+                "estimated": "2020-03-03T22:54:00+00:00",
+                "actual": "2020-03-03T22:31:00+00:00",
+                "estimated_runway": "2020-03-03T22:31:00+00:00",
+                "actual_runway": "2020-03-03T22:31:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "427",
+                "iata": "DL427",
+                "icao": "DAL427",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N172DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A120F3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": 15,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T17:09:00+00:00",
+                "estimated_runway": "2020-03-03T17:09:00+00:00",
+                "actual_runway": "2020-03-03T17:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T20:29:00+00:00",
+                "estimated": "2020-03-03T20:29:00+00:00",
+                "actual": "2020-03-03T19:55:00+00:00",
+                "estimated_runway": "2020-03-03T19:55:00+00:00",
+                "actual_runway": "2020-03-03T19:55:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "428",
+                "iata": "DL428",
+                "icao": "DAL428",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N175DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A12C18"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "447",
+                "iata": "DL447",
+                "icao": "DAL447",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N179DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A13AF4"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B39",
+                "delay": 13,
+                "scheduled": "2020-03-03T13:40:00+00:00",
+                "estimated": "2020-03-03T13:40:00+00:00",
+                "actual": "2020-03-03T13:53:00+00:00",
+                "estimated_runway": "2020-03-03T13:53:00+00:00",
+                "actual_runway": "2020-03-03T13:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:11:00+00:00",
+                "estimated": "2020-03-03T17:11:00+00:00",
+                "actual": "2020-03-03T16:25:00+00:00",
+                "estimated_runway": "2020-03-03T16:25:00+00:00",
+                "actual_runway": "2020-03-03T16:25:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "453",
+                "iata": "DL453",
+                "icao": "DAL453",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N175DN",
+                "iata": "B763",
+                "icao": "B763",
+                "icao24": "A12C18"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-03T12:00:00+00:00",
+                "estimated": "2020-03-03T12:00:00+00:00",
+                "actual": "2020-03-03T11:59:00+00:00",
+                "estimated_runway": "2020-03-03T11:59:00+00:00",
+                "actual_runway": "2020-03-03T11:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "59",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T14:42:00+00:00",
+                "estimated_runway": "2020-03-03T14:42:00+00:00",
+                "actual_runway": "2020-03-03T14:42:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "6389",
+                "iata": "EK6389",
+                "icao": "UAE6389",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "523",
+                    "flight_iata": "b6523",
+                    "flight_icao": "jbu523"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "10",
+                "delay": null,
+                "scheduled": "2020-03-03T06:59:00+00:00",
+                "estimated": "2020-03-03T06:59:00+00:00",
+                "actual": "2020-03-03T06:50:00+00:00",
+                "estimated_runway": "2020-03-03T07:01:00+00:00",
+                "actual_runway": "2020-03-03T07:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T10:27:00+00:00",
+                "estimated": "2020-03-03T10:27:00+00:00",
+                "actual": "2020-03-03T10:12:00+00:00",
+                "estimated_runway": "2020-03-03T09:46:00+00:00",
+                "actual_runway": "2020-03-03T09:46:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "6873",
+                "iata": "EK6873",
+                "icao": "UAE6873",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "123",
+                    "flight_iata": "b6123",
+                    "flight_icao": "jbu123"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "23",
+                "delay": null,
+                "scheduled": "2020-03-03T08:25:00+00:00",
+                "estimated": "2020-03-03T08:25:00+00:00",
+                "actual": "2020-03-03T08:14:00+00:00",
+                "estimated_runway": "2020-03-03T08:43:00+00:00",
+                "actual_runway": "2020-03-03T08:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2020-03-03T11:57:00+00:00",
+                "estimated": "2020-03-03T11:57:00+00:00",
+                "actual": "2020-03-03T11:34:00+00:00",
+                "estimated_runway": "2020-03-03T11:20:00+00:00",
+                "actual_runway": "2020-03-03T11:20:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "6875",
+                "iata": "EK6875",
+                "icao": "UAE6875",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "323",
+                    "flight_iata": "b6323",
+                    "flight_icao": "jbu323"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "30",
+                "delay": 25,
+                "scheduled": "2020-03-03T19:31:00+00:00",
+                "estimated": "2020-03-03T19:31:00+00:00",
+                "actual": "2020-03-03T19:55:00+00:00",
+                "estimated_runway": "2020-03-03T19:55:00+00:00",
+                "actual_runway": "2020-03-03T19:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T23:06:00+00:00",
+                "estimated": "2020-03-03T23:06:00+00:00",
+                "actual": "2020-03-03T22:49:00+00:00",
+                "estimated_runway": "2020-03-03T22:49:00+00:00",
+                "actual_runway": "2020-03-03T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "8307",
+                "iata": "EY8307",
+                "icao": "ETD8307",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1623",
+                    "flight_iata": "b61623",
+                    "flight_icao": "jbu1623"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "8309",
+                "iata": "EY8309",
+                "icao": "ETD8309",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1723",
+                    "flight_iata": "b61723",
+                    "flight_icao": "jbu1723"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "Icelandair",
+                "iata": "FI",
+                "icao": "ICE"
+            },
+            "flight": {
+                "number": "7879",
+                "iata": "FI7879",
+                "icao": "ICE7879",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1723",
+                    "flight_iata": "b61723",
+                    "flight_icao": "jbu1723"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": 9,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": "2020-03-03T14:39:00+00:00",
+                "estimated_runway": "2020-03-03T14:39:00+00:00",
+                "actual_runway": "2020-03-03T14:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:59:00+00:00",
+                "estimated": "2020-03-03T17:59:00+00:00",
+                "actual": "2020-03-03T17:25:00+00:00",
+                "estimated_runway": "2020-03-03T17:25:00+00:00",
+                "actual_runway": "2020-03-03T17:25:00+00:00"
+            },
+            "airline": {
+                "name": "Fiji Airways",
+                "iata": "FJ",
+                "icao": "FJI"
+            },
+            "flight": {
+                "number": "5001",
+                "iata": "FJ5001",
+                "icao": "FJI5001",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "341",
+                    "flight_iata": "aa341",
+                    "flight_icao": "aal341"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T09:50:00+00:00",
+                "estimated": "2020-03-03T09:50:00+00:00",
+                "actual": "2020-03-03T09:49:00+00:00",
+                "estimated_runway": "2020-03-03T10:02:00+00:00",
+                "actual_runway": "2020-03-03T10:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T13:15:00+00:00",
+                "estimated": "2020-03-03T13:15:00+00:00",
+                "actual": "2020-03-03T13:06:00+00:00",
+                "estimated_runway": "2020-03-03T12:37:00+00:00",
+                "actual_runway": "2020-03-03T12:37:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "8072",
+                "iata": "G38072",
+                "icao": "GLO8072",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "1085",
+                    "flight_iata": "dl1085",
+                    "flight_icao": "dal1085"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B41",
+                "delay": null,
+                "scheduled": "2020-03-03T08:05:00+00:00",
+                "estimated": "2020-03-03T08:05:00+00:00",
+                "actual": "2020-03-03T07:58:00+00:00",
+                "estimated_runway": "2020-03-03T08:40:00+00:00",
+                "actual_runway": "2020-03-03T08:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T11:37:00+00:00",
+                "estimated": "2020-03-03T11:37:00+00:00",
+                "actual": "2020-03-03T11:23:00+00:00",
+                "estimated_runway": "2020-03-03T11:13:00+00:00",
+                "actual_runway": "2020-03-03T11:13:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "8316",
+                "iata": "G38316",
+                "icao": "GLO8316",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "2346",
+                    "flight_iata": "dl2346",
+                    "flight_icao": "dal2346"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 20,
+                "scheduled": "2020-03-03T19:30:00+00:00",
+                "estimated": "2020-03-03T19:30:00+00:00",
+                "actual": "2020-03-03T19:50:00+00:00",
+                "estimated_runway": "2020-03-03T19:50:00+00:00",
+                "actual_runway": "2020-03-03T19:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T23:13:00+00:00",
+                "estimated": "2020-03-03T23:13:00+00:00",
+                "actual": "2020-03-03T22:40:00+00:00",
+                "estimated_runway": "2020-03-03T22:40:00+00:00",
+                "actual_runway": "2020-03-03T22:40:00+00:00"
+            },
+            "airline": {
+                "name": "Gulf Air",
+                "iata": "GF",
+                "icao": "GFA"
+            },
+            "flight": {
+                "number": "4119",
+                "iata": "GF4119",
+                "icao": "GFA4119",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "117",
+                    "flight_iata": "aa117",
+                    "flight_icao": "aal117"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": 9,
+                "scheduled": "2020-03-03T14:30:00+00:00",
+                "estimated": "2020-03-03T14:30:00+00:00",
+                "actual": "2020-03-03T14:39:00+00:00",
+                "estimated_runway": "2020-03-03T14:39:00+00:00",
+                "actual_runway": "2020-03-03T14:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "48A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:59:00+00:00",
+                "estimated": "2020-03-03T17:59:00+00:00",
+                "actual": "2020-03-03T17:25:00+00:00",
+                "estimated_runway": "2020-03-03T17:25:00+00:00",
+                "actual_runway": "2020-03-03T17:25:00+00:00"
+            },
+            "airline": {
+                "name": "Gulf Air",
+                "iata": "GF",
+                "icao": "GFA"
+            },
+            "flight": {
+                "number": "4175",
+                "iata": "GF4175",
+                "icao": "GFA4175",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "341",
+                    "flight_iata": "aa341",
+                    "flight_icao": "aal341"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "23",
+                "delay": null,
+                "scheduled": "2020-03-03T08:25:00+00:00",
+                "estimated": "2020-03-03T08:25:00+00:00",
+                "actual": "2020-03-03T08:14:00+00:00",
+                "estimated_runway": "2020-03-03T08:43:00+00:00",
+                "actual_runway": "2020-03-03T08:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2020-03-03T11:57:00+00:00",
+                "estimated": "2020-03-03T11:57:00+00:00",
+                "actual": "2020-03-03T11:34:00+00:00",
+                "estimated_runway": "2020-03-03T11:20:00+00:00",
+                "actual_runway": "2020-03-03T11:20:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2301",
+                "iata": "HA2301",
+                "icao": "HAL2301",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "323",
+                    "flight_iata": "b6323",
+                    "flight_icao": "jbu323"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "10",
+                "delay": null,
+                "scheduled": "2020-03-03T06:59:00+00:00",
+                "estimated": "2020-03-03T06:59:00+00:00",
+                "actual": "2020-03-03T06:50:00+00:00",
+                "estimated_runway": "2020-03-03T07:01:00+00:00",
+                "actual_runway": "2020-03-03T07:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T10:27:00+00:00",
+                "estimated": "2020-03-03T10:27:00+00:00",
+                "actual": "2020-03-03T10:12:00+00:00",
+                "estimated_runway": "2020-03-03T09:46:00+00:00",
+                "actual_runway": "2020-03-03T09:46:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2303",
+                "iata": "HA2303",
+                "icao": "HAL2303",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "123",
+                    "flight_iata": "b6123",
+                    "flight_icao": "jbu123"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "22",
+                "delay": 55,
+                "scheduled": "2020-03-03T22:40:00+00:00",
+                "estimated": "2020-03-03T22:40:00+00:00",
+                "actual": "2020-03-03T22:28:00+00:00",
+                "estimated_runway": "2020-03-03T23:35:00+00:00",
+                "actual_runway": "2020-03-03T23:35:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 38,
+                "scheduled": "2020-03-04T02:05:00+00:00",
+                "estimated": "2020-03-04T02:05:00+00:00",
+                "actual": "2020-03-04T02:43:00+00:00",
+                "estimated_runway": "2020-03-04T02:35:00+00:00",
+                "actual_runway": "2020-03-04T02:35:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2305",
+                "iata": "HA2305",
+                "icao": "HAL2305",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1823",
+                    "flight_iata": "b61823",
+                    "flight_icao": "jbu1823"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "8",
+                "delay": null,
+                "scheduled": "2020-03-03T05:35:00+00:00",
+                "estimated": "2020-03-03T05:35:00+00:00",
+                "actual": "2020-03-03T05:29:00+00:00",
+                "estimated_runway": "2020-03-03T05:41:00+00:00",
+                "actual_runway": "2020-03-03T05:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T08:53:00+00:00",
+                "estimated": "2020-03-03T08:53:00+00:00",
+                "actual": "2020-03-03T08:27:00+00:00",
+                "estimated_runway": "2020-03-03T08:19:00+00:00",
+                "actual_runway": "2020-03-03T08:19:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2307",
+                "iata": "HA2307",
+                "icao": "HAL2307",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "23",
+                    "flight_iata": "b623",
+                    "flight_icao": "jbu23"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2309",
+                "iata": "HA2309",
+                "icao": "HAL2309",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1723",
+                    "flight_iata": "b61723",
+                    "flight_icao": "jbu1723"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "30",
+                "delay": 25,
+                "scheduled": "2020-03-03T19:31:00+00:00",
+                "estimated": "2020-03-03T19:31:00+00:00",
+                "actual": "2020-03-03T19:55:00+00:00",
+                "estimated_runway": "2020-03-03T19:55:00+00:00",
+                "actual_runway": "2020-03-03T19:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T23:06:00+00:00",
+                "estimated": "2020-03-03T23:06:00+00:00",
+                "actual": "2020-03-03T22:49:00+00:00",
+                "estimated_runway": "2020-03-03T22:49:00+00:00",
+                "actual_runway": "2020-03-03T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2311",
+                "iata": "HA2311",
+                "icao": "HAL2311",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1623",
+                    "flight_iata": "b61623",
+                    "flight_icao": "jbu1623"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "14",
+                "delay": null,
+                "scheduled": "2020-03-03T12:00:00+00:00",
+                "estimated": "2020-03-03T12:00:00+00:00",
+                "actual": "2020-03-03T11:59:00+00:00",
+                "estimated_runway": "2020-03-03T11:59:00+00:00",
+                "actual_runway": "2020-03-03T11:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "59",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T14:42:00+00:00",
+                "estimated_runway": "2020-03-03T14:42:00+00:00",
+                "actual_runway": "2020-03-03T14:42:00+00:00"
+            },
+            "airline": {
+                "name": "Hawaiian Airlines",
+                "iata": "HA",
+                "icao": "HAL"
+            },
+            "flight": {
+                "number": "2377",
+                "iata": "HA2377",
+                "icao": "HAL2377",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "523",
+                    "flight_iata": "b6523",
+                    "flight_icao": "jbu523"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "37",
+                "delay": 14,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:26:00+00:00",
+                "estimated_runway": "2020-03-03T21:44:00+00:00",
+                "actual_runway": "2020-03-03T21:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "47A",
+                "baggage": "T5C6",
+                "delay": null,
+                "scheduled": "2020-03-04T00:59:00+00:00",
+                "estimated": "2020-03-04T00:59:00+00:00",
+                "actual": "2020-03-04T00:46:00+00:00",
+                "estimated_runway": "2020-03-04T00:38:00+00:00",
+                "actual_runway": "2020-03-04T00:38:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "4551",
+                "iata": "IB4551",
+                "icao": "IBE4551",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "185",
+                    "flight_iata": "aa185",
+                    "flight_icao": "aal185"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "40",
+                "delay": 13,
+                "scheduled": "2020-03-03T17:00:00+00:00",
+                "estimated": "2020-03-03T17:00:00+00:00",
+                "actual": "2020-03-03T17:12:00+00:00",
+                "estimated_runway": "2020-03-03T17:12:00+00:00",
+                "actual_runway": "2020-03-03T17:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "42B",
+                "baggage": "T4C1",
+                "delay": null,
+                "scheduled": "2020-03-03T20:35:00+00:00",
+                "estimated": "2020-03-03T20:35:00+00:00",
+                "actual": "2020-03-03T19:56:00+00:00",
+                "estimated_runway": "2020-03-03T19:56:00+00:00",
+                "actual_runway": "2020-03-03T19:56:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "4612",
+                "iata": "IB4612",
+                "icao": "IBE4612",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "306",
+                    "flight_iata": "aa306",
+                    "flight_icao": "aal306"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": "41",
+                "delay": null,
+                "scheduled": "2020-03-03T06:00:00+00:00",
+                "estimated": "2020-03-03T06:00:00+00:00",
+                "actual": "2020-03-03T05:55:00+00:00",
+                "estimated_runway": "2020-03-03T06:10:00+00:00",
+                "actual_runway": "2020-03-03T06:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "4",
+                "gate": "49A",
+                "baggage": "T4C2",
+                "delay": null,
+                "scheduled": "2020-03-03T09:40:00+00:00",
+                "estimated": "2020-03-03T09:40:00+00:00",
+                "actual": "2020-03-03T08:53:00+00:00",
+                "estimated_runway": "2020-03-03T08:49:00+00:00",
+                "actual_runway": "2020-03-03T08:49:00+00:00"
+            },
+            "airline": {
+                "name": "JAL",
+                "iata": "JL",
+                "icao": "JAL"
+            },
+            "flight": {
+                "number": "7515",
+                "iata": "JL7515",
+                "icao": "JAL7515",
+                "codeshared": {
+                    "airline_name": "american airlines",
+                    "airline_iata": "aa",
+                    "airline_icao": "aal",
+                    "flight_number": "171",
+                    "flight_iata": "aa171",
+                    "flight_icao": "aal171"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T16:50:00+00:00",
+                "estimated_runway": "2020-03-03T17:10:00+00:00",
+                "actual_runway": "2020-03-03T17:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T20:29:00+00:00",
+                "estimated": "2020-03-03T20:29:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T19:52:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Korean Air",
+                "iata": "KE",
+                "icao": "KAL"
+            },
+            "flight": {
+                "number": "7422",
+                "iata": "KE7422",
+                "icao": "KAL7422",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "428",
+                    "flight_iata": "dl428",
+                    "flight_icao": "dal428"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "Korean Air",
+                "iata": "KE",
+                "icao": "KAL"
+            },
+            "flight": {
+                "number": "7505",
+                "iata": "KE7505",
+                "icao": "KAL7505",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "5308",
+                "iata": "KL5308",
+                "icao": "KLM5308",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "5548",
+                "iata": "KL5548",
+                "icao": "KLM5548",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "447",
+                    "flight_iata": "dl447",
+                    "flight_icao": "dal447"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": 39,
+                "scheduled": "2020-03-03T19:10:00+00:00",
+                "estimated": "2020-03-03T19:10:00+00:00",
+                "actual": "2020-03-03T19:48:00+00:00",
+                "estimated_runway": "2020-03-03T19:48:00+00:00",
+                "actual_runway": "2020-03-03T19:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:54:00+00:00",
+                "estimated": "2020-03-03T22:54:00+00:00",
+                "actual": "2020-03-03T22:31:00+00:00",
+                "estimated_runway": "2020-03-03T22:31:00+00:00",
+                "actual_runway": "2020-03-03T22:31:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "6362",
+                "iata": "KL6362",
+                "icao": "KLM6362",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "427",
+                    "flight_iata": "dl427",
+                    "flight_icao": "dal427"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 21,
+                "scheduled": "2020-03-03T15:25:00+00:00",
+                "estimated": "2020-03-03T15:25:00+00:00",
+                "actual": "2020-03-03T15:45:00+00:00",
+                "estimated_runway": "2020-03-03T15:45:00+00:00",
+                "actual_runway": "2020-03-03T15:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T19:00:00+00:00",
+                "estimated": "2020-03-03T19:00:00+00:00",
+                "actual": "2020-03-03T18:23:00+00:00",
+                "estimated_runway": "2020-03-03T18:23:00+00:00",
+                "actual_runway": "2020-03-03T18:23:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "6123",
+                "iata": "LA6123",
+                "icao": "LAN6123",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "3099",
+                    "flight_iata": "dl3099",
+                    "flight_icao": "dal3099"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B33",
+                "delay": 15,
+                "scheduled": "2020-03-03T11:40:00+00:00",
+                "estimated": "2020-03-03T11:40:00+00:00",
+                "actual": "2020-03-03T11:54:00+00:00",
+                "estimated_runway": "2020-03-03T11:54:00+00:00",
+                "actual_runway": "2020-03-03T11:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T15:12:00+00:00",
+                "estimated": "2020-03-03T15:12:00+00:00",
+                "actual": "2020-03-03T14:27:00+00:00",
+                "estimated_runway": "2020-03-03T14:27:00+00:00",
+                "actual_runway": "2020-03-03T14:27:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "6131",
+                "iata": "LA6131",
+                "icao": "LAN6131",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "423",
+                    "flight_iata": "dl423",
+                    "flight_icao": "dal423"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "12",
+                "delay": 6,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T21:20:00+00:00",
+                "estimated_runway": "2020-03-03T21:36:00+00:00",
+                "actual_runway": "2020-03-03T21:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-04T01:01:00+00:00",
+                "estimated": "2020-03-04T01:01:00+00:00",
+                "actual": "2020-03-04T00:43:00+00:00",
+                "estimated_runway": "2020-03-04T00:34:00+00:00",
+                "actual_runway": "2020-03-04T00:34:00+00:00"
+            },
+            "airline": {
+                "name": "El Al",
+                "iata": "LY",
+                "icao": "ELY"
+            },
+            "flight": {
+                "number": "8664",
+                "iata": "LY8664",
+                "icao": "ELY8664",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "1723",
+                    "flight_iata": "b61723",
+                    "flight_icao": "jbu1723"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "5",
+                "gate": "23",
+                "delay": null,
+                "scheduled": "2020-03-03T08:25:00+00:00",
+                "estimated": "2020-03-03T08:25:00+00:00",
+                "actual": "2020-03-03T08:14:00+00:00",
+                "estimated_runway": "2020-03-03T08:43:00+00:00",
+                "actual_runway": "2020-03-03T08:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "5",
+                "gate": "55A",
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2020-03-03T11:57:00+00:00",
+                "estimated": "2020-03-03T11:57:00+00:00",
+                "actual": "2020-03-03T11:34:00+00:00",
+                "estimated_runway": "2020-03-03T11:20:00+00:00",
+                "actual_runway": "2020-03-03T11:20:00+00:00"
+            },
+            "airline": {
+                "name": "El Al",
+                "iata": "LY",
+                "icao": "ELY"
+            },
+            "flight": {
+                "number": "8666",
+                "iata": "LY8666",
+                "icao": "ELY8666",
+                "codeshared": {
+                    "airline_name": "jetblue airways",
+                    "airline_iata": "b6",
+                    "airline_icao": "jbu",
+                    "flight_number": "323",
+                    "flight_iata": "b6323",
+                    "flight_icao": "jbu323"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B41",
+                "delay": null,
+                "scheduled": "2020-03-03T08:05:00+00:00",
+                "estimated": "2020-03-03T08:05:00+00:00",
+                "actual": "2020-03-03T07:58:00+00:00",
+                "estimated_runway": "2020-03-03T08:40:00+00:00",
+                "actual_runway": "2020-03-03T08:40:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T11:37:00+00:00",
+                "estimated": "2020-03-03T11:37:00+00:00",
+                "actual": "2020-03-03T11:23:00+00:00",
+                "estimated_runway": "2020-03-03T11:13:00+00:00",
+                "actual_runway": "2020-03-03T11:13:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "4153",
+                "iata": "MU4153",
+                "icao": "CES4153",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "2346",
+                    "flight_iata": "dl2346",
+                    "flight_icao": "dal2346"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T09:50:00+00:00",
+                "estimated": "2020-03-03T09:50:00+00:00",
+                "actual": "2020-03-03T09:49:00+00:00",
+                "estimated_runway": "2020-03-03T10:02:00+00:00",
+                "actual_runway": "2020-03-03T10:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T13:15:00+00:00",
+                "estimated": "2020-03-03T13:15:00+00:00",
+                "actual": "2020-03-03T13:06:00+00:00",
+                "estimated_runway": "2020-03-03T12:37:00+00:00",
+                "actual_runway": "2020-03-03T12:37:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "4382",
+                "iata": "MU4382",
+                "icao": "CES4382",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "1085",
+                    "flight_iata": "dl1085",
+                    "flight_icao": "dal1085"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": 39,
+                "scheduled": "2020-03-03T19:10:00+00:00",
+                "estimated": "2020-03-03T19:10:00+00:00",
+                "actual": "2020-03-03T19:48:00+00:00",
+                "estimated_runway": "2020-03-03T19:48:00+00:00",
+                "actual_runway": "2020-03-03T19:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T22:54:00+00:00",
+                "estimated": "2020-03-03T22:54:00+00:00",
+                "actual": "2020-03-03T22:31:00+00:00",
+                "estimated_runway": "2020-03-03T22:31:00+00:00",
+                "actual_runway": "2020-03-03T22:31:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "4581",
+                "iata": "MU4581",
+                "icao": "CES4581",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "427",
+                    "flight_iata": "dl427",
+                    "flight_icao": "dal427"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "active",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B35",
+                "delay": null,
+                "scheduled": "2020-03-03T16:55:00+00:00",
+                "estimated": "2020-03-03T16:55:00+00:00",
+                "actual": "2020-03-03T16:50:00+00:00",
+                "estimated_runway": "2020-03-03T17:10:00+00:00",
+                "actual_runway": "2020-03-03T17:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T20:29:00+00:00",
+                "estimated": "2020-03-03T20:29:00+00:00",
+                "actual": null,
+                "estimated_runway": "2020-03-03T19:52:00+00:00",
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "6882",
+                "iata": "MU6882",
+                "icao": "CES6882",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "428",
+                    "flight_iata": "dl428",
+                    "flight_icao": "dal428"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B39",
+                "delay": 13,
+                "scheduled": "2020-03-03T13:40:00+00:00",
+                "estimated": "2020-03-03T13:40:00+00:00",
+                "actual": "2020-03-03T13:53:00+00:00",
+                "estimated_runway": "2020-03-03T13:53:00+00:00",
+                "actual_runway": "2020-03-03T13:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T17:11:00+00:00",
+                "estimated": "2020-03-03T17:11:00+00:00",
+                "actual": "2020-03-03T16:25:00+00:00",
+                "estimated_runway": "2020-03-03T16:25:00+00:00",
+                "actual_runway": "2020-03-03T16:25:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "6887",
+                "iata": "MU6887",
+                "icao": "CES6887",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "453",
+                    "flight_iata": "dl453",
+                    "flight_icao": "dal453"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B38",
+                "delay": 13,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:13:00+00:00",
+                "estimated_runway": "2020-03-03T18:13:00+00:00",
+                "actual_runway": "2020-03-03T18:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "2",
+                "gate": "21",
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2020-03-03T21:30:00+00:00",
+                "estimated": "2020-03-03T21:30:00+00:00",
+                "actual": "2020-03-03T20:50:00+00:00",
+                "estimated_runway": "2020-03-03T20:50:00+00:00",
+                "actual_runway": "2020-03-03T20:50:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "6888",
+                "iata": "MU6888",
+                "icao": "CES6888",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "447",
+                    "flight_iata": "dl447",
+                    "flight_icao": "dal447"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "4",
+                "gate": "B33",
+                "delay": 15,
+                "scheduled": "2020-03-03T11:40:00+00:00",
+                "estimated": "2020-03-03T11:40:00+00:00",
+                "actual": "2020-03-03T11:54:00+00:00",
+                "estimated_runway": "2020-03-03T11:54:00+00:00",
+                "actual_runway": "2020-03-03T11:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "3",
+                "gate": "34",
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2020-03-03T15:12:00+00:00",
+                "estimated": "2020-03-03T15:12:00+00:00",
+                "actual": "2020-03-03T14:27:00+00:00",
+                "estimated_runway": "2020-03-03T14:27:00+00:00",
+                "actual_runway": "2020-03-03T14:27:00+00:00"
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "8834",
+                "iata": "MU8834",
+                "icao": "CES8834",
+                "codeshared": {
+                    "airline_name": "delta air lines",
+                    "airline_iata": "dl",
+                    "airline_icao": "dal",
+                    "flight_number": "423",
+                    "flight_iata": "dl423",
+                    "flight_icao": "dal423"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2020-03-03",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "John F Kennedy International",
+                "timezone": "America/New_York",
+                "iata": "JFK",
+                "icao": "KJFK",
+                "terminal": "8",
+                "gate": null,
+                "delay": 20,
+                "scheduled": "2020-03-03T18:00:00+00:00",
+                "estimated": "2020-03-03T18:00:00+00:00",
+                "actual": "2020-03-03T18:20:00+00:00",
+                "estimated_runway": "2020-03-03T18:20:00+00:00",
+                "actual_runway": "2020-03-03T18:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Los Angeles International",
+                "timezone": "America/Los_Angeles",
+                "iata": "LAX",
+                "icao": "KLAX",
+                "terminal": "B",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2020-03-03T21:05:00+00:00",
+                "estimated": "2020-03-03T21:05:00+00:00",
+                "actual": "2020-03-03T20:38:00+00:00",
+                "estimated_runway": "2020-03-03T20:38:00+00:00",
+                "actual_runway": "2020-03-03T20:38:00+00:00"
+            },
+            "airline": {
+                "name": "Qantas",
+                "iata": "QF",
+                "icao": "QFA"
+            },
+            "flight": {
+                "number": "12",
+                "iata": "QF12",
+                "icao": "QFA12",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "VHOQD",
+                "iata": "A388",
+                "icao": "A388",
+                "icao24": "7C4923"
+            },
+            "live": null
+        }
+    ]
+}
